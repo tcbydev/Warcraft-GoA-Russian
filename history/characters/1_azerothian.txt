@@ -144,7 +144,7 @@
 }
 # No-canon
 25={
-	name=Role
+	name=Роул
 	dynasty=1
 	dna="bnljboeacnh"
 	culture=azerothian religion=holy_light
@@ -343,7 +343,7 @@
 	215.8.17={ death=yes }
 }
 43={
-	name=Ang
+	name=Анг
 	dynasty=1
 	dna="obkeaclmdmo"
 	culture=azerothian religion=holy_light
@@ -354,7 +354,7 @@
 	226.7.23={ death=yes }
 }
 44={
-	name=Ripley
+	name=Рипли
 	dynasty=1
 	dna="giggdeoinoo"
 	culture=azerothian religion=holy_light
@@ -366,7 +366,7 @@
 	214.8.19={ death=yes }
 }
 45={
-	name=Gavin
+	name=Гавин
 	dynasty=1
 	dna="gbeglcfmpoo"
 	culture=azerothian religion=holy_light
@@ -377,7 +377,7 @@
 	211.1.24={ death=yes }
 }
 46={
-	name=Elbridge
+	name=Элбридж
 	dynasty=1
 	dna="nilgdcfiooo"
 	culture=azerothian religion=holy_light
@@ -389,7 +389,7 @@
 	239.11.16={ death=yes }
 }
 47={
-	name=Marcovefa
+	name=Марковефа
 	female=yes
 	dynasty=1
 	dna="gikgdcfmono"
@@ -399,7 +399,7 @@
 	221.8.1={ death=yes }
 }
 48={
-	name=Farrin
+	name=Фаррин
 	dynasty=1
 	dna="oingipppeic"
 	culture=azerothian religion=holy_light
@@ -411,7 +411,7 @@
 	234.4.10={ death=yes }
 }
 49={
-	name=Chilton
+	name=Чилтон
 	dynasty=1
 	dna="oikhbgplefo"
 	culture=azerothian religion=holy_light
@@ -423,7 +423,7 @@
 	236.4.29={ death=yes }
 }
 50={
-	name=Carson
+	name=Карсон
 	dynasty=1
 	dna="iiecnpnpekn"
 	culture=azerothian religion=holy_light
@@ -434,7 +434,7 @@
 	266.9.24={ death=yes }
 }
 51={
-	name=Ander
+	name=Андер
 	dynasty=1
 	dna="oilgicgkepj"
 	culture=azerothian religion=holy_light
@@ -446,7 +446,7 @@
 	234.9.15={ death=yes }
 }
 52={
-	name=Elenor
+	name=Элинор
 	female=yes
 	dynasty=1
 	dna="oikhjlcpccc"
@@ -456,7 +456,7 @@
 	281.12.17={ death=yes }
 }
 53={
-	name=Thorne
+	name=Торн
 	dynasty=1
 	dna="oinfapppfac"
 	culture=azerothian religion=holy_light
@@ -468,7 +468,7 @@
 	275.11.6={ death=yes }
 }
 54={
-	name=Caledra
+	name=Каледра
 	female=yes
 	dynasty=1
 	dna="oijgippflia"
@@ -478,7 +478,7 @@
 	265.6.21={ death=yes }
 }
 55={
-	name=Varian
+	name=Вариан
 	dynasty=1
 	dna="milginppebg"
 	culture=azerothian religion=holy_light
@@ -489,7 +489,7 @@
 	266.4.6={ death=yes }
 }
 56={
-	name=Winward
+	name=Винвард
 	dynasty=1
 	dna="fiefalpnfmb"
 	culture=azerothian religion=holy_light
@@ -500,7 +500,7 @@
 	303.8.14={ death=yes }
 }
 57={
-	name=Catrina
+	name=Катрина
 	female=yes
 	dynasty=1
 	dna="bfnfgpkmfam"
@@ -510,7 +510,7 @@
 	303.5.15={ death=yes }
 }
 58={
-	name=Ello
+	name=Элло
 	dynasty=1
 	dna="bcnfapgpfac"
 	culture=azerothian religion=holy_light
@@ -521,7 +521,7 @@
 	319.9.23={ death=yes }
 }
 59={
-	name=Noira
+	name=Нуара
 	female=yes
 	dynasty=1
 	dna="agefidpdfmg"
@@ -531,7 +531,7 @@
 	313.2.20={ death=yes }
 }
 60={
-	name=Carrington
+	name=Керрингтон 
 	dynasty=1
 	dna="mdelapdiedb"
 	culture=azerothian religion=holy_light
@@ -543,7 +543,7 @@
 	326.9.2={ death=yes }
 }
 61={
-	name=Sybil
+	name=Сибилла
 	female=yes
 	dynasty=1
 	dna="fiejhonapmc"
@@ -553,7 +553,7 @@
 	342.7.3={ death=yes }
 }
 62={
-	name=Ember
+	name=Эмбер
 	female=yes
 	dynasty=1
 	dna="iieoaipngdb"
@@ -563,7 +563,7 @@
 	310.6.14={ death=yes }
 }
 63={
-	name=Angus
+	name=Ангус
 	dynasty=1
 	dna="mhepdfdipbb"
 	culture=azerothian religion=holy_light
@@ -575,7 +575,7 @@
 	350.12.6={ death=yes }
 }
 64={
-	name=Aysa
+	name=Аиса
 	female=yes
 	dynasty=1
 	dna="mjepjpciobf"
@@ -585,7 +585,7 @@
 	364.5.21={ death=yes }
 }
 65={
-	name=Nico
+	name=Нико
 	dynasty=1
 	dna="adelfpbkedc"
 	culture=azerothian religion=holy_light
@@ -597,7 +597,7 @@
 	354.7.7={ death=yes }
 }
 66={
-	name=Ramona
+	name=Рамона
 	female=yes
 	dynasty=1
 	dna="mnelhmhhedb"
@@ -607,7 +607,7 @@
 	375.8.9={ death=yes }
 }
 67={
-	name=Isolde
+	name=Изольда
 	female=yes
 	dynasty=1
 	dna="fejjabdhekc"
@@ -617,7 +617,7 @@
 	381.4.2={ death=yes }
 }
 68={
-	name=Noreen
+	name=Норин
 	female=yes
 	dynasty=1
 	dna="mdeoaooikgb"
@@ -627,7 +627,7 @@
 	372.11.26={ death=yes }
 }
 69={
-	name=Bazzil
+	name=Бэззил
 	dynasty=1
 	dna="mkdeapdfkdb"
 	culture=azerothian religion=holy_light
@@ -638,7 +638,7 @@
 	402.10.29={ death=yes }
 }
 70={
-	name=Barrett
+	name=Барретт
 	dynasty=1
 	dna="djeglfdkpbm"
 	culture=azerothian religion=holy_light
@@ -649,7 +649,7 @@
 	370.3.18={ death=yes }
 }
 71={
-	name=Alma
+	name=Альма
 	female=yes
 	dynasty=1
 	dna="fbipdfpipnm"
@@ -659,7 +659,7 @@
 	375.5.22={ death=yes }
 }
 72={
-	name=Dwenn
+	name=Двенн
 	dynasty=1
 	dna="meeedhdikbn"
 	culture=azerothian religion=holy_light
@@ -670,7 +670,7 @@
 	415.8.28={ death=yes }
 }
 73={
-	name=Hyatt
+	name=Хаятт
 	dynasty=1
 	dna="jmenolclpbm"
 	culture=azerothian religion=holy_light
@@ -681,7 +681,7 @@
 	386.4.13={ death=yes }
 }
 74={
-	name=Ann
+	name=Энн
 	female=yes
 	dynasty=1
 	dna="ocjgnkbkplf"
@@ -691,7 +691,7 @@
 	396.12.4={ death=yes }
 }
 75={
-	name=Stuart
+	name=Стюарт
 	dynasty=1
 	dna="daeejfdeibm"
 	culture=azerothian religion=holy_light
@@ -702,7 +702,7 @@
 	420.3.15={ death=yes }
 }
 76={
-	name=Acton
+	name=Актон
 	dynasty=1
 	dna="omenkiilhbm"
 	culture=azerothian religion=holy_light
@@ -713,7 +713,7 @@
 	425.7.27={ death=yes }
 }
 77={
-	name=Bethany
+	name=Бетани
 	female=yes
 	dynasty=1
 	dna="jmedolblplm"
@@ -723,7 +723,7 @@
 	427.2.4={ death=yes }
 }
 78={
-	name=Celsa
+	name=Селса
 	female=yes
 	dynasty=1
 	dna="jeloblgekbj"
@@ -733,7 +733,7 @@
 	432.6.13={ death=yes }
 }
 79={
-	name=Lizbeth
+	name=Лизбет
 	female=yes
 	dynasty=1
 	dna="pmjnflcmcak"
@@ -743,7 +743,7 @@
 	440.4.14={ death=yes }
 }
 80={
-	name=Adam
+	name=Адам
 	dynasty=1
 	dna="obknohplhmd"
 	culture=azerothian religion=holy_light
@@ -755,7 +755,7 @@
 	456.1.30={ death=yes }
 }
 81={
-	name=Sandon
+	name=Сандон
 	dynasty=1
 	dna="omeajpikdmm"
 	culture=azerothian religion=holy_light
@@ -766,7 +766,7 @@
 	440.4.16={ death=yes }
 }
 82={
-	name=Gilian
+	name=Джиллиан
 	female=yes
 	dynasty=1
 	dna="omeckibimbm"
@@ -778,7 +778,7 @@
 
 # dynasty=2 Lescovar Stormwind nobles, have seat in House of Nobles
 100={
-	name=Ang
+	name=Анг
 	dynasty=2
 	dna="knongnadmdj"
 	culture=azerothian religion=holy_light
@@ -788,7 +788,7 @@
 	94.10.5={ death=yes }
 }
 101={
-	name=Sydell
+	name=Сайделл
 	dynasty=2
 	dna="keonhnacmaj"
 	culture=azerothian religion=holy_light
@@ -800,7 +800,7 @@
 	95.8.5={ death=yes }
 }
 102={
-	name=Dwite
+	name=Двайт
 	dynasty=2
 	dna="knkngnajmlj"
 	culture=azerothian religion=holy_light
@@ -811,7 +811,7 @@
 	129.7.24={ death=yes }
 }
 103={
-	name=Varian
+	name=Вариан
 	dynasty=2
 	dna="jjodanddmdd"
 	culture=azerothian religion=holy_light
@@ -822,7 +822,7 @@
 	108.3.2={ death=yes }
 }
 104={
-	name=Role
+	name=Роул
 	dynasty=2
 	dna="gpohnlghodk"
 	culture=azerothian religion=holy_light
@@ -834,7 +834,7 @@
 	117.12.3={ death=yes }
 }
 105={
-	name=Edwardson
+	name=Эдвардсон
 	dynasty=2
 	dna="kagnknacmif"
 	culture=azerothian religion=holy_light
@@ -846,7 +846,7 @@
 	159.4.4={ death=yes }
 }
 106={
-	name=Shayne
+	name=Шейн
 	dynasty=2
 	dna="alogfaaeaaf"
 	culture=azerothian religion=holy_light
@@ -857,7 +857,7 @@
 	131.6.19={ death=yes }
 }
 107={
-	name=Eliza
+	name=Элиза
 	female=yes
 	dynasty=2
 	dna="njolkienakf"
@@ -867,7 +867,7 @@
 	167.3.21={ death=yes }
 }
 108={
-	name=Varia
+	name=Вария
 	female=yes
 	dynasty=2
 	dna="gcdnanbcmik"
@@ -877,7 +877,7 @@
 	158.4.7={ death=yes }
 }
 109={
-	name=Lizbeth
+	name=Лизбет
 	female=yes
 	dynasty=2
 	dna="kagnkgkllik"
@@ -887,7 +887,7 @@
 	183.10.13={ death=yes }
 }
 110={
-	name=Gilian
+	name=Джиллиан
 	female=yes
 	dynasty=2
 	dna="bajiikacmhl"
@@ -897,7 +897,7 @@
 	177.1.19={ death=yes }
 }
 111={
-	name=Thoradin
+	name=Торадин
 	dynasty=2
 	dna="naocfeaimcf"
 	culture=azerothian religion=holy_light
@@ -909,7 +909,7 @@
 	173.7.23={ death=yes }
 }
 112={
-	name=Tiffin
+	name=Тиффин
 	female=yes
 	dynasty=2
 	dna="eagnkopoein"
@@ -919,7 +919,7 @@
 	184.10.30={ death=yes }
 }
 113={
-	name=Wilson
+	name=Уилсон
 	dynasty=2
 	dna="kagngfacmif"
 	culture=azerothian religion=holy_light
@@ -931,7 +931,7 @@
 	178.10.12={ death=yes }
 }
 114={
-	name=Anastasia
+	name=Анастасия
 	female=yes
 	dynasty=2
 	dna="bjgjknacbib"
@@ -941,7 +941,7 @@
 	210.12.25={ death=yes }
 }
 115={
-	name=Adrien
+	name=Адриан
 	dynasty=2
 	dna="neodfdhincf"
 	culture=azerothian religion=holy_light
@@ -953,7 +953,7 @@
 	212.12.23={ death=yes }
 }
 116={
-	name=Marcovefa
+	name=Марковефа
 	female=yes
 	dynasty=2
 	dna="nlogfenommf"
@@ -963,7 +963,7 @@
 	214.9.2={ death=yes }
 }
 117={
-	name=Benjamin
+	name=Бенджамин
 	dynasty=2
 	dna="nadfbblbged"
 	culture=azerothian religion=holy_light
@@ -974,7 +974,7 @@
 	199.4.26={ death=yes }
 }
 118={
-	name=Mirelle
+	name=Мирель
 	female=yes
 	dynasty=2
 	dna="ncnialakpnl"
@@ -984,7 +984,7 @@
 	190.12.22={ death=yes }
 }
 119={
-	name=Hogan
+	name=Хоган
 	dynasty=2
 	dna="nkocfeaimcb"
 	culture=azerothian religion=holy_light
@@ -996,7 +996,7 @@
 	225.1.20={ death=yes }
 }
 120={
-	name=Llane
+	name=Ллейн
 	dynasty=2
 	dna="naohieghmmk"
 	culture=azerothian religion=holy_light
@@ -1007,7 +1007,7 @@
 	214.1.1={ death=yes }
 }
 121={
-	name=Caledra
+	name=Каледра
 	female=yes
 	dynasty=2
 	dna="mjjlfmekakc"
@@ -1017,7 +1017,7 @@
 	249.3.27={ death=yes }
 }
 122={
-	name=Dwenn
+	name=Двенн
 	dynasty=2
 	dna="nfbdfdlindm"
 	culture=azerothian religion=holy_light
@@ -1028,7 +1028,7 @@
 	241.10.21={ death=yes }
 }
 123={
-	name=Lucille
+	name=Люсиль
 	female=yes
 	dynasty=2
 	dna="neodfdlancn"
@@ -1038,7 +1038,7 @@
 	254.8.20={ death=yes }
 }
 124={
-	name=Dwyght
+	name=Дуайт
 	dynasty=2
 	dna="ofodfdhclgf"
 	culture=azerothian religion=holy_light
@@ -1049,7 +1049,7 @@
 	252.7.1={ death=yes }
 }
 125={
-	name=Carson
+	name=Карсон
 	dynasty=2
 	dna="kfbnnllindl"
 	culture=azerothian religion=holy_light
@@ -1061,7 +1061,7 @@
 	261.2.10={ death=yes }
 }
 126={
-	name=Bernard
+	name=Бернард
 	dynasty=2
 	dna="ifblgomhodm"
 	culture=azerothian religion=holy_light
@@ -1073,7 +1073,7 @@
 	279.9.24={ death=yes }
 }
 127={
-	name=Edwardson
+	name=Эдвардсон
 	dynasty=2
 	dna="nmbjfflpghm"
 	culture=azerothian religion=holy_light
@@ -1084,7 +1084,7 @@
 	288.9.10={ death=yes }
 }
 128={
-	name=Chilton
+	name=Чилтон
 	dynasty=2
 	dna="giidnlcinnb"
 	culture=azerothian religion=holy_light
@@ -1095,7 +1095,7 @@
 	286.2.11={ death=yes }
 }
 129={
-	name=Jackson
+	name=Джексон
 	dynasty=2
 	dna="habinahnndl"
 	culture=azerothian religion=holy_light
@@ -1106,7 +1106,7 @@
 	308.7.15={ death=yes }
 }
 130={
-	name=Renato
+	name=Ренато
 	dynasty=2
 	dna="kdgnnonehdk"
 	culture=azerothian religion=holy_light
@@ -1151,7 +1151,7 @@
 	363.4.28={ death=yes }
 }
 134={
-	name=Jackson
+	name=Джексон
 	dynasty=2
 	dna="gjonnljpbnf"
 	culture=azerothian religion=holy_light
@@ -1238,7 +1238,7 @@
 	375.4.8={ death=yes }
 }
 142={
-	name=Tiffin
+	name=Тиффин
 	female=yes
 	dynasty=2
 	dna="ipbndncbebb"
@@ -1279,7 +1279,7 @@
 	421.5.25={ death=yes }
 }
 146={
-	name=Winward
+	name=Винвард
 	dynasty=2
 	dna="cidlbedkflj"
 	culture=azerothian religion=holy_light
@@ -1311,7 +1311,7 @@
 	448.9.25={ death=yes }
 }
 149={
-	name=Ann
+	name=Энн
 	female=yes
 	dynasty=2
 	dna="dejmnkehfdl"
@@ -1321,7 +1321,7 @@
 	449.4.22={ death=yes }
 }
 150={
-	name=Varian
+	name=Вариан
 	dynasty=2
 	dna="hoaanlmpanl"
 	culture=azerothian religion=holy_light
@@ -1355,7 +1355,7 @@
 	451.3.31={ death=yes }
 }
 153={
-	name=Marcovefa
+	name=Марковефа
 	female=yes
 	dynasty=2
 	dna="ahjnkbkbnel"
@@ -1442,7 +1442,7 @@
 	511.2.9={ death=yes }
 }
 161={
-	name=Adrien
+	name=Адриан
 	dynasty=2
 	dna="emjhjoeoaco"
 	culture=azerothian religion=holy_light
@@ -1560,7 +1560,7 @@
 	562.11.3={ death=yes }
 }
 172={
-	name=Bernard
+	name=Бернард
 	dynasty=2
 	dna="eejhpchomci"
 	culture=azerothian religion=holy_light
@@ -1571,7 +1571,7 @@
 	575.1.24={ death=yes }
 }
 173={
-	name=Llane
+	name=Ллейн
 	dynasty=2
 	dna="efeoncmolbm"
 	culture=azerothian religion=holy_light
@@ -1733,7 +1733,7 @@
 	164.12.18={ death=yes }
 }
 209={
-	name=Aysa
+	name=Аиса
 	female=yes
 	dynasty=3
 	dna="bemgjclchbk"
@@ -1809,7 +1809,7 @@
 	178.2.11={ death=yes }
 }
 216={
-	name=Ramona
+	name=Рамона
 	female=yes
 	dynasty=3
 	dna="lhpmnlgccpb"
@@ -1852,7 +1852,7 @@
 	261.5.20={ death=yes }
 }
 220={
-	name=Mirelle
+	name=Мирель
 	female=yes
 	dynasty=3
 	dna="bgpggobclda"
@@ -1896,7 +1896,7 @@
 	260.4.16={ death=yes }
 }
 224={
-	name=Winward
+	name=Винвард
 	dynasty=3
 	dna="khdmebjfhkd"
 	culture=azerothian religion=holy_light
@@ -1920,7 +1920,7 @@
 	299.5.4={ death=yes }
 }
 226={
-	name=Nico
+	name=Нико
 	dynasty=3
 	dna="linmogjcagd"
 	culture=azerothian religion=holy_light
@@ -1931,7 +1931,7 @@
 	307.11.3={ death=yes }
 }
 227={
-	name=Alma
+	name=Альма
 	female=yes
 	dynasty=3
 	dna="hpgnegjopnl"
@@ -1963,7 +1963,7 @@
 	303.5.10={ death=yes }
 }
 230={
-	name=Elenor
+	name=Элинор
 	female=yes
 	dynasty=3
 	dna="kidmebbfhcd"
@@ -1973,7 +1973,7 @@
 	295.9.25={ death=yes }
 }
 231={
-	name=Hyatt
+	name=Хаятт
 	dynasty=3
 	dna="ohdmebijhkp"
 	culture=azerothian religion=holy_light
@@ -2097,7 +2097,7 @@
 	391.2.19={ death=yes }
 }
 242={
-	name=Sandon
+	name=Сандон
 	dynasty=3
 	dna="icjnjpkcngg"
 	culture=azerothian religion=holy_light
@@ -2109,7 +2109,7 @@
 	405.8.27={ death=yes }
 }
 243={
-	name=Gilian
+	name=Джиллиан
 	female=yes
 	dynasty=3
 	dna="jckadkkimkn"
@@ -2119,7 +2119,7 @@
 	415.5.30={ death=yes }
 }
 244={
-	name=Varia
+	name=Вария
 	female=yes
 	dynasty=3
 	dna="jcjfddnenca"
@@ -2174,7 +2174,7 @@
 	463.4.11={ death=yes }
 }
 249={
-	name=Renato
+	name=Ренато
 	dynasty=3
 	dna="ijhnbpncngg"
 	culture=azerothian religion=holy_light
@@ -2218,7 +2218,7 @@
 	473.11.27={ death=yes }
 }
 253={
-	name=Mirelle
+	name=Мирель
 	female=yes
 	dynasty=3
 	dna="ekcbjifkngd"
@@ -2228,7 +2228,7 @@
 	499.3.2={ death=yes }
 }
 254={
-	name=Bethany
+	name=Бетани
 	female=yes
 	dynasty=3
 	dna="delbocdmfgn"
@@ -2238,7 +2238,7 @@
 	478.6.7={ death=yes }
 }
 255={
-	name=Isolde
+	name=Изольда
 	female=yes
 	dynasty=3
 	dna="pjcakfhgfgc"
@@ -2272,7 +2272,7 @@
 	513.10.30={ death=yes }
 }
 258={
-	name=Bazzil
+	name=Бэззил
 	dynasty=3
 	dna="dlfdolpfjgk"
 	culture=azerothian religion=holy_light
@@ -2284,7 +2284,7 @@
 	511.11.19={ death=yes }
 }
 259={
-	name=Thoradin
+	name=Торадин
 	dynasty=3
 	dna="fhpaochnlga"
 	culture=azerothian religion=holy_light
@@ -2295,7 +2295,7 @@
 	535.9.3={ death=yes }
 }
 260={
-	name=Caledra
+	name=Каледра
 	female=yes
 	dynasty=3
 	dna="dockocbojcb"
@@ -2349,7 +2349,7 @@
 	553.9.14={ death=yes }
 }
 265={
-	name=Ander
+	name=Андер
 	dynasty=3
 	dna="docdecnkjen"
 	culture=azerothian religion=holy_light
@@ -2393,7 +2393,7 @@
 	571.4.29={ death=yes }
 }
 269={
-	name=Barrett
+	name=Барретт
 	dynasty=3
 	dna="eoikbbmganh"
 	culture=azerothian religion=holy_light
@@ -2435,7 +2435,7 @@
 }
 # Kinda lore 3 daughters of Bolten Vanyst
 272={
-	name=Isolde
+	name=Изольда
 	female=yes
 	dynasty=3
 	dna="cdokjgnneig"
@@ -2446,7 +2446,7 @@
 	657.6.5={ death=yes }
 }
 273={
-	name=Ramona
+	name=Рамона
 	female=yes
 	dynasty=3
 	dna="kljbjnbmjic"
@@ -2513,7 +2513,7 @@
 	55.11.7={ death=yes }
 }
 301={
-	name=Role
+	name=Роул
 	dynasty=4
 	dna="ocaecphenjk"
 	culture=azerothian religion=holy_light
@@ -2525,7 +2525,7 @@
 	81.11.26={ death=yes }
 }
 302={
-	name=Ang
+	name=Анг
 	dynasty=4
 	dna="iondelfekmh"
 	culture=azerothian religion=holy_light
@@ -2580,7 +2580,7 @@
 	144.11.23={ death=yes }
 }
 307={
-	name=Alma
+	name=Альма
 	female=yes
 	dynasty=4
 	dna="gcaeplhoijk"
@@ -2590,7 +2590,7 @@
 	120.6.11={ death=yes }
 }
 308={
-	name=Sandon
+	name=Сандон
 	dynasty=4
 	dna="ffgeiphecfb"
 	culture=azerothian religion=holy_light
@@ -2601,7 +2601,7 @@
 	142.1.4={ death=yes }
 }
 309={
-	name=Sandon
+	name=Сандон
 	dynasty=4
 	dna="ocadcphnnjk"
 	culture=azerothian religion=holy_light
@@ -2612,7 +2612,7 @@
 	147.2.2={ death=yes }
 }
 310={
-	name=Ember
+	name=Эмбер
 	female=yes
 	dynasty=4
 	dna="hhcecpiemej"
@@ -2687,7 +2687,7 @@
 	191.3.19={ death=yes }
 }
 317={
-	name=Alma
+	name=Альма
 	female=yes
 	dynasty=4
 	dna="caleejhfdjg"
@@ -2720,7 +2720,7 @@
 	211.4.5={ death=yes }
 }
 320={
-	name=Acton
+	name=Актон
 	dynasty=4
 	dna="chaacmgepaa"
 	culture=azerothian religion=holy_light
@@ -2753,7 +2753,7 @@
 	222.8.26={ death=yes }
 }
 323={
-	name=Elenor
+	name=Элинор
 	female=yes
 	dynasty=4
 	dna="chgpclheojd"
@@ -2943,7 +2943,7 @@
 	332.4.10={ death=yes }
 }
 341={
-	name=Barrett
+	name=Барретт
 	dynasty=4
 	dna="lfoaklgildd"
 	culture=azerothian religion=holy_light
@@ -2954,7 +2954,7 @@
 	358.4.9={ death=yes }
 }
 342={
-	name=Role
+	name=Роул
 	dynasty=4
 	dna="lhipnanfldf"
 	culture=azerothian religion=holy_light
@@ -2999,7 +2999,7 @@
 	390.3.1={ death=yes }
 }
 346={
-	name=Sybil
+	name=Сибилла
 	female=yes
 	dynasty=4
 	dna="lfoabegolde"
@@ -3097,7 +3097,7 @@
 	458.11.26={ death=yes }
 }
 355={
-	name=Sandon
+	name=Сандон
 	dynasty=4
 	dna="abdnelpfdoe"
 	culture=azerothian religion=holy_light
@@ -3173,7 +3173,7 @@
 	468.1.28={ death=yes }
 }
 362={
-	name=Hyatt
+	name=Хаятт
 	dynasty=4
 	dna="jidaelpedne"
 	culture=azerothian religion=holy_light
@@ -3273,7 +3273,7 @@
 	578.5.19={ death=yes }
 }
 371={
-	name=Gilian
+	name=Джиллиан
 	female=yes
 	dynasty=4
 	dna="oaahkmpnoln"
@@ -3370,7 +3370,7 @@
 	646.9.18={ death=yes }
 }
 380={
-	name=Wilson
+	name=Уилсон
 	dynasty=4
 	dna="konpbcggeji"
 	culture=azerothian religion=holy_light
@@ -3428,7 +3428,7 @@
 
 # dynasty=5 Ellerian	Dynasty of Varian's wife
 400={
-	name=Carson
+	name=Карсон
 	dynasty=5
 	dna="iolodedodjf"
 	culture=azerothian religion=holy_light
@@ -3469,7 +3469,7 @@
 	90.10.24={ death=yes }
 }
 404={
-	name=Elenor
+	name=Элинор
 	female=yes
 	dynasty=5
 	dna="lofodffodof"
@@ -3500,7 +3500,7 @@
 	114.8.9={ death=yes }
 }
 407={
-	name=Adrien
+	name=Адриан
 	dynasty=5
 	dna="eclodeaodmf"
 	culture=azerothian religion=holy_light
@@ -3580,7 +3580,7 @@
 	156.10.28={ death=yes }
 }
 414={
-	name=Noira
+	name=Нуара
 	female=yes
 	dynasty=5
 	dna="podjdbhddcd"
@@ -3611,7 +3611,7 @@
 	146.1.19={ death=yes }
 }
 417={
-	name=Varian
+	name=Вариан
 	dynasty=5
 	dna="hoegcjnnbjb"
 	culture=azerothian religion=holy_light
@@ -3633,7 +3633,7 @@
 	183.10.31={ death=yes }
 }
 419={
-	name=Role
+	name=Роул
 	dynasty=5
 	dna="ejebjoomcfe"
 	culture=azerothian religion=holy_light
@@ -3666,7 +3666,7 @@
 	197.10.19={ death=yes }
 }
 422={
-	name=Jackson
+	name=Джексон
 	dynasty=5
 	dna="efdbhpoenbl"
 	culture=azerothian religion=holy_light
@@ -3678,7 +3678,7 @@
 	191.10.8={ death=yes }
 }
 423={
-	name=Angus
+	name=Ангус
 	dynasty=5
 	dna="phobgoofcfe"
 	culture=azerothian religion=holy_light
@@ -3742,7 +3742,7 @@
 	247.9.26={ death=yes }
 }
 429={
-	name=Acton
+	name=Актон
 	dynasty=5
 	dna="ejehjgnmccc"
 	culture=azerothian religion=holy_light
@@ -3753,7 +3753,7 @@
 	264.11.7={ death=yes }
 }
 430={
-	name=Ann
+	name=Энн
 	female=yes
 	dynasty=5
 	dna="ciehbenpccd"
@@ -3817,7 +3817,7 @@
 	293.11.22={ death=yes }
 }
 436={
-	name=Hyatt
+	name=Хаятт
 	dynasty=5
 	dna="ihljcoemblc"
 	culture=azerothian religion=holy_light
@@ -3840,7 +3840,7 @@
 	283.12.17={ death=yes }
 }
 438={
-	name=Eliza
+	name=Элиза
 	female=yes
 	dynasty=5
 	dna="mhbhojcmhfm"
@@ -3956,7 +3956,7 @@
 	345.11.12={ death=yes }
 }
 449={
-	name=Ang
+	name=Анг
 	dynasty=5
 	dna="bggalldmljg"
 	culture=azerothian religion=holy_light
@@ -3977,7 +3977,7 @@
 	367.1.28={ death=yes }
 }
 451={
-	name=Bazzil
+	name=Бэззил
 	dynasty=5
 	dna="bgopldoelme"
 	culture=azerothian religion=holy_light
@@ -3989,7 +3989,7 @@
 	356.10.19={ death=yes }
 }
 452={
-	name=Ember
+	name=Эмбер
 	female=yes
 	dynasty=5
 	dna="bigabkfmmjf"
@@ -4019,7 +4019,7 @@
 	387.6.30={ death=yes }
 }
 455={
-	name=Ann
+	name=Энн
 	female=yes
 	dynasty=5
 	dna="jgopldoepne"
@@ -4084,7 +4084,7 @@
 	441.12.29={ death=yes }
 }
 461={
-	name=Chilton
+	name=Чилтон
 	dynasty=5
 	dna="apobhdeelme"
 	culture=azerothian religion=holy_light
@@ -4096,7 +4096,7 @@
 	453.5.24={ death=yes }
 }
 462={
-	name=Ann
+	name=Энн
 	female=yes
 	dynasty=5
 	dna="ngnapgobgfb"
@@ -4127,7 +4127,7 @@
 	495.5.23={ death=yes }
 }
 465={
-	name=Bernard
+	name=Бернард
 	dynasty=5
 	dna="ngogelohbcf"
 	culture=azerothian religion=holy_light
@@ -4139,7 +4139,7 @@
 	516.11.23={ death=yes }
 }
 466={
-	name=Lizbeth
+	name=Лизбет
 	female=yes
 	dynasty=5
 	dna="debepjbiidl"
@@ -4181,7 +4181,7 @@
 	528.2.25={ death=yes }
 }
 470={
-	name=Ann
+	name=Энн
 	female=yes
 	dynasty=5
 	dna="oaogdlofocj"
@@ -4212,7 +4212,7 @@
 	536.10.27={ death=yes }
 }
 473={
-	name=Ander
+	name=Андер
 	dynasty=5
 	dna="ojghklibcjn"
 	culture=azerothian religion=holy_light
@@ -4234,7 +4234,7 @@
 	564.6.6={ death=yes }
 }
 475={
-	name=Hogan
+	name=Хоган
 	dynasty=5
 	dna="plohalljbja"
 	culture=azerothian religion=holy_light
@@ -4246,7 +4246,7 @@
 	548.1.9={ death=yes }
 }
 476={
-	name=Sydell
+	name=Сайделл
 	dynasty=5
 	dna="lbojjhojede"
 	culture=azerothian religion=holy_light
@@ -4290,7 +4290,7 @@
 	593.9.12={ death=yes }
 }
 479={
-	name=Eliza
+	name=Элиза
 	female=yes
 	dynasty=5
 	dna="obgcgpiafdd"
@@ -4322,7 +4322,7 @@
 }
 # Tiffin Ellerian Wrynn
 482={
-	name=Tiffin
+	name=Тиффин
 	female=yes
 	dynasty=5
 	dna="000b0000000"
@@ -4382,7 +4382,7 @@
 
 # dynasty=6 Ebonlocke Dynasty of Darkshire's mayor
 500={
-	name=Chilton
+	name=Чилтон
 	dynasty=6
 	dna="nkpdnhehkcd"
 	culture=azerothian religion=holy_light
@@ -4403,7 +4403,7 @@
 	99.1.2={ death=yes }
 }
 502={
-	name=Edwardson
+	name=Эдвардсон
 	dynasty=6
 	dna="bbbhndelkje"
 	culture=azerothian religion=holy_light
@@ -4414,7 +4414,7 @@
 	85.8.12={ death=yes }
 }
 503={
-	name=Thorne
+	name=Торн
 	dynasty=6
 	dna="jkpjdhacbdd"
 	culture=azerothian religion=holy_light
@@ -4502,7 +4502,7 @@
 	200.12.30={ death=yes }
 }
 511={
-	name=Shayne
+	name=Шейн
 	dynasty=6
 	dna="oppcmooilfk"
 	culture=azerothian religion=holy_light
@@ -4513,7 +4513,7 @@
 	198.11.27={ death=yes }
 }
 512={
-	name=Caledra
+	name=Каледра
 	female=yes
 	dynasty=6
 	dna="bpjemnojmfj"
@@ -4523,7 +4523,7 @@
 	199.3.1={ death=yes }
 }
 513={
-	name=Bazzil
+	name=Бэззил
 	dynasty=6
 	dna="onfgohoecfg"
 	culture=azerothian religion=holy_light
@@ -4557,7 +4557,7 @@
 	203.8.14={ death=yes }
 }
 516={
-	name=Llane
+	name=Ллейн
 	dynasty=6
 	dna="agpamohicod"
 	culture=azerothian religion=holy_light
@@ -4688,7 +4688,7 @@
 	283.9.12={ death=yes }
 }
 528={
-	name=Stuart
+	name=Стюарт
 	dynasty=6
 	dna="lhbcfggelkf"
 	culture=azerothian religion=holy_light
@@ -4711,7 +4711,7 @@
 	321.2.9={ death=yes }
 }
 530={
-	name=Ramona
+	name=Рамона
 	female=yes
 	dynasty=6
 	dna="obckkgaphbp"
@@ -4745,7 +4745,7 @@
 	314.3.2={ death=yes }
 }
 533={
-	name=Acton
+	name=Актон
 	dynasty=6
 	dna="ihkbiolnjlo"
 	culture=azerothian religion=holy_light
@@ -4837,7 +4837,7 @@
 	380.6.18={ death=yes }
 }
 541={
-	name=Sybil
+	name=Сибилла
 	female=yes
 	dynasty=6
 	dna="iefailjkpgi"
@@ -4847,7 +4847,7 @@
 	384.4.8={ death=yes }
 }
 542={
-	name=Caledra
+	name=Каледра
 	female=yes
 	dynasty=6
 	dna="dacailkkhpi"
@@ -4878,7 +4878,7 @@
 	405.5.30={ death=yes }
 }
 545={
-	name=Ello
+	name=Элло
 	dynasty=6
 	dna="gljaaancnfg"
 	culture=azerothian religion=holy_light
@@ -4890,7 +4890,7 @@
 	412.8.13={ death=yes }
 }
 546={
-	name=Shayne
+	name=Шейн
 	dynasty=6
 	dna="ilaandakjdj"
 	culture=azerothian religion=holy_light
@@ -4947,7 +4947,7 @@
 	477.12.29={ death=yes }
 }
 551={
-	name=Farrin
+	name=Фаррин
 	dynasty=6
 	dna="baofboglgid"
 	culture=azerothian religion=holy_light
@@ -5165,7 +5165,7 @@
 	585.6.7={ death=yes }
 }
 571={
-	name=Wilson
+	name=Уилсон
 	dynasty=6
 	dna="bkficenpaei"
 	culture=azerothian religion=holy_light
@@ -5245,7 +5245,7 @@
 }
 # Lord Ello Ebonlocke
 578={
-	name=Ello
+	name=Элло
 	dynasty=6
 	dna="mblhmjnombj"
 	culture=azerothian religion=holy_light
@@ -5306,7 +5306,7 @@
 
 # dynasty=7 Erlgadin Stormwind nobles, have seat in House of Nobles
 600={
-	name=Thorne
+	name=Торн
 	dynasty=7
 	dna="aodfhcpnioi"
 	culture=azerothian religion=holy_light
@@ -5358,7 +5358,7 @@
 	82.5.27={ death=yes }
 }
 605={
-	name=Bernard
+	name=Бернард
 	dynasty=7
 	dna="iobfhcpllhi"
 	culture=azerothian religion=holy_light
@@ -5370,7 +5370,7 @@
 	111.1.31={ death=yes }
 }
 606={
-	name=Varia
+	name=Вария
 	female=yes
 	dynasty=7
 	dna="nocfhcdbohn"
@@ -5434,7 +5434,7 @@
 	156.10.2={ death=yes }
 }
 612={
-	name=Ember
+	name=Эмбер
 	female=yes
 	dynasty=7
 	dna="knlnhckmlhi"
@@ -5515,7 +5515,7 @@
 	192.6.20={ death=yes }
 }
 619={
-	name=Noira
+	name=Нуара
 	female=yes
 	dynasty=7
 	dna="cobpdlochfd"
@@ -5557,7 +5557,7 @@
 	214.10.20={ death=yes }
 }
 623={
-	name=Thoradin
+	name=Торадин
 	dynasty=7
 	dna="goolfkjddam"
 	culture=azerothian religion=holy_light
@@ -5578,7 +5578,7 @@
 	240.4.3={ death=yes }
 }
 625={
-	name=Lucille
+	name=Люсиль
 	female=yes
 	dynasty=7
 	dna="hobkdlfcaan"
@@ -5598,7 +5598,7 @@
 	239.4.30={ death=yes }
 }
 627={
-	name=Role
+	name=Роул
 	dynasty=7
 	dna="ggcpnlpmmac"
 	culture=azerothian religion=holy_light
@@ -5684,7 +5684,7 @@
 	280.8.5={ death=yes }
 }
 635={
-	name=Celsa
+	name=Селса
 	female=yes
 	dynasty=7
 	dna="ecckgppbapc"
@@ -5901,7 +5901,7 @@
 	465.2.19={ death=yes }
 }
 655={
-	name=Ang
+	name=Анг
 	dynasty=7
 	dna="obcabbhgfdp"
 	culture=azerothian religion=holy_light
@@ -5923,7 +5923,7 @@
 	477.10.19={ death=yes }
 }
 657={
-	name=Role
+	name=Роул
 	dynasty=7
 	dna="mkabkklkgdk"
 	culture=azerothian religion=holy_light
@@ -5977,7 +5977,7 @@
 	507.1.28={ death=yes }
 }
 662={
-	name=Farrin
+	name=Фаррин
 	dynasty=7
 	dna="mbabkbphcjk"
 	culture=azerothian religion=holy_light
@@ -6013,7 +6013,7 @@
 	511.12.9={ death=yes }
 }
 665={
-	name=Renato
+	name=Ренато
 	dynasty=7
 	dna="mmnbklicjoi"
 	culture=azerothian religion=holy_light
@@ -6078,7 +6078,7 @@
 	551.12.17={ death=yes }
 }
 671={
-	name=Ember
+	name=Эмбер
 	female=yes
 	dynasty=7
 	dna="mmdblpicdop"
@@ -6088,7 +6088,7 @@
 	551.4.21={ death=yes }
 }
 672={
-	name=Dwyght
+	name=Дуайт
 	dynasty=7
 	dna="epabgnjnjag"
 	culture=azerothian religion=holy_light
@@ -6174,7 +6174,7 @@
 	597.3.7={ death=yes }
 }
 679={
-	name=Carson
+	name=Карсон
 	dynasty=7
 	dna="ephbgncljag"
 	culture=azerothian religion=holy_light
@@ -6205,7 +6205,7 @@
 
 # dynasty=8 Berrybuck Nobles of Darkshire
 700={
-	name=Carrington
+	name=Керрингтон 
 	dynasty=8
 	dna="oeibjpfeedc"
 	culture=azerothian religion=holy_light
@@ -6312,7 +6312,7 @@
 	137.12.15={ death=yes }
 }
 710={
-	name=Role
+	name=Роул
 	dynasty=8
 	dna="oeidfocaldf"
 	culture=azerothian religion=holy_light
@@ -6323,7 +6323,7 @@
 	124.10.17={ death=yes }
 }
 711={
-	name=Ramona
+	name=Рамона
 	female=yes
 	dynasty=8
 	dna="cecgjlfmkdc"
@@ -6408,7 +6408,7 @@
 	185.1.19={ death=yes }
 }
 719={
-	name=Mirelle
+	name=Мирель
 	female=yes
 	dynasty=8
 	dna="geifbjapeea"
@@ -6484,7 +6484,7 @@
 	223.4.19={ death=yes }
 }
 726={
-	name=Noreen
+	name=Норин
 	female=yes
 	dynasty=8
 	dna="cjpkjnlgjan"
@@ -6580,7 +6580,7 @@
 	287.8.28={ death=yes }
 }
 735={
-	name=Anastasia
+	name=Анастасия
 	female=yes
 	dynasty=8
 	dna="jdpfkagabpn"
@@ -6613,7 +6613,7 @@
 	338.6.23={ death=yes }
 }
 738={
-	name=Gilian
+	name=Джиллиан
 	female=yes
 	dynasty=8
 	dna="ekbhkgpbian"
@@ -6658,7 +6658,7 @@
 	351.10.30={ death=yes }
 }
 742={
-	name=Lucille
+	name=Люсиль
 	female=yes
 	dynasty=8
 	dna="ckjjkleeple"
@@ -6668,7 +6668,7 @@
 	358.7.13={ death=yes }
 }
 743={
-	name=Nico
+	name=Нико
 	dynasty=8
 	dna="pkfnhfpppan"
 	culture=azerothian religion=holy_light
@@ -6679,7 +6679,7 @@
 	350.3.15={ death=yes }
 }
 744={
-	name=Winward
+	name=Винвард
 	dynasty=8
 	dna="fiajgfbnmbn"
 	culture=azerothian religion=holy_light
@@ -6702,7 +6702,7 @@
 	378.12.28={ death=yes }
 }
 746={
-	name=Winward
+	name=Винвард
 	dynasty=8
 	dna="bbabijplnjf"
 	culture=azerothian religion=holy_light
@@ -6714,7 +6714,7 @@
 	367.6.16={ death=yes }
 }
 747={
-	name=Anastasia
+	name=Анастасия
 	female=yes
 	dynasty=8
 	dna="dkaghlanmla"
@@ -6768,7 +6768,7 @@
 	406.8.2={ death=yes }
 }
 752={
-	name=Hogan
+	name=Хоган
 	dynasty=8
 	dna="gicaeffdmkl"
 	culture=azerothian religion=holy_light
@@ -6780,7 +6780,7 @@
 	428.5.20={ death=yes }
 }
 753={
-	name=Eliza
+	name=Элиза
 	female=yes
 	dynasty=8
 	dna="eibneffdmec"
@@ -6790,7 +6790,7 @@
 	435.5.31={ death=yes }
 }
 754={
-	name=Catrina
+	name=Катрина
 	female=yes
 	dynasty=8
 	dna="cgcjefenmhp"
@@ -6988,7 +6988,7 @@
 	545.6.11={ death=yes }
 }
 773={
-	name=Caledra
+	name=Каледра
 	female=yes
 	dynasty=8
 	dna="nfcgbffnnnn"
@@ -7072,7 +7072,7 @@
 	}
 }
 780={
-	name=Gilian
+	name=Джиллиан
 	female=yes
 	dynasty=8
 	dna="ihkfmjijnfi"
@@ -7118,7 +7118,7 @@
 	645.11.17={ death=yes }
 }
 784={
-	name=Jackson
+	name=Джексон
 	dynasty=8
 	dna="adgaadablhm"
 	culture=azerothian religion=holy_light
@@ -7130,7 +7130,7 @@
 	642.6.29={ death=yes }
 }
 785={
-	name=Aysa
+	name=Аиса
 	female=yes
 	dynasty=8
 	dna="kdgopbpnlch"
@@ -7207,7 +7207,7 @@
 	66.2.5={ death=yes }
 }
 801={
-	name=Winward
+	name=Винвард
 	dynasty=9
 	dna="dpabhpbekkm"
 	culture=azerothian religion=holy_light
@@ -7272,7 +7272,7 @@
 	104.9.13={ death=yes }
 }
 807={
-	name=Tiffin
+	name=Тиффин
 	female=yes
 	dynasty=9
 	dna="dijohhjejcg"
@@ -7391,7 +7391,7 @@
 	164.2.13={ death=yes }
 }
 818={
-	name=Shayne
+	name=Шейн
 	dynasty=9
 	dna="mgggkppeklm"
 	culture=azerothian religion=holy_light
@@ -7490,7 +7490,7 @@
 	248.2.26={ death=yes }
 }
 827={
-	name=Stuart
+	name=Стюарт
 	dynasty=9
 	dna="ccleeaiokao"
 	culture=azerothian religion=holy_light
@@ -7513,7 +7513,7 @@
 	275.7.21={ death=yes }
 }
 829={
-	name=Catrina
+	name=Катрина
 	female=yes
 	dynasty=9
 	dna="nmdaciplomp"
@@ -7599,7 +7599,7 @@
 	337.4.29={ death=yes }
 }
 837={
-	name=Llane
+	name=Ллейн
 	dynasty=9
 	dna="hjbolnfabff"
 	culture=azerothian religion=holy_light
@@ -7621,7 +7621,7 @@
 	351.9.19={ death=yes }
 }
 839={
-	name=Bethany
+	name=Бетани
 	female=yes
 	dynasty=9
 	dna="hajnfbnjiif"
@@ -7674,7 +7674,7 @@
 	349.8.19={ death=yes }
 }
 844={
-	name=Tiffin
+	name=Тиффин
 	female=yes
 	dynasty=9
 	dna="hdglgnlabfa"
@@ -7696,7 +7696,7 @@
 	364.12.21={ death=yes }
 }
 846={
-	name=Carson
+	name=Карсон
 	dynasty=9
 	dna="hjboopfabhl"
 	culture=azerothian religion=holy_light
@@ -7751,7 +7751,7 @@
 	393.1.19={ death=yes }
 }
 851={
-	name=Renato
+	name=Ренато
 	dynasty=9
 	dna="bcooghempap"
 	culture=azerothian religion=holy_light
@@ -7774,7 +7774,7 @@
 	425.10.22={ death=yes }
 }
 853={
-	name=Dwyght
+	name=Дуайт
 	dynasty=9
 	dna="minophembhk"
 	culture=azerothian religion=holy_light
@@ -7805,7 +7805,7 @@
 	447.10.10={ death=yes }
 }
 856={
-	name=Varian
+	name=Вариан
 	dynasty=9
 	dna="bpioobnmjac"
 	culture=azerothian religion=holy_light
@@ -7847,7 +7847,7 @@
 	460.4.28={ death=yes }
 }
 860={
-	name=Elenor
+	name=Элинор
 	female=yes
 	dynasty=9
 	dna="bpdfoanmllc"
@@ -7878,7 +7878,7 @@
 	453.1.23={ death=yes }
 }
 863={
-	name=Hyatt
+	name=Хаятт
 	dynasty=9
 	dna="bgmhobnonke"
 	culture=azerothian religion=holy_light
@@ -7911,7 +7911,7 @@
 	521.12.31={ death=yes }
 }
 866={
-	name=Sybil
+	name=Сибилла
 	female=yes
 	dynasty=9
 	dna="cplpobhaijk"
@@ -7921,7 +7921,7 @@
 	535.1.19={ death=yes }
 }
 867={
-	name=Dwyght
+	name=Дуайт
 	dynasty=9
 	dna="peipbmcggci"
 	culture=azerothian religion=holy_light
@@ -8031,7 +8031,7 @@
 	583.11.17={ death=yes }
 }
 877={
-	name=Carrington
+	name=Керрингтон 
 	dynasty=9
 	dna="pedpkbciona"
 	culture=azerothian religion=holy_light
@@ -8083,7 +8083,7 @@
 	628.1.31={ death=yes }
 }
 881={
-	name=Sydell
+	name=Сайделл
 	dynasty=9
 	dna="cfpgkpjjpha"
 	culture=azerothian religion=holy_light
@@ -8096,7 +8096,7 @@
 }
 #Hogan Ference
 882={
-	name=Hogan
+	name=Хоган
 	dynasty=9
 	dna="cbjldejegap"
 	culture=azerothian religion=holy_light
@@ -8143,7 +8143,7 @@
 	649.9.15={ death=yes }
 }
 886={
-	name=Nico
+	name=Нико
 	dynasty=9
 	dna="cbapemgenfm"
 	culture=azerothian religion=holy_light
@@ -8154,7 +8154,7 @@
 	686.7.8={ death=yes }
 }
 887={
-	name=Renato
+	name=Ренато
 	dynasty=9
 	dna="cjjllejpaag"
 	culture=azerothian religion=holy_light
@@ -8206,7 +8206,7 @@
 #dynasty=108 (Lothar)
 # Thoradin
 1005={
-	name=Thoradin
+	name=Торадин
 	# dynasty=108
 	dna="icaeddfhngm"
 	culture=arathorian religion=old_ways
@@ -8323,7 +8323,7 @@
 	175.2.3={ death=yes }
 }
 1021={
-	name=Alma
+	name=Альма
 	female=yes
 	dynasty=108
 	dna="lgkkjjmeped"
@@ -8356,7 +8356,7 @@
 	178.10.2={ death=yes }
 }
 1024={
-	name=Bazzil
+	name=Бэззил
 	dynasty=108
 	dna="pccbnljhpai"
 	culture=azerothian religion=holy_light
@@ -8469,7 +8469,7 @@
 	245.7.27={ death=yes }
 }
 1034={
-	name=Wilson
+	name=Уилсон
 	dynasty=108
 	dna="opcbnhjepah"
 	culture=azerothian religion=holy_light
@@ -8547,7 +8547,7 @@
 	292.8.26={ death=yes }
 }
 1041={
-	name=Ang
+	name=Анг
 	dynasty=108
 	dna="nccojljbjnj"
 	culture=azerothian religion=holy_light
@@ -8611,7 +8611,7 @@
 	352.9.7={ death=yes }
 }
 1047={
-	name=Catrina
+	name=Катрина
 	female=yes
 	dynasty=108
 	dna="behffbelfed"
@@ -8632,7 +8632,7 @@
 	359.1.25={ death=yes }
 }
 1049={
-	name=Shayne
+	name=Шейн
 	dynasty=108
 	dna="bibepbfcnma"
 	culture=azerothian religion=holy_light
@@ -8665,7 +8665,7 @@
 	384.4.30={ death=yes }
 }
 1052={
-	name=Carrington
+	name=Керрингтон 
 	dynasty=108
 	dna="ccinkcfcfah"
 	culture=azerothian religion=holy_light
@@ -8709,7 +8709,7 @@
 	405.8.2={ death=yes }
 }
 1056={
-	name=Tiffin
+	name=Тиффин
 	female=yes
 	dynasty=108
 	dna="bhophcpcfah"
@@ -8740,7 +8740,7 @@
 	423.5.11={ death=yes }
 }
 1059={
-	name=Acton
+	name=Актон
 	dynasty=108
 	dna="ccmnldbkpjh"
 	culture=azerothian religion=holy_light
@@ -8752,7 +8752,7 @@
 	402.2.20={ death=yes }
 }
 1060={
-	name=Thoradin
+	name=Торадин
 	dynasty=108
 	dna="ccihnnfcfgh"
 	culture=azerothian religion=holy_light
@@ -8763,7 +8763,7 @@
 	462.4.15={ death=yes }
 }
 1061={
-	name=Anastasia
+	name=Анастасия
 	female=yes
 	dynasty=108
 	dna="fcibndllfgj"
@@ -8783,7 +8783,7 @@
 	429.3.30={ death=yes }
 }
 1063={
-	name=Barrett
+	name=Барретт
 	dynasty=108
 	dna="flkodifjngh"
 	culture=azerothian religion=holy_light
@@ -8817,7 +8817,7 @@
 	459.6.1={ death=yes }
 }
 1066={
-	name=Nico
+	name=Нико
 	dynasty=108
 	dna="dehodiamcgk"
 	culture=azerothian religion=holy_light
@@ -8840,7 +8840,7 @@
 	461.7.8={ death=yes }
 }
 1068={
-	name=Tiffin
+	name=Тиффин
 	female=yes
 	dynasty=108
 	dna="fchfdifdngk"
@@ -8948,7 +8948,7 @@
 	541.9.5={ death=yes }
 }
 1084={
-	name=Carson
+	name=Карсон
 	dynasty=108
 	dna="mbaklkpldmg"
 	culture=azerothian religion=holy_light
@@ -9081,7 +9081,7 @@
 	179.3.29={ death=yes }
 }
 1111={
-	name=Ember
+	name=Эмбер
 	female=yes
 	dynasty=10
 	dna="djbjmbdaojk"
@@ -9146,7 +9146,7 @@
 	205.6.21={ death=yes }
 }
 1117={
-	name=Dwyght
+	name=Дуайт
 	dynasty=10
 	dna="mjipkkbagjg"
 	culture=azerothian religion=holy_light
@@ -9157,7 +9157,7 @@
 	196.11.7={ death=yes }
 }
 1118={
-	name=Carson
+	name=Карсон
 	dynasty=10
 	dna="acmgbimlhba"
 	culture=azerothian religion=holy_light
@@ -9189,7 +9189,7 @@
 	243.8.5={ death=yes }
 }
 1121={
-	name=Adam
+	name=Адам
 	dynasty=10
 	dna="cjkigdclgon"
 	culture=azerothian religion=holy_light
@@ -9225,7 +9225,7 @@
 	278.8.26={ death=yes }
 }
 1124={
-	name=Llane
+	name=Ллейн
 	dynasty=10
 	dna="aamapimphbm"
 	culture=azerothian religion=holy_light
@@ -9302,7 +9302,7 @@
 	297.5.19={ death=yes }
 }
 1131={
-	name=Nico
+	name=Нико
 	dynasty=10
 	dna="phmfikokjbk"
 	culture=azerothian religion=holy_light
@@ -9336,7 +9336,7 @@
 	342.9.7={ death=yes }
 }
 1134={
-	name=Eliza
+	name=Элиза
 	female=yes
 	dynasty=10
 	dna="hhefnbiopbc"
@@ -9356,7 +9356,7 @@
 	353.3.31={ death=yes }
 }
 1136={
-	name=Farrin
+	name=Фаррин
 	dynasty=10
 	dna="ehjfpkidpbb"
 	culture=azerothian religion=holy_light
@@ -9378,7 +9378,7 @@
 	350.11.4={ death=yes }
 }
 1138={
-	name=Varian
+	name=Вариан
 	dynasty=10
 	dna="lejfbehmpgc"
 	culture=azerothian religion=holy_light
@@ -9410,7 +9410,7 @@
 	380.8.15={ death=yes }
 }
 1141={
-	name=Ramona
+	name=Рамона
 	female=yes
 	dynasty=10
 	dna="gjnogjofmno"
@@ -9442,7 +9442,7 @@
 	360.6.3={ death=yes }
 }
 1144={
-	name=Tiffin
+	name=Тиффин
 	female=yes
 	dynasty=10
 	dna="dmohgbanlog"
@@ -9474,7 +9474,7 @@
 	426.3.7={ death=yes }
 }
 1147={
-	name=Role
+	name=Роул
 	dynasty=10
 	dna="nbkdahblcop"
 	culture=azerothian religion=holy_light
@@ -9486,7 +9486,7 @@
 	416.3.7={ death=yes }
 }
 1148={
-	name=Noreen
+	name=Норин
 	female=yes
 	dynasty=10
 	dna="fmjdabmlhop"
@@ -9607,7 +9607,7 @@
 	479.7.21={ death=yes }
 }
 1159={
-	name=Nico
+	name=Нико
 	dynasty=10
 	dna="fmadcgonlmm"
 	culture=azerothian religion=holy_light
@@ -9629,7 +9629,7 @@
 	492.8.28={ death=yes }
 }
 1161={
-	name=Alma
+	name=Альма
 	female=yes
 	dynasty=10
 	dna="fkkigoncldj"
@@ -9799,7 +9799,7 @@
 }
 # Farrin Daris
 1177={
-	name=Farrin
+	name=Фаррин
 	dynasty=10
 	dna="dfaomjbdpkk"
 	culture=azerothian religion=holy_light
@@ -9828,7 +9828,7 @@
 	}
 }
 1179={
-	name=Chilton
+	name=Чилтон
 	dynasty=10
 	dna="baomafbngbm"
 	culture=azerothian religion=holy_light
@@ -9894,7 +9894,7 @@
 	691.8.8={ death=yes }
 }
 1185={
-	name=Ander
+	name=Андер
 	dynasty=10
 	dna="neaammndhjd"
 	culture=azerothian religion=holy_light
@@ -9917,7 +9917,7 @@
 	717.5.23={ death=yes }
 }
 1187={
-	name=Wilson
+	name=Уилсон
 	dynasty=10
 	dna="bcaamglfgkj"
 	culture=azerothian religion=holy_light
@@ -9952,7 +9952,7 @@
 	72.9.8={ death=yes }
 }
 1201={
-	name=Varian
+	name=Вариан
 	dynasty=11
 	dna="knbjbcbmnpg"
 	culture=azerothian religion=holy_light
@@ -9983,7 +9983,7 @@
 	99.5.13={ death=yes }
 }
 1204={
-	name=Stuart
+	name=Стюарт
 	dynasty=11
 	dna="pbbgfeipnhk"
 	culture=azerothian religion=holy_light
@@ -9995,7 +9995,7 @@
 	102.10.19={ death=yes }
 }
 1205={
-	name=Shayne
+	name=Шейн
 	dynasty=11
 	dna="fkbdbbipnfl"
 	culture=azerothian religion=holy_light
@@ -10040,7 +10040,7 @@
 	165.4.19={ death=yes }
 }
 1209={
-	name=Ember
+	name=Эмбер
 	female=yes
 	dynasty=11
 	dna="bpmkhfnjfne"
@@ -10082,7 +10082,7 @@
 	195.5.13={ death=yes }
 }
 1213={
-	name=Ang
+	name=Анг
 	dynasty=11
 	dna="imbpflpalle"
 	culture=azerothian religion=holy_light
@@ -10149,7 +10149,7 @@
 	268.12.4={ death=yes }
 }
 1219={
-	name=Dwenn
+	name=Двенн
 	dynasty=11
 	dna="pmcjilojlbi"
 	culture=azerothian religion=holy_light
@@ -10237,7 +10237,7 @@
 	335.4.1={ death=yes }
 }
 1227={
-	name=Wilson
+	name=Уилсон
 	dynasty=11
 	dna="ahgnlmffpee"
 	culture=azerothian religion=holy_light
@@ -10280,7 +10280,7 @@
 	365.2.8={ death=yes }
 }
 1231={
-	name=Dwite
+	name=Двайт
 	dynasty=11
 	dna="eknkalkopod"
 	culture=azerothian religion=holy_light
@@ -10323,7 +10323,7 @@
 	390.3.14={ death=yes }
 }
 1235={
-	name=Role
+	name=Роул
 	dynasty=11
 	dna="fggnolajcdo"
 	culture=azerothian religion=holy_light
@@ -10358,7 +10358,7 @@
 	385.8.5={ death=yes }
 }
 1238={
-	name=Sybil
+	name=Сибилла
 	female=yes
 	dynasty=11
 	dna="gcgddidlhff"
@@ -10410,7 +10410,7 @@
 	396.11.7={ death=yes }
 }
 1243={
-	name=Bethany
+	name=Бетани
 	female=yes
 	dynasty=11
 	dna="acgkcchmimn"
@@ -10530,7 +10530,7 @@
 	445.5.11={ death=yes }
 }
 1254={
-	name=Dwenn
+	name=Двенн
 	dynasty=11
 	dna="fcfcmlpmfff"
 	culture=azerothian religion=holy_light
@@ -10553,7 +10553,7 @@
 	474.11.23={ death=yes }
 }
 1256={
-	name=Thorne
+	name=Торн
 	dynasty=11
 	dna="ipcmdmamdeb"
 	culture=azerothian religion=holy_light
@@ -10576,7 +10576,7 @@
 	469.1.9={ death=yes }
 }
 1258={
-	name=Sybil
+	name=Сибилла
 	female=yes
 	dynasty=11
 	dna="agclcmolahl"
@@ -10586,7 +10586,7 @@
 	481.8.27={ death=yes }
 }
 1259={
-	name=Nico
+	name=Нико
 	dynasty=11
 	dna="bgebgmohagb"
 	culture=azerothian religion=holy_light
@@ -10641,7 +10641,7 @@
 	519.1.3={ death=yes }
 }
 1264={
-	name=Eliza
+	name=Элиза
 	female=yes
 	dynasty=11
 	dna="nffhmafgcfa"
@@ -10763,7 +10763,7 @@
 }
 # Role Dreuger
 1275={
-	name=Role
+	name=Роул
 	dynasty=11
 	dna="jchjpcjgfen"
 	culture=azerothian religion=holy_light
@@ -10786,7 +10786,7 @@
 	644.4.12={ death=yes }
 }
 1277={
-	name=Bazzil
+	name=Бэззил
 	dynasty=11
 	dna="ffoklchhbfk"
 	culture=azerothian religion=holy_light
@@ -10797,7 +10797,7 @@
 	630.1.2={ death=yes }
 }
 1278={
-	name=Llane
+	name=Ллейн
 	dynasty=11
 	dna="gijdpcjjmep"
 	culture=azerothian religion=holy_light
@@ -10841,7 +10841,7 @@
 	695.8.25={ death=yes }
 }
 1282={
-	name=Nico
+	name=Нико
 	dynasty=11
 	dna="giedbcbjgam"
 	culture=azerothian religion=holy_light
@@ -10853,7 +10853,7 @@
 	698.7.16={ death=yes }
 }
 1283={
-	name=Llane
+	name=Ллейн
 	dynasty=11
 	dna="ikgdpjjjgle"
 	culture=azerothian religion=holy_light
@@ -10929,7 +10929,7 @@
 	83.8.17={ death=yes }
 }
 1301={
-	name=Shayne
+	name=Шейн
 	dynasty=12
 	dna="ljljkbmpepp"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -10941,7 +10941,7 @@
 	102.1.17={ death=yes }
 }
 1302={
-	name=Alma
+	name=Альма
 	female=yes
 	dynasty=12
 	dna="lpojjagbban"
@@ -10951,7 +10951,7 @@
 	110.7.16={ death=yes }
 }
 1303={
-	name=Sydell
+	name=Сайделл
 	dynasty=12
 	dna="bopblfnplgp"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -10994,7 +10994,7 @@
 	178.2.13={ death=yes }
 }
 1307={
-	name=Dwenn
+	name=Двенн
 	dynasty=12
 	dna="loljkbemdjo"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -11052,7 +11052,7 @@
 	174.3.23={ death=yes }
 }
 1312={
-	name=Caledra
+	name=Каледра
 	female=yes
 	dynasty=12
 	dna="pejlcgfmepn"
@@ -11094,7 +11094,7 @@
 	221.4.5={ death=yes }
 }
 1316={
-	name=Eliza
+	name=Элиза
 	female=yes
 	dynasty=12
 	dna="pnokankjlgh"
@@ -11126,7 +11126,7 @@
 	211.3.8={ death=yes }
 }
 1319={
-	name=Alma
+	name=Альма
 	female=yes
 	dynasty=12
 	dna="bcaidfmocii"
@@ -11176,7 +11176,7 @@
 	273.2.7={ death=yes }
 }
 1324={
-	name=Catrina
+	name=Катрина
 	female=yes
 	dynasty=12
 	dna="mimlmkdlfki"
@@ -11362,7 +11362,7 @@
 	412.6.6={ death=yes }
 }
 1341={
-	name=Bazzil
+	name=Бэззил
 	dynasty=12
 	dna="pebgmeejibd"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -11466,7 +11466,7 @@
 	478.1.27={ death=yes }
 }
 1351={
-	name=Varia
+	name=Вария
 	female=yes
 	dynasty=12
 	dna="dkjgbdapnpk"
@@ -11476,7 +11476,7 @@
 	465.1.4={ death=yes }
 }
 1352={
-	name=Ann
+	name=Энн
 	female=yes
 	dynasty=12
 	dna="jkkinamkjhi"
@@ -11596,7 +11596,7 @@
 	542.1.30={ death=yes }
 }
 1363={
-	name=Ang
+	name=Анг
 	dynasty=12
 	dna="chabeecibmc"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -11640,7 +11640,7 @@
 	579.12.12={ death=yes }
 }
 1367={
-	name=Nico
+	name=Нико
 	dynasty=12
 	dna="kbibegkabcb"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -11664,7 +11664,7 @@
 	612.3.11={ death=yes }
 }
 1369={
-	name=Role
+	name=Роул
 	dynasty=12
 	dna="knppbgcindb"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -11676,7 +11676,7 @@
 	605.2.22={ death=yes }
 }
 1370={
-	name=Eliza
+	name=Элиза
 	female=yes
 	dynasty=12
 	dna="knjdegljnmj"
@@ -11696,7 +11696,7 @@
 	583.4.24={ death=yes }
 }
 1372={
-	name=Bernard
+	name=Бернард
 	dynasty=12
 	dna="kicbnbkhmcb"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -11823,7 +11823,7 @@
 	684.8.12={ death=yes }
 }
 1383={
-	name=Jackson
+	name=Джексон
 	dynasty=12
 	dna="hkcncinlgck"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -11909,7 +11909,7 @@
 	142.11.30={ death=yes }
 }
 1402={
-	name=Varian
+	name=Вариан
 	dynasty=13
 	dna="ojnjfhcghgf"
 	culture=azerothian religion=holy_light
@@ -11921,7 +11921,7 @@
 	93.10.12={ death=yes }
 }
 1403={
-	name=Llane
+	name=Ллейн
 	dynasty=13
 	dna="epjjfojkopg"
 	culture=azerothian religion=holy_light
@@ -11978,7 +11978,7 @@
 	157.9.20={ death=yes }
 }
 1408={
-	name=Noreen
+	name=Норин
 	female=yes
 	dynasty=13
 	dna="bpagimagfko"
@@ -12010,7 +12010,7 @@
 	182.7.15={ death=yes }
 }
 1411={
-	name=Winward
+	name=Винвард
 	dynasty=13
 	dna="kpiijgdgfed"
 	culture=azerothian religion=holy_light
@@ -12021,7 +12021,7 @@
 	183.5.5={ death=yes }
 }
 1412={
-	name=Anastasia
+	name=Анастасия
 	female=yes
 	dynasty=13
 	dna="aoidjgagpfk"
@@ -12052,7 +12052,7 @@
 	196.5.21={ death=yes }
 }
 1415={
-	name=Sybil
+	name=Сибилла
 	female=yes
 	dynasty=13
 	dna="epneihbfcln"
@@ -12073,7 +12073,7 @@
 	241.10.13={ death=yes }
 }
 1417={
-	name=Ang
+	name=Анг
 	dynasty=13
 	dna="jhdmmpcmggf"
 	culture=azerothian religion=holy_light
@@ -12137,7 +12137,7 @@
 	236.2.23={ death=yes }
 }
 1423={
-	name=Lizbeth
+	name=Лизбет
 	female=yes
 	dynasty=13
 	dna="lagpoinpbce"
@@ -12147,7 +12147,7 @@
 	254.7.10={ death=yes }
 }
 1424={
-	name=Dwite
+	name=Двайт
 	dynasty=13
 	dna="lldmjifaaai"
 	culture=azerothian religion=holy_light
@@ -12215,7 +12215,7 @@
 	293.5.3={ death=yes }
 }
 1430={
-	name=Stuart
+	name=Стюарт
 	dynasty=13
 	dna="gophdlmplke"
 	culture=azerothian religion=holy_light
@@ -12247,7 +12247,7 @@
 	323.8.25={ death=yes }
 }
 1433={
-	name=Ander
+	name=Андер
 	dynasty=13
 	dna="hocngdkcjja"
 	culture=azerothian religion=holy_light
@@ -12291,7 +12291,7 @@
 	326.8.10={ death=yes }
 }
 1437={
-	name=Ann
+	name=Энн
 	female=yes
 	dynasty=13
 	dna="bcpkajkieaj"
@@ -12301,7 +12301,7 @@
 	322.10.25={ death=yes }
 }
 1438={
-	name=Marcovefa
+	name=Марковефа
 	female=yes
 	dynasty=13
 	dna="mcpnadccjal"
@@ -12311,7 +12311,7 @@
 	317.9.27={ death=yes }
 }
 1439={
-	name=Varia
+	name=Вария
 	female=yes
 	dynasty=13
 	dna="dpjaamllnpj"
@@ -12343,7 +12343,7 @@
 	364.4.18={ death=yes }
 }
 1442={
-	name=Bernard
+	name=Бернард
 	dynasty=13
 	dna="eeaaiglapfa"
 	culture=azerothian religion=holy_light
@@ -12410,7 +12410,7 @@
 	361.2.23={ death=yes }
 }
 1448={
-	name=Eliza
+	name=Элиза
 	female=yes
 	dynasty=13
 	dna="eehaiglanhi"
@@ -12454,7 +12454,7 @@
 	434.11.27={ death=yes }
 }
 1452={
-	name=Isolde
+	name=Изольда
 	female=yes
 	dynasty=13
 	dna="hjdlikgaeej"
@@ -12475,7 +12475,7 @@
 	419.5.20={ death=yes }
 }
 1454={
-	name=Ello
+	name=Элло
 	dynasty=13
 	dna="njfhlhphemk"
 	culture=azerothian religion=holy_light
@@ -12496,7 +12496,7 @@
 	441.8.30={ death=yes }
 }
 1456={
-	name=Nico
+	name=Нико
 	dynasty=13
 	dna="fefdllalpin"
 	culture=azerothian religion=holy_light
@@ -12507,7 +12507,7 @@
 	470.8.17={ death=yes }
 }
 1457={
-	name=Role
+	name=Роул
 	dynasty=13
 	dna="pejcbepnpfa"
 	culture=azerothian religion=holy_light
@@ -12560,7 +12560,7 @@
 	499.11.9={ death=yes }
 }
 1462={
-	name=Carrington
+	name=Керрингтон 
 	dynasty=13
 	dna="fgfolaflppn"
 	culture=azerothian religion=holy_light
@@ -12624,7 +12624,7 @@
 	541.5.1={ death=yes }
 }
 1468={
-	name=Lucille
+	name=Люсиль
 	female=yes
 	dynasty=13
 	dna="ddbdlpllpkp"
@@ -12655,7 +12655,7 @@
 	527.6.14={ death=yes }
 }
 1471={
-	name=Varian
+	name=Вариан
 	dynasty=13
 	dna="iiijojpipmn"
 	culture=azerothian religion=holy_light
@@ -12699,7 +12699,7 @@
 	533.6.27={ death=yes }
 }
 1475={
-	name=Bernard
+	name=Бернард
 	dynasty=13
 	dna="kiddkjnhdel"
 	culture=azerothian religion=holy_light
@@ -12732,7 +12732,7 @@
 	566.5.24={ death=yes }
 }
 1478={
-	name=Jackson
+	name=Джексон
 	dynasty=13
 	dna="nfhdfkgpofn"
 	culture=azerothian religion=holy_light
@@ -12743,7 +12743,7 @@
 	573.3.22={ death=yes }
 }
 1479={
-	name=Angus
+	name=Ангус
 	dynasty=13
 	dna="idhhnjgikbn"
 	culture=azerothian religion=holy_light
@@ -12788,7 +12788,7 @@
 	621.6.15={ death=yes }
 }
 1483={
-	name=Ann
+	name=Энн
 	female=yes
 	dynasty=13
 	dna="bkkkeikikgf"
@@ -12808,7 +12808,7 @@
 	627.7.11={ death=yes }
 }
 1485={
-	name=Carson
+	name=Карсон
 	dynasty=13
 	dna="hdhppjkimih"
 	culture=azerothian religion=holy_light
@@ -12948,7 +12948,7 @@
 	708.11.4={ death=yes }
 }
 1497={
-	name=Bernard
+	name=Бернард
 	dynasty=13
 	dna="hgbljcihfjb"
 	culture=azerothian religion=holy_light
@@ -13048,7 +13048,7 @@
 	143.3.30={ death=yes }
 }
 1508={
-	name=Eliza
+	name=Элиза
 	female=yes
 	dynasty=14
 	dna="ohgbfggmgei"
@@ -13193,7 +13193,7 @@
 	248.11.18={ death=yes }
 }
 1521={
-	name=Elenor
+	name=Элинор
 	female=yes
 	dynasty=14
 	dna="fpmnjfkohhi"
@@ -13203,7 +13203,7 @@
 	244.2.12={ death=yes }
 }
 1522={
-	name=Sandon
+	name=Сандон
 	dynasty=14
 	dna="mkhinpbmjah"
 	culture=azerothian religion=holy_light
@@ -13258,7 +13258,7 @@
 	299.8.9={ death=yes }
 }
 1527={
-	name=Dwite
+	name=Двайт
 	dynasty=14
 	dna="lfkinmbajah"
 	culture=azerothian religion=holy_light
@@ -13270,7 +13270,7 @@
 	318.1.24={ death=yes }
 }
 1528={
-	name=Carson
+	name=Карсон
 	dynasty=14
 	dna="dbhlnppmdog"
 	culture=azerothian religion=holy_light
@@ -13324,7 +13324,7 @@
 	340.11.15={ death=yes }
 }
 1533={
-	name=Shayne
+	name=Шейн
 	dynasty=14
 	dna="mbelfdiidog"
 	culture=azerothian religion=holy_light
@@ -13379,7 +13379,7 @@
 	342.7.14={ death=yes }
 }
 1538={
-	name=Sandon
+	name=Сандон
 	dynasty=14
 	dna="nlhfhohmdng"
 	culture=azerothian religion=holy_light
@@ -13411,7 +13411,7 @@
 	353.4.11={ death=yes }
 }
 1541={
-	name=Bernard
+	name=Бернард
 	dynasty=14
 	dna="nfhliakmfog"
 	culture=azerothian religion=holy_light
@@ -13422,7 +13422,7 @@
 	335.9.8={ death=yes }
 }
 1542={
-	name=Stuart
+	name=Стюарт
 	dynasty=14
 	dna="flhohmfmaig"
 	culture=azerothian religion=holy_light
@@ -13433,7 +13433,7 @@
 	363.9.22={ death=yes }
 }
 1543={
-	name=Adrien
+	name=Адриан
 	dynasty=14
 	dna="ilofldmmpdg"
 	culture=azerothian religion=holy_light
@@ -13465,7 +13465,7 @@
 	377.9.8={ death=yes }
 }
 1546={
-	name=Anastasia
+	name=Анастасия
 	female=yes
 	dynasty=14
 	dna="hjkpmohodig"
@@ -13475,7 +13475,7 @@
 	385.9.23={ death=yes }
 }
 1547={
-	name=Lizbeth
+	name=Лизбет
 	female=yes
 	dynasty=14
 	dna="ncnciolpgii"
@@ -13553,7 +13553,7 @@
 	412.9.18={ death=yes }
 }
 1554={
-	name=Stuart
+	name=Стюарт
 	dynasty=14
 	dna="iagoijambgi"
 	culture=azerothian religion=holy_light
@@ -13576,7 +13576,7 @@
 	440.12.30={ death=yes }
 }
 1556={
-	name=Adam
+	name=Адам
 	dynasty=14
 	dna="dalaefjmhce"
 	culture=azerothian religion=holy_light
@@ -13598,7 +13598,7 @@
 	425.6.28={ death=yes }
 }
 1558={
-	name=Bazzil
+	name=Бэззил
 	dynasty=14
 	dna="mboaifpgaag"
 	culture=azerothian religion=holy_light
@@ -13622,7 +13622,7 @@
 	452.4.1={ death=yes }
 }
 1560={
-	name=Adrien
+	name=Адриан
 	dynasty=14
 	dna="iagojlacdoo"
 	culture=azerothian religion=holy_light
@@ -13633,7 +13633,7 @@
 	459.1.1={ death=yes }
 }
 1561={
-	name=Carson
+	name=Карсон
 	dynasty=14
 	dna="napmdjambfa"
 	culture=azerothian religion=holy_light
@@ -13731,7 +13731,7 @@
 	541.11.3={ death=yes }
 }
 1570={
-	name=Sybil
+	name=Сибилла
 	female=yes
 	dynasty=14
 	dna="mbmmbcpmman"
@@ -13784,7 +13784,7 @@
 	548.1.21={ death=yes }
 }
 1575={
-	name=Shayne
+	name=Шейн
 	dynasty=14
 	dna="eomocnjmggn"
 	culture=azerothian religion=holy_light
@@ -13853,7 +13853,7 @@
 	602.11.30={ death=yes }
 }
 1581={
-	name=Barrett
+	name=Барретт
 	dynasty=14
 	dna="hajcfabgjjh"
 	culture=azerothian religion=holy_light
@@ -14324,7 +14324,7 @@
 	186.7.3={ death=yes }
 }
 5109={
-	name=Carrington
+	name=Керрингтон 
 	dynasty=34
 	dna="ondbhlpifij"
 	culture=azerothian religion=holy_light
@@ -14388,7 +14388,7 @@
 	183.11.11={ death=yes }
 }
 5115={
-	name=Elenor
+	name=Элинор
 	female=yes
 	dynasty=34
 	dna="kgiemlkldgj"
@@ -14429,7 +14429,7 @@
 	223.6.24={ death=yes }
 }
 5119={
-	name=Llane
+	name=Ллейн
 	dynasty=34
 	dna="iiglimckbgd"
 	culture=azerothian religion=holy_light
@@ -14441,7 +14441,7 @@
 	279.2.10={ death=yes }
 }
 5120={
-	name=Chilton
+	name=Чилтон
 	dynasty=34
 	dna="nchcolcdlbk"
 	culture=azerothian religion=holy_light
@@ -14701,7 +14701,7 @@
 	377.3.22={ death=yes }
 }
 5144={
-	name=Jackson
+	name=Джексон
 	dynasty=34
 	dna="jlkkpaglcad"
 	culture=azerothian religion=holy_light
@@ -14743,7 +14743,7 @@
 	465.6.19={ death=yes }
 }
 5148={
-	name=Celsa
+	name=Селса
 	female=yes
 	dynasty=34
 	dna="jelncapofbf"
@@ -14764,7 +14764,7 @@
 	454.10.8={ death=yes }
 }
 5150={
-	name=Isolde
+	name=Изольда
 	female=yes
 	dynasty=34
 	dna="ilkopailcha"
@@ -14774,7 +14774,7 @@
 	458.2.1={ death=yes }
 }
 5151={
-	name=Bazzil
+	name=Бэззил
 	dynasty=34
 	dna="jdfkcehdhah"
 	culture=azerothian religion=holy_light
@@ -14786,7 +14786,7 @@
 	478.1.26={ death=yes }
 }
 5152={
-	name=Farrin
+	name=Фаррин
 	dynasty=34
 	dna="jjgloeedjkc"
 	culture=azerothian religion=holy_light
@@ -14883,7 +14883,7 @@
 	485.9.10={ death=yes }
 }
 5161={
-	name=Lizbeth
+	name=Лизбет
 	female=yes
 	dynasty=34
 	dna="jkgkfahdhac"
@@ -14915,7 +14915,7 @@
 	515.2.25={ death=yes }
 }
 5164={
-	name=Edwardson
+	name=Эдвардсон
 	dynasty=34
 	dna="imnkcafnhlo"
 	culture=azerothian religion=holy_light
@@ -14936,7 +14936,7 @@
 	531.5.24={ death=yes }
 }
 5166={
-	name=Sybil
+	name=Сибилла
 	female=yes
 	dynasty=34
 	dna="elckcehdcao"
@@ -14946,7 +14946,7 @@
 	580.3.1={ death=yes }
 }
 5167={
-	name=Adrien
+	name=Адриан
 	dynasty=34
 	dna="mofckoacgff"
 	culture=azerothian religion=holy_light
@@ -14968,7 +14968,7 @@
 	558.10.18={ death=yes }
 }
 5169={
-	name=Carrington
+	name=Керрингтон 
 	dynasty=34
 	dna="mnfheiackag"
 	culture=azerothian religion=holy_light
@@ -14980,7 +14980,7 @@
 	573.2.20={ death=yes }
 }
 5170={
-	name=Anastasia
+	name=Анастасия
 	female=yes
 	dynasty=34
 	dna="mjfdcilckae"
@@ -15046,7 +15046,7 @@
 	582.1.2={ death=yes }
 }
 5176={
-	name=Ann
+	name=Энн
 	female=yes
 	dynasty=34
 	dna="mknbdikidee"
@@ -15167,7 +15167,7 @@
 	122.4.22={ death=yes }
 }
 5504={
-	name=Isolde
+	name=Изольда
 	female=yes
 	dna="lgnkllailio"
 	culture=azerothian religion=holy_light
@@ -15346,7 +15346,7 @@
 	415.11.11={ death=yes }
 }
 5522={
-	name=Gilian
+	name=Джиллиан
 	female=yes
 	dna="defcjblcmgi"
 	culture=azerothian religion=holy_light
@@ -15375,7 +15375,7 @@
 	451.5.9={ death=yes }
 }
 5525={
-	name=Tiffin
+	name=Тиффин
 	female=yes
 	dna="pebcfbhnonm"
 	culture=azerothian religion=holy_light
@@ -15384,7 +15384,7 @@
 	450.4.6={ death=yes }
 }
 5526={
-	name=Caledra
+	name=Каледра
 	female=yes
 	dna="geofchfnogh"
 	culture=azerothian religion=holy_light
@@ -15404,7 +15404,7 @@
 	501.6.1={ death=yes }
 }
 5528={
-	name=Gilian
+	name=Джиллиан
 	female=yes
 	dna="dahfkpmfogh"
 	culture=azerothian religion=holy_light
@@ -15444,7 +15444,7 @@
 	578.9.11={ death=yes }
 }
 5532={
-	name=Thoradin
+	name=Торадин
 	dna="gkeaappbkel"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=7
@@ -15495,7 +15495,7 @@
 	79.4.11={ death=yes }
 }
 5551={
-	name=Adrien
+	name=Адриан
 	dna="ilelkggdmfn"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=8 stewardship=6 intrigue=4 learning=4
@@ -15564,7 +15564,7 @@
 	222.3.11={ death=yes }
 }
 5558={
-	name=Sybil
+	name=Сибилла
 	female=yes
 	dna="enclmcgdmlh"
 	culture=azerothian religion=holy_light
@@ -15573,7 +15573,7 @@
 	189.11.22={ death=yes }
 }
 5559={
-	name=Bethany
+	name=Бетани
 	female=yes
 	dna="ilmjbgfdmmn"
 	culture=azerothian religion=holy_light
@@ -15582,7 +15582,7 @@
 	206.1.25={ death=yes }
 }
 5560={
-	name=Bethany
+	name=Бетани
 	female=yes
 	dna="inejkcgdbeg"
 	culture=azerothian religion=holy_light
@@ -15601,7 +15601,7 @@
 	266.4.24={ death=yes }
 }
 5562={
-	name=Noreen
+	name=Норин
 	female=yes
 	dna="lcelmgmflfm"
 	culture=azerothian religion=holy_light
@@ -15610,7 +15610,7 @@
 	266.6.13={ death=yes }
 }
 5563={
-	name=Noreen
+	name=Норин
 	female=yes
 	dna="ileoogbgffa"
 	culture=azerothian religion=holy_light
@@ -15619,7 +15619,7 @@
 	275.1.17={ death=yes }
 }
 5564={
-	name=Elenor
+	name=Элинор
 	female=yes
 	dna="ncolmpogffc"
 	culture=azerothian religion=holy_light
@@ -15657,7 +15657,7 @@
 	339.7.14={ death=yes }
 }
 5568={
-	name=Celsa
+	name=Селса
 	female=yes
 	dna="iceboondcfd"
 	culture=azerothian religion=holy_light
@@ -15666,7 +15666,7 @@
 	317.11.10={ death=yes }
 }
 5569={
-	name=Llane
+	name=Ллейн
 	dna="gckbpndihoo"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=7 stewardship=7 intrigue=8 learning=4
@@ -15742,7 +15742,7 @@
 	434.8.29={ death=yes }
 }
 5577={
-	name=Eliza
+	name=Элиза
 	female=yes
 	dna="kiaolkllocg"
 	culture=azerothian religion=holy_light
@@ -15762,7 +15762,7 @@
 	455.9.20={ death=yes }
 }
 5579={
-	name=Hogan
+	name=Хоган
 	dna="pelpmkjjfgl"
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=4 stewardship=5 intrigue=8 learning=7
@@ -15801,7 +15801,7 @@
 	521.9.17={ death=yes }
 }
 5583={
-	name=Eliza
+	name=Элиза
 	female=yes
 	dna="pphpjhckadn"
 	culture=azerothian religion=holy_light
@@ -15839,7 +15839,7 @@
 	594.3.19={ death=yes }
 }
 5587={
-	name=Bernard
+	name=Бернард
 	dna="mcolnjbmidl"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=7
@@ -15858,7 +15858,7 @@
 	666.11.27={ death=yes }
 }
 5589={
-	name=Shayne
+	name=Шейн
 	dna="mhfmjieepfh"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=4 stewardship=6 intrigue=6 learning=8
@@ -15900,7 +15900,7 @@
 	152.2.11={ death=yes }
 }
 5602={
-	name=Celsa
+	name=Селса
 	female=yes
 	dna="fdimgladlmi"
 	culture=azerothian religion=holy_light
@@ -15957,7 +15957,7 @@
 	208.1.30={ death=yes }
 }
 5608={
-	name=Adrien
+	name=Адриан
 	dna="cmdlhhjmdmi"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=4 stewardship=6 intrigue=6 learning=5
@@ -15977,7 +15977,7 @@
 	198.2.17={ death=yes }
 }
 5610={
-	name=Bazzil
+	name=Бэззил
 	dna="cbicabehkci"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=8 stewardship=8 intrigue=8 learning=4
@@ -15987,7 +15987,7 @@
 	169.3.8={ death=yes }
 }
 5611={
-	name=Dwite
+	name=Двайт
 	dna="dnfllaendkj"
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=5 stewardship=4 intrigue=4 learning=7
@@ -16026,7 +16026,7 @@
 	263.9.17={ death=yes }
 }
 5615={
-	name=Shayne
+	name=Шейн
 	dna="abplnalphkg"
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=7 stewardship=6 intrigue=8 learning=8
@@ -16143,7 +16143,7 @@
 	448.9.23={ death=yes }
 }
 5627={
-	name=Sydell
+	name=Сайделл
 	dna="nfkkcjhhhgg"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=5 stewardship=5 intrigue=7 learning=4
@@ -16164,7 +16164,7 @@
 	551.8.14={ death=yes }
 }
 5629={
-	name=Sydell
+	name=Сайделл
 	dna="jhhhafphjge"
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=8 stewardship=4 intrigue=6 learning=7
@@ -16175,7 +16175,7 @@
 	540.10.19={ death=yes }
 }
 5630={
-	name=Lizbeth
+	name=Лизбет
 	female=yes
 	dna="bjpkgklnfca"
 	culture=azerothian religion=holy_light
@@ -16194,7 +16194,7 @@
 	620.3.30={ death=yes }
 }
 5632={
-	name=Noreen
+	name=Норин
 	female=yes
 	dna="mlbmfkglnkb"
 	culture=azerothian religion=holy_light
@@ -16370,7 +16370,7 @@
 	328.8.9={ death=yes }
 }
 5662={
-	name=Llane
+	name=Ллейн
 	dna="joppgjhedhm"
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=8 stewardship=5 intrigue=7 learning=7
@@ -16486,7 +16486,7 @@
 	563.1.8={ death=yes }
 }
 5674={
-	name=Anastasia
+	name=Анастасия
 	female=yes
 	dna="nnmofdkajlc"
 	culture=azerothian religion=holy_light
@@ -16646,7 +16646,7 @@
 	217.5.14={ death=yes }
 }
 5761={
-	name=Stuart
+	name=Стюарт
 	dna="okiecoildlk"
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=5 stewardship=6 intrigue=6 learning=6
@@ -16695,7 +16695,7 @@
 	321.12.8={ death=yes }
 }
 5766={
-	name=Bazzil
+	name=Бэззил
 	dna="dpfecohldda"
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=6 stewardship=7 intrigue=8 learning=8
@@ -16792,7 +16792,7 @@
 	541.12.3={ death=yes }
 }
 5776={
-	name=Carson
+	name=Карсон
 	dna="bpkalkihhef"
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=5 stewardship=5 intrigue=4 learning=6
@@ -16843,7 +16843,7 @@
 	578.6.3={ death=yes }
 }
 5781={
-	name=Ello
+	name=Элло
 	dna="ghefndbapdc"
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=4
@@ -16865,7 +16865,7 @@
 	646.2.9={ death=yes }
 }
 5783={
-	name=Thoradin
+	name=Торадин
 	dna="mcjflfgmmlm"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=4 stewardship=6 intrigue=8 learning=5
@@ -16955,7 +16955,7 @@
 }
 #dynasty=403
 5802={
-	name=Eliza
+	name=Элиза
 	female=yes
 	dynasty=403
 	dna="djndclfddfi"
