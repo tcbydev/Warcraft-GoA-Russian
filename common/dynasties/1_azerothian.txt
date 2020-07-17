@@ -1,5 +1,5 @@
 1 = {
-	name = "Р РёРЅРЅ"
+	name = "Ринн"
 	culture = azerothian
 	coat_of_arms = {
 		template = 0
@@ -14,118 +14,118 @@
 	}
 }
 
-2 = {name = "Р›РµСЃРєРѕРІР°СЂ" culture = azerothian} # Stormwind nobles, have seat in House of Nobles
-3 = {name = "Р’Р°РЅРёСЃС‚" culture = azerothian} # Stormwind nobles, joined Pandaria campaign
-4 = {name = "Р РёРґР¶РІРµР»Р»" culture = azerothian} # Stormwind nobles, have seat in House of Nobles
-5 = {name = "Р­Р»Р»РµСЂРёР°РЅ" culture = azerothian}	# Dynasty of Varian's wife
-6 = {name = "Р§РµСЂРЅРѕРґСЂРµРІ" culture = azerothian}	# Dynasty of Darkshire's mayor
-7 = {name = "Р­СЂР»РіРµРґРёРЅ" culture = azerothian} # Stormwind nobles, have seat in House of Nobles
-8 = {name = "Р‘РµСЂСЂРёР±Р°Рє" culture = azerothian} #Nobles of Darkshire
-9 = {name = "Р¤РµСЂРµРЅСЃ" culture = azerothian} #Nobles of Darkshire
-10 = {name = "Р”Р°СЂРёСЃ" culture = azerothian} # Nobles of Darkshire
-11 = {name = "Р”СЂРµР№РіРµСЂ" culture = azerothian} # Nobles of Darkshire
-12 = {name = "РњРёР»Р»СЃС‚Р°Р№Рї" culture = azerothian} # Nobles of Darkshire
-13 = {name = "Р¤РѕРЅ-РРЅРґРё" culture = azerothian} # Nobles of Darkshire
-14 = {name = "Р’РёС€Р»РѕРє" culture = azerothian} # Stormwind nobles, have seat in House of Nobles
-15 = {name = "РЁРѕСѓ" culture = azerothian} #Spymasters of Stormwind
-16 = {name = "Р¤СЂРёРјРѕСЂ" culture = azerothian} #RPG assassins of Stormwind
-17 = {name = "РЎРµР»РёРЅ" culture = azerothian} #Natalie Seline
+2 = {name = "Лесковар" culture = azerothian} # Stormwind nobles, have seat in House of Nobles
+3 = {name = "Ванист" culture = azerothian} # Stormwind nobles, joined Pandaria campaign
+4 = {name = "Риджвелл" culture = azerothian} # Stormwind nobles, have seat in House of Nobles
+5 = {name = "Эллериан" culture = azerothian}	# Dynasty of Varian's wife
+6 = {name = "Чернодрев" culture = azerothian}	# Dynasty of Darkshire's mayor
+7 = {name = "Эрлгедин" culture = azerothian} # Stormwind nobles, have seat in House of Nobles
+8 = {name = "Беррибак" culture = azerothian} #Nobles of Darkshire
+9 = {name = "Ференс" culture = azerothian} #Nobles of Darkshire
+10 = {name = "Дарис" culture = azerothian} # Nobles of Darkshire
+11 = {name = "Дрейгер" culture = azerothian} # Nobles of Darkshire
+12 = {name = "Миллстайп" culture = azerothian} # Nobles of Darkshire
+13 = {name = "Фон-Инди" culture = azerothian} # Nobles of Darkshire
+14 = {name = "Вишлок" culture = azerothian} # Stormwind nobles, have seat in House of Nobles
+15 = {name = "Шоу" culture = azerothian} #Spymasters of Stormwind
+16 = {name = "Фримор" culture = azerothian} #RPG assassins of Stormwind
+17 = {name = "Селин" culture = azerothian} #Natalie Seline
 
-18 = {name = "Р“СЂРёС„С„РёС‚" culture = azerothian}
-19 = {name = "РљРµР°СЂРЅРµРЅ" culture = azerothian}
-20 = {name = "Р“РµСЂРјР°Р№РЅ" culture = azerothian}
-21 = {name = "Р›РµР№С„РµР»Рґ" culture = azerothian}
-22 = {name = "РЁС‚РµСЂРЅ" culture = azerothian}
-23 = {name = "Р’РµР№РЅСЂР°Р№С‚" culture = azerothian}
-24 = {name = "Р“Р°СЃС‚РёРЅРіСЃ" culture = azerothian}
-25 = {name = "РљР°Р№Р»РµРЅ" culture = azerothian}
-26 = {name = "Р›РёР»Р°РЅРґ" culture = azerothian}
-27 = {name = "РҐСЊСЋРІ" culture = azerothian}
-28 = {name = "Р‘РµСЂРЅС…РµРї" culture = azerothian}
-29 = {name = "РљР°СЃРїРµСЂ" culture = azerothian}
-30 = {name = "РљР°РЅРЅРёРЅРіС…РµРј" culture = azerothian}
+18 = {name = "Гриффит" culture = azerothian}
+19 = {name = "Кеарнен" culture = azerothian}
+20 = {name = "Гермайн" culture = azerothian}
+21 = {name = "Лейфелд" culture = azerothian}
+22 = {name = "Штерн" culture = azerothian}
+23 = {name = "Вейнрайт" culture = azerothian}
+24 = {name = "Гастингс" culture = azerothian}
+25 = {name = "Кайлен" culture = azerothian}
+26 = {name = "Лиланд" culture = azerothian}
+27 = {name = "Хьюв" culture = azerothian}
+28 = {name = "Бернхеп" culture = azerothian}
+29 = {name = "Каспер" culture = azerothian}
+30 = {name = "Каннингхем" culture = azerothian}
 31 = {
-	name = "РђСЂР°РЅ" 
+	name = "Аран" 
 	culture = azerothian
 }
-32 = {name = "РљР°СЂСЂ" culture = azerothian}
-33 = {name = "Р”РёСЂРёРЅРі" culture = azerothian}
-34 = {name = "РёР· РљСЂР°СЃРЅРѕРіРѕСЂСЊСЏ" culture = azerothian}
-35 = {name = "РњРѕСЃСЃ" culture = azerothian}
-36 = {name = "Р“Р°Р№РјР°РЅ" culture = azerothian}
-37 = {name = "Р“РѕРґРІРёРЅ" culture = azerothian}
-38 = {name = "РњР°Р»РёРЅ" culture = azerothian}
-39 = {name = "РЎРїРµРЅСЃРµСЂ" culture = azerothian}
-40 = {name = "РЎС‚СЂР°Р¶" culture = azerothian}
-41 = {name = "Р§РёР»С‚РѕРЅ" culture = azerothian}
-42 = {name = "Р¤РёС‚С‡" culture = azerothian}
-43 = {name = "Р¤РёС†РґР¶РµСЂР°Р»СЊРґ" culture = azerothian}
-44 = {name = "Р“РµСЃСЃРµ" culture = azerothian}
-45 = {name = "Р”Р¶Р°РєСЃРѕРЅ" culture = azerothian}
-46 = {name = "Р›Р°СѓС„С„РµСЂ" culture = azerothian}
-47 = {name = "Р‘Р°РєСЃС‚РµСЂ" culture = azerothian}
-48 = {name = "РҐРёР»Р»" culture = azerothian}
-49 = {name = "РњСЋСЂСЂРµР№" culture = azerothian}
-50 = {name = "РђР»РµРєСЃС‚РѕРЅ" culture = azerothian}
-51 = {name = "РџРёСЂСЃ" culture = azerothian}
-52 = {name = "Р‘РµР»Р»" culture = azerothian}
-53 = {name = "РўСЂРёР°СЃ" culture = azerothian}
-54 = {name = "Р РµР·СЊР±РѕСЂРµР·" culture = azerothian}
-55 = {name = "Р“Р°РјРї" culture = azerothian}
-56 = {name = "РђР»РґРёСЂ" culture = azerothian}
-57 = {name = "РљРІРёРЅ" culture = azerothian}
-58 = {name = "Р‘Р°СЂСЂРµС‚С‚" culture = azerothian}
-59 = {name = "Р”РµР»Р°РІРµР№" culture = azerothian}
-60 = {name = "Р¤Р°СЂС‚РёРЅРі" culture = azerothian}
-61 = {name = "РЎС‚Р°Р»РѕРЅ" culture = azerothian}
-62 = {name = "РЈРґР°СЂ РљР»СЋРІР°" culture = azerothian}
-63 = {name = "РЎС‚Р°Р»РµСЂСѓРє" culture = azerothian}
-64 = {name = "РљСЌРјРїР±РµР»Р»" culture = azerothian}
-65 = {name = "РЈРѕСЂРЅРµСЂ" culture = azerothian}
-66 = {name = "РЎРѕРїРїРЅРµСЂ" culture = azerothian}
-67 = {name = "РљР°СЃСЃРёР№" culture = azerothian}
-68 = {name = "РљСЂРѕСЃ" culture = azerothian}
-69 = {name = "Р‘СЂР°РґСЃРµС‚РµСЂ" culture = azerothian}
-70 = {name = "РЎРёРЅРіС…" culture = azerothian}
-71 = {name = "РљРёРЅСЃРё" culture = azerothian}
-72 = {name = "РљСЂР°РјРµСЂ" culture = azerothian}
-73 = {name = "Р’РёРЅРґС„РѕСЂРґ" culture = azerothian}
-74 = {name = "Р“СЂРµРіРѕСЂРё" culture = azerothian}
-75 = {name = "Р›Р°РЅРіСЃС‚РѕРЅ" culture = azerothian}
-76 = {name = "Р РµРґСЊСЋ" culture = azerothian}
-77 = {name = "РљР»РѕР№СЃ" culture = azerothian}
-78 = {name = "Р¤Р°СЂРґРµР№Р»" culture = azerothian}
-79 = {name = "Р”РёРЅРґРµРЅ" culture = azerothian}
-80 = {name = "РўРѕРІР°Р»СЊРґ" culture = azerothian}
-81 = {name = "Р¤Р»Р°РЅРЅРёРЅРі" culture = azerothian}
-82 = {name = "РљСѓР»Р»РµРЅ" culture = azerothian}
-83 = {name = "Р›РµРѕС„СЃС‚Р°РЅ" culture = azerothian}
-84 = {name = "РўРѕРјРїСЃРѕРЅ" culture = azerothian}
-85 = {name = "РњРёР»Р±Рё" culture = azerothian}
-86 = {name = "Р Р°Р»Р»" culture = azerothian}
-87 = {name = "РҐРµР»СЊСЃРёРЅРі" culture = azerothian}
-88 = {name = "РњР°СЃРѕРЅ" culture = azerothian}
-89 = {name = "РџСЂР°Р№СЃ" culture = azerothian}
-90 = {name = "РўР°Р»СѓСѓРЅ" culture = azerothian}
-91 = {name = "Р›СЊСЋРёСЃ" culture = azerothian}
-92 = {name = "Р РѕР±РµСЂС‚СЃ" culture = azerothian}
-93 = {name = "РџР°РґРґРѕРє" culture = azerothian}
-94 = {name = "Р›РѕС…Р°РЅ" culture = azerothian}
-95 = {name = "РўРµР№С‚" culture = azerothian}
-96 = {name = "Р›Р°СЂСЃРѕРЅ" culture = azerothian}
-97 = {name = "РўРёР»СЃРґРµР№Р»" culture = azerothian}
-98 = {name = "РЈРѕР»Р»РµСЂС‚РѕРЅ" culture = azerothian}
-99 = {name = "Р¤Р°СЃРµС‚" culture = azerothian}
-100 = {name = "Р“Р°РјРї" culture = azerothian}
-101 = {name = "РњСѓСЂ" culture = azerothian}
-102 = {name = "Р“РѕСЂРґРѕРЅ" culture = azerothian}
-103 = {name = "Р¤РѕР»РєРЅРµСЂ" culture = azerothian}
-104 = {name = "Р¤Р»РѕСЂРµСЃ" culture = azerothian}
-105 = {name = "Р’РёРє" culture = azerothian}
-106 = {name = "РњР°СЂС‚РёРЅ" culture = azerothian}
-107 = {name = "РЎС‚РѕРІРµСЂ" culture = azerothian}
+32 = {name = "Карр" culture = azerothian}
+33 = {name = "Диринг" culture = azerothian}
+34 = {name = "из Красногорья" culture = azerothian}
+35 = {name = "Мосс" culture = azerothian}
+36 = {name = "Гайман" culture = azerothian}
+37 = {name = "Годвин" culture = azerothian}
+38 = {name = "Малин" culture = azerothian}
+39 = {name = "Спенсер" culture = azerothian}
+40 = {name = "Страж" culture = azerothian}
+41 = {name = "Чилтон" culture = azerothian}
+42 = {name = "Фитч" culture = azerothian}
+43 = {name = "Фицджеральд" culture = azerothian}
+44 = {name = "Гессе" culture = azerothian}
+45 = {name = "Джаксон" culture = azerothian}
+46 = {name = "Лауффер" culture = azerothian}
+47 = {name = "Бакстер" culture = azerothian}
+48 = {name = "Хилл" culture = azerothian}
+49 = {name = "Мюррей" culture = azerothian}
+50 = {name = "Алекстон" culture = azerothian}
+51 = {name = "Пирс" culture = azerothian}
+52 = {name = "Белл" culture = azerothian}
+53 = {name = "Триас" culture = azerothian}
+54 = {name = "Резьборез" culture = azerothian}
+55 = {name = "Гамп" culture = azerothian}
+56 = {name = "Алдир" culture = azerothian}
+57 = {name = "Квин" culture = azerothian}
+58 = {name = "Барретт" culture = azerothian}
+59 = {name = "Делавей" culture = azerothian}
+60 = {name = "Фартинг" culture = azerothian}
+61 = {name = "Сталон" culture = azerothian}
+62 = {name = "Удар Клюва" culture = azerothian}
+63 = {name = "Сталерук" culture = azerothian}
+64 = {name = "Кэмпбелл" culture = azerothian}
+65 = {name = "Уорнер" culture = azerothian}
+66 = {name = "Соппнер" culture = azerothian}
+67 = {name = "Кассий" culture = azerothian}
+68 = {name = "Крос" culture = azerothian}
+69 = {name = "Брадсетер" culture = azerothian}
+70 = {name = "Сингх" culture = azerothian}
+71 = {name = "Кинси" culture = azerothian}
+72 = {name = "Крамер" culture = azerothian}
+73 = {name = "Виндфорд" culture = azerothian}
+74 = {name = "Грегори" culture = azerothian}
+75 = {name = "Лангстон" culture = azerothian}
+76 = {name = "Редью" culture = azerothian}
+77 = {name = "Клойс" culture = azerothian}
+78 = {name = "Фардейл" culture = azerothian}
+79 = {name = "Динден" culture = azerothian}
+80 = {name = "Товальд" culture = azerothian}
+81 = {name = "Фланнинг" culture = azerothian}
+82 = {name = "Куллен" culture = azerothian}
+83 = {name = "Леофстан" culture = azerothian}
+84 = {name = "Томпсон" culture = azerothian}
+85 = {name = "Милби" culture = azerothian}
+86 = {name = "Ралл" culture = azerothian}
+87 = {name = "Хельсинг" culture = azerothian}
+88 = {name = "Масон" culture = azerothian}
+89 = {name = "Прайс" culture = azerothian}
+90 = {name = "Талуун" culture = azerothian}
+91 = {name = "Льюис" culture = azerothian}
+92 = {name = "Робертс" culture = azerothian}
+93 = {name = "Паддок" culture = azerothian}
+94 = {name = "Лохан" culture = azerothian}
+95 = {name = "Тейт" culture = azerothian}
+96 = {name = "Ларсон" culture = azerothian}
+97 = {name = "Тилсдейл" culture = azerothian}
+98 = {name = "Уоллертон" culture = azerothian}
+99 = {name = "Фасет" culture = azerothian}
+100 = {name = "Гамп" culture = azerothian}
+101 = {name = "Мур" culture = azerothian}
+102 = {name = "Гордон" culture = azerothian}
+103 = {name = "Фолкнер" culture = azerothian}
+104 = {name = "Флорес" culture = azerothian}
+105 = {name = "Вик" culture = azerothian}
+106 = {name = "Мартин" culture = azerothian}
+107 = {name = "Стовер" culture = azerothian}
 108 = {
-	name = "Р›РѕС‚Р°СЂ"
+	name = "Лотар"
 	culture = arathorian
 	coat_of_arms = {
 		religion = holy_light
@@ -140,312 +140,312 @@
 		}
 	}
 }
-109 = {name = "РўРµРЅРѕСЂРј" culture = azerothian}
-110 = {name = "РљР»Р°Р№" culture = azerothian}
-111 = {name = "Р”Р¶РѕРЅР°С‚Р°РЅ" culture = azerothian}
-112 = {name = "РњР°Р»СЃР±РµСЂРё" culture = azerothian}
-113 = {name = "РљРѕСЌРЅ" culture = azerothian}
-114 = {name = "Р РѕРґРёРЅРµСЂ" culture = azerothian}
-115 = {name = "РђС‚РєРёРЅСЃРѕРЅ" culture = azerothian}
-116 = {name = "РђСЂРґСѓСЃ" culture = azerothian}
-117 = {name = "Р­Р»РјРѕСЂ" culture = azerothian}
-118 = {name = "РҐР°РјРјРѕРЅ" culture = azerothian}
-119 = {name = "Р­РЅРЅР°СЂС‚" culture = azerothian}
-120 = {name = "РљСЌСЂСЂРёРЅ" culture = azerothian}
-121 = {name = "Р‘Р°РіР»Рё" culture = azerothian}
-122 = {name = "Р”Р¶РѕРЅСЃ" culture = azerothian}
-123 = {name = "Р”Р°СЂРјРёСЂ" culture = azerothian}
-124 = {name = "Р“Р°Р»Р»РёРЅР°" culture = azerothian}
-125 = {name = "РљР°СѓРІРёРЅ" culture = azerothian}
-126 = {name = "Р‘РѕСЌРј" culture = azerothian}
-127 = {name = "Р”РµРјР°Р»СЊРµ" culture = azerothian}
-128 = {name = "РўР°СЂРІР°РЅ" culture = azerothian}
-129 = {name = "Р¤Р»РµС‚С‡РµСЂ" culture = azerothian}
-130 = {name = "Р§Р°РґРґРёСЃ" culture = azerothian}
-131 = {name = "Р“Р°Р»Р»Р°С…РµСЂ" culture = azerothian}
-132 = {name = "РЈР°Р№С‚" culture = azerothian}
-133 = {name = "Р‘СѓС€Рµ" culture = azerothian}
-134 = {name = "РђРіРёР»Р°СЂ" culture = azerothian}
-135 = {name = "Р Р°Р№С‚" culture = azerothian}
-136 = {name = "РљР°Р·Р°СЂРµР·" culture = azerothian}
-137 = {name = "Р Р°РґСЊСЋ" culture = azerothian}
-138 = {name = "РҐРѕС‚РµС€РµРј" culture = azerothian}
-139 = {name = "Р”СѓР±РёРЅРі" culture = azerothian}
-140 = {name = "Р­С€РІРёРЅ" culture = azerothian}
-141 = {name = "РџРµРјР±СЂРѕ" culture = azerothian}
-142 = {name = "РЁРЅР°Р№РґРµСЂ" culture = azerothian}
-143 = {name = "РўР°РЅРЅРµСЂР±Рё" culture = azerothian}
-144 = {name = "РЎС‚РёРІРµРЅСЃ" culture = azerothian}
-145 = {name = "Р’РµР№РЅСЂР°Р№С‚" culture = azerothian}
-146 = {name = "РљР°СЂС‚РµСЂ" culture = azerothian}
-147 = {name = "РўРёРјРјРё" culture = azerothian}
-148 = {name = "Р›РµРґРѕР¶Р°СЂ" culture = azerothian}
-149 = {name = "РЎРёРЅРіС…" culture = azerothian}
-150 = {name = "РЎС‚РѕРІРµСЂ" culture = azerothian}
-151 = {name = "РњР°РєРєРёРІРµСЂ" culture = azerothian}
-152 = {name = "РџРёСЂСЃ" culture = azerothian}
-153 = {name = "Р РѕРјР°РЅРѕ" culture = azerothian}
-154 = {name = "Р’РёС€Р»РѕРє" culture = azerothian}
-155 = {name = "Р¤Р°СЂСЂРѕРґРµРЅ" culture = azerothian}
-156 = {name = "РќРёРєРѕР»СЃРѕРЅ" culture = azerothian}
-157 = {name = "РљРѕСЂРґРµР»Р»" culture = azerothian}
-158 = {name = "РЎРµРІРµСЂРёРЅРі" culture = azerothian}
-159 = {name = "РўРёР»Р»РјР°РЅ" culture = azerothian}
-160 = {name = "Р”СЋРјР°" culture = azerothian}
-161 = {name = "РЎР°РјСѓСЌР»СЊСЃРѕРЅ" culture = azerothian}
-162 = {name = "РЎР°С‚С‚РѕРЅ" culture = azerothian}
-163 = {name = "Р“СЂРµР№РЅРґР¶РµСЂ" culture = azerothian}
-164 = {name = "Р“СЂР°РЅС‚" culture = azerothian}
-165 = {name = "Р›Р°РЅРєР°СЃС‚РµСЂ" culture = azerothian}
-166 = {name = "Р‘РёРіРіРёРЅСЃ" culture = azerothian}
-167 = {name = "Р’СѓРґ" culture = azerothian}
-168 = {name = "РўР°РЅ" culture = azerothian}
-169 = {name = "Р”РѕСѓСЃРѕРЅ" culture = azerothian}
-170 = {name = "РњР°Р»Р°РіР°РЅ" culture = azerothian}
-171 = {name = "Р”РёРєСЃРѕРЅ" culture = azerothian}
-172 = {name = "РЎРёРґРЅСЃРѕРЅ" culture = azerothian}
-173 = {name = "РЎРЅРѕРї" culture = azerothian}
-174 = {name = "Р–РµР»РµР·РЅР°СЏ Р“РѕСЂР°" culture = azerothian}
-175 = {name = "Р’РёРЅРєР°СЃС‚РµСЂ" culture = azerothian}
-176 = {name = "Р РµСЃС‚Р»" culture = azerothian}
-177 = {name = "Р”РёРЅРіР»РµРЅ" culture = azerothian}
-178 = {name = "Р“РёСЃР±РѕРЅ" culture = azerothian}
-179 = {name = "Р›РѕСЂРё" culture = azerothian}
-180 = {name = "РќР°РґРµСЂ" culture = azerothian}
-181 = {name = "РњРµРґРµР№СЂРѕСЃ" culture = azerothian}
-182 = {name = "РЎС‚РѕРєС‚РѕРЅ" culture = azerothian}
-183 = {name = "РўРІРµСЂРґРѕР·РµРј" culture = azerothian}
-184 = {name = "РњРµР№РµСЂ" culture = azerothian}
-185 = {name = "Р Р°СЃРєРѕР»" culture = azerothian}
-186 = {name = "РђСЂРµР№РЅ" culture = azerothian}
-187 = {name = "Р”Р¶Р°РєСЃРѕРЅ" culture = azerothian}
-188 = {name = "Р”Р¶РµР№РЅ" culture = azerothian}
-189 = {name = "Р‘РµСЂРЅСЃ" culture = azerothian}
-190 = {name = "РЎРїР°СѓРЅ" culture = azerothian}
-191 = {name = "Р¤Р»Р°Р№" culture = azerothian}
-192 = {name = "Р РёС‡Р°СЂРґСЃРѕРЅ" culture = azerothian}
-193 = {name = "Р”Р°СѓРЅРёРЅРі" culture = azerothian}
-194 = {name = "РЎС‚Р°РЅР°С„РѕРЅ" culture = azerothian}
-195 = {name = "Р¤РёР»РёРїСЃ" culture = azerothian}
-196 = {name = "РџРёРєР°СЂРґРѕ" culture = azerothian}
-197 = {name = "РЈРёР»СЃ" culture = azerothian}
-198 = {name = "Р”Р°РјРёСЂ" culture = azerothian}
-199 = {name = "Р›СЋС‚РµСЂ" culture = azerothian}
-200 = {name = "Р’РµСЃС‚РјРёР»Р»" culture = azerothian}
-201 = {name = "Р§Р°Р№РєР°" culture = azerothian}
-202 = {name = "Р’РёРЅС‚РµСЂРґРµРІ" culture = azerothian}
-203 = {name = "Р“СЂРёС„С„РёС‚" culture = azerothian}
-204 = {name = "Р”Р¶РѕСЂРґР¶" culture = azerothian}
-205 = {name = "РџСЂРµСЃСЃР»РµСЂ" culture = azerothian}
-206 = {name = "РљРѕСѓРїР»РµРЅРґ" culture = azerothian}
-207 = {name = "РљРёРЅР°РЅ" culture = azerothian}
-208 = {name = "РњРѕСЂ" culture = azerothian}
-209 = {name = "Р”Р¶СѓРЅ" culture = azerothian}
-210 = {name = "РљСЂР°РЅР°С…" culture = azerothian}
-211 = {name = "РўРІРµР№РЅ" culture = azerothian}
-212 = {name = "РЎС‚СЂР°Р№РєРµСЂ" culture = azerothian}
-213 = {name = "РЎС‚РѕРєС‚РѕРЅ" culture = azerothian}
-214 = {name = "Р§РµР»Р»РµРЅРґРµСЂ" culture = azerothian}
-215 = {name = "Р РѕСѓР·" culture = azerothian}
-216 = {name = "Р Р°Р¶РёРґ" culture = azerothian}
-217 = {name = "РЎС‚СѓСЂР·Р°С…" culture = azerothian}
-218 = {name = "Р”Р¶Рѕ" culture = azerothian}
-219 = {name = "Р“Р°С€РµРј" culture = azerothian}
-220 = {name = "РЎС‚СЌРјС„РѕСЂРґСЃРѕРЅ" culture = azerothian}
-221 = {name = "Р¤СѓР»С‚РѕРЅ" culture = azerothian}
-222 = {name = "Р’РµР№РЅСЂР°Р№С‚" culture = azerothian}
-223 = {name = "РЁС‚СЂР°РЅРі" culture = azerothian}
-224 = {name = "РђСЂРјСЃС‚СЂРѕРЅРі" culture = azerothian}
-225 = {name = "РЈРёР»СЊСЏРјСЃ" culture = azerothian}
-226 = {name = "Р РµРґРјР°РЅ" culture = azerothian}
-227 = {name = "РҐР°РЅСЃСЂР°Р№Рј" culture = azerothian}
-228 = {name = "Р›Р°СЂСЃРѕРЅ" culture = azerothian}
-229 = {name = "РЎРјРёС‚" culture = azerothian}
-230 = {name = "Р“Р°Р№" culture = azerothian}
-231 = {name = "Р¤РёС†СЂРѕР№" culture = azerothian}
-232 = {name = "Р‘РµР»РіСЂР°Рј" culture = azerothian}
-233 = {name = "РљР°Р»РґРµСЂ" culture = azerothian}
-234 = {name = "Р’Р°РЅСЃС‚РµРЅ" culture = azerothian}
-235 = {name = "Р“СЂРёРЅ" culture = azerothian}
-236 = {name = "РЁРµР»РґРѕРЅРѕСЂ" culture = azerothian}
-237 = {name = "Р‘Р°РєР»РµСЂ" culture = azerothian}
-238 = {name = "Р›РёРјРїРєРёРЅ" culture = azerothian}
-239 = {name = "РљСЂР°СЃРЅСѓС€РєР°" culture = azerothian}
-240 = {name = "Р“РёР±СЃРѕРЅ" culture = azerothian}
-241 = {name = "Р®СЂРіРµРЅС€С‚Р°Рґ" culture = azerothian}
-242 = {name = "Р”РѕРјР±СЂРѕСѓ" culture = azerothian}
-243 = {name = "Р‘РѕР»С‚РѕРєСЂСѓС‚" culture = azerothian}
-244 = {name = "Р‘СѓСЂРє" culture = azerothian}
-245 = {name = "Р’РёС‚С‚РµР»СЊСЃР±Р°С…" culture = azerothian}
-246 = {name = "Р РµСЃСЃРѕСЂР·" culture = azerothian}
-247 = {name = "Р”Р¶РѕСЂРґР°РЅ" culture = azerothian}
-248 = {name = "РљСЂРµРјРЅРµСЃРєР°Р»" culture = azerothian}
-249 = {name = "РЈСЌР±Р±" culture = azerothian}
-250 = {name = "Р—РёРјРЅСЏСЏ РЎС‚Р°Р»СЊ" culture = azerothian}
-251 = {name = "Р›РёРЅРІРѕР»Рґ" culture = azerothian}
-252 = {name = "РҐР°РЅ" culture = azerothian}
-253 = {name = "Р‘РѕС„РѕСЂС‚" culture = azerothian}
-254 = {name = "РҐРёРіРіР»РµРґРё" culture = azerothian}
-255 = {name = "РћСЂРјСЃРµРЅ" culture = azerothian}
-256 = {name = "Р”РёРЅС‚РІР°С‚С‚" culture = azerothian}
-257 = {name = "Р‘СЂСЌРґРіР»РµРЅ" culture = azerothian}
-258 = {name = "РўРѕСЂРёСѓСЃ" culture = azerothian}
-259 = {name = "Р‘Р°Р»Р»РёС…РѕР»Рј" culture = azerothian}
-260 = {name = "РќСѓСЃСЃСѓРЅ" culture = azerothian}
-261 = {name = "Р‘Р°Р»РєРѕРјР±" culture = azerothian}
-262 = {name = "РћСЃРіСѓРґ" culture = azerothian}
-263 = {name = "Р“СЂРµР»РґРѕРЅ" culture = azerothian}
-264 = {name = "РќР°РЅС‚РєСѓРјР±" culture = azerothian}
-265 = {name = "РҐСЂСѓС‰" culture = azerothian}
-266 = {name = "РўСЂРёРЅРґРµСЂ" culture = azerothian}
-267 = {name = "Р­Р°РЅРЅСѓ" culture = azerothian}
-268 = {name = "Р”Р¶Р°РІР°Рґ" culture = azerothian}
-269 = {name = "РЈРѕР»Р»РµСЃ" culture = azerothian}
-270 = {name = "Р”Р¶РѕР№СЃ" culture = azerothian}
-271 = {name = "РљСЂР°СЃРЅРѕРіРѕСЂ" culture = azerothian}
-272 = {name = "РљСѓРє" culture = azerothian}
-273 = {name = "Р“СЂРµР№" culture = azerothian}
-274 = {name = "РљСЂСѓРјРЅ" culture = azerothian}
-275 = {name = "Р’РёРЅС‚РµСЂ" culture = azerothian}
-276 = {name = "РџРµРґР¶РµС‚" culture = azerothian}
-277 = {name = "РўСѓСЂРґРµРЅ" culture = azerothian}
-278 = {name = "Р‘СЂРёР»Р»РёР±РѕР»СЊРґ" culture = azerothian}
-279 = {name = "РћСЃС‚РёРЅ" culture = azerothian}
-280 = {name = "РњР°РіРµР»Р»Р°СЃ" culture = azerothian}
-281 = {name = "РљР°СЂРЅРёРє" culture = azerothian}
-282 = {name = "Р‘СЂР°СѓРЅ" culture = azerothian}
-283 = {name = "РЎС‚Р°Р»Р»СЊ" culture = azerothian}
-284 = {name = "РўРµСЂРЅРµСЂ" culture = azerothian}
-285 = {name = "Р§Р°РїР»РёРЅ" culture = azerothian}
-286 = {name = "РќРµР№Р»РѕСЂ" culture = azerothian}
-287 = {name = "Р’Р°СЂСЂРµСЂ" culture = azerothian}
-288 = {name = "Р‘СЂРёР»Р»РёР±РѕР»СЊРґ" culture = azerothian}
-289 = {name = "Р‘РµРѕСЂРЅРІР°Р»СЊРґ" culture = azerothian}
-290 = {name = "РџР°СѓСЌР»Р»" culture = azerothian}
-291 = {name = "Р›РµР№РЅ" culture = azerothian}
-292 = {name = "Р РѕС‚РёРјРµСЂ" culture = azerothian}
-293 = {name = "РҐР°СЂРїРµСЂ" culture = azerothian}
-294 = {name = "Р”РёРЅ" culture = azerothian}
-295 = {name = "РџРёСЂСЃРѕРЅ" culture = azerothian}
-296 = {name = "Р РёСЃСЃР°РЅ" culture = azerothian}
-297 = {name = "Р РёРґ" culture = azerothian}
-298 = {name = "РљСЂРµРјРЅРµРіР»Р°Р·" culture = azerothian}
-299 = {name = "Р”РѕРЅРЅРµСЂ" culture = azerothian}
-300 = {name = "Р“Р°РјРёР»СЊС‚РѕРЅ" culture = azerothian}
-301 = {name = "Р­Р»Р»РёСЃ" culture = azerothian}
-302 = {name = "Р‘Р°Р»СЊС‚РѕСЂРї" culture = azerothian}
-303 = {name = "РџРёС‚РєРѕС‚С‚" culture = azerothian}
-304 = {name = "РҐР°СЃРєРµР»Р»" culture = azerothian}
-305 = {name = "РљРёСЃСЃРµР»СЊ" culture = azerothian}
-306 = {name = "Р§Р°РїРјР°РЅ" culture = azerothian}
-307 = {name = "Р‘РµРЅРЅРµС‚" culture = azerothian}
-308 = {name = "Р¤Р°СЂРІ" culture = azerothian}
-309 = {name = "Р­РІР°РЅСЃ" culture = azerothian}
-310 = {name = "РўСЂРµР±РѕСЃС‚" culture = azerothian}
-311 = {name = "РЈРёР»РєРёРЅСЃРѕРЅ" culture = azerothian}
-312 = {name = "Р”Р¶РµР№РјСЃ" culture = azerothian}
-313 = {name = "Р‘РµСЂС‚РѕРЅ" culture = azerothian}
-314 = {name = "Р‘РёСЂРЅ" culture = azerothian}
-315 = {name = "РњР°РЅР°РґРѕСЃ" culture = azerothian}
-316 = {name = "РҐРѕР»Р»" culture = azerothian}
-317 = {name = "РҐР°СЂСЂРёСЃРѕРЅ" culture = azerothian}
-318 = {name = "РўРѕР»РѕРЅ" culture = azerothian}
-319 = {name = "РљРѕР»Р»РёРЅСЃ" culture = azerothian}
-320 = {name = "РђР»Р»РµРЅ" culture = azerothian}
-321 = {name = "Р РµР№РЅРѕР»РґСЃ" culture = azerothian}
-322 = {name = "РљР°СЂРІРµСЂ" culture = azerothian}
-323 = {name = "Р‘РµР№Р»Рё" culture = azerothian}
-324 = {name = "Р’СѓРґСЃ" culture = azerothian}
-325 = {name = "РњРёС‚С‡РµР»Р»" culture = azerothian}
-326 = {name = "РњР°Р»РѕСѓР±СЂСѓРє" culture = azerothian}
-327 = {name = "Р’Р°Р»Р°СЃС‚СЂР°Р°" culture = azerothian}
-328 = {name = "Р§РµР№РјР±РµСЂСЃ" culture = azerothian}
-329 = {name = "РџРµСЂРЅРёРє" culture = azerothian}
-330 = {name = "Р‘Р°СЂРєРµСЂ" culture = azerothian}
-331 = {name = "РђСЂРјСЃС‚РµРґ" culture = azerothian}
-332 = {name = "Р›РµРЅС‚РЅРµСЂ" culture = azerothian}
-333 = {name = "Р РѕСЃСЃ" culture = azerothian}
-334 = {name = "Р’РѕСЂРѕРЅСЊСЏ РћР»СЊС…Р°" culture = azerothian}
-335 = {name = "РќРµР±РѕРіСЂРёРІ" culture = azerothian}
-336 = {name = "Р‘Р»РµР№Рє" culture = azerothian}
-337 = {name = "РЎР°РјРјРµСЂСЃРµС‚" culture = azerothian}
-338 = {name = "РђР»Р»РµСЂС‚РѕРЅ" culture = azerothian}
-339 = {name = "РҐРµСЂРёРѕС‚С‚" culture = azerothian}
-340 = {name = "РЎРєРѕС‚С‚" culture = azerothian}
-341 = {name = "Р Р°Р№Р°РЅ" culture = azerothian}
-342 = {name = "Р’РѕР»С‡СЊРµ РЎРµСЂРґС†Рµ" culture = azerothian}
-343 = {name = "Р­РґРІР°СЂРґСЃ" culture = azerothian}
-344 = {name = "РљРѕС‚С‚РµСЂ" culture = azerothian}
-345 = {name = "РќРѕС‡РЅРѕР№ Р’РµСЃС‚РЅРёРє" culture = azerothian}
-346 = {name = "Р”РёРЅС‡РµС‚" culture = azerothian}
-347 = {name = "Р¤РѕР»РєРЅРµСЂ" culture = azerothian}
-348 = {name = "РљР°СЂРЅРµСЂ" culture = azerothian}
-349 = {name = "РЈР°С‚С‚СЃ" culture = azerothian}
-350 = {name = "РђР»Р»РµСЂС‚РѕРЅ" culture = azerothian}
-351 = {name = "Р‘Р°Р»Р»РёРєРѕС‚" culture = azerothian}
-352 = {name = "Р¤Р°СЂР°РЅРєРѕСЂР°" culture = azerothian}
-353 = {name = "РЁРµРїРїРѕСЂС‚" culture = azerothian}
-354 = {name = "Р›Р°РЅРґРµСЂ" culture = azerothian}
-355 = {name = "РђР»Р°С‚РµСЏ" culture = azerothian}
-356 = {name = "Р¤СЂРѕСЃС‚РµСЂСЃ" culture = azerothian}
-357 = {name = "РҐР°Р»РґРёРЅРі" culture = azerothian}
-358 = {name = "РРЅРјР°РЅ" culture = azerothian}
-359 = {name = "РљР»РёР·" culture = azerothian}
-360 = {name = "РђР»Р»РµСЂС‚РѕРЅ" culture = azerothian}
-361 = {name = "РџР°Р¶" culture = azerothian}
-362 = {name = "Р›РµРЅС‚РЅР°СЂ" culture = azerothian}
-363 = {name = "Р§Р°С„С„РµСЂ" culture = azerothian}
-364 = {name = "Р‘СѓСЂС‹Р№ Р СѓС‡РµР№" culture = azerothian}
-365 = {name = "Р”СЋРјР°" culture = azerothian}
-366 = {name = "РљРѕР»Р»РёРµСЂ" culture = azerothian}
-367 = {name = "РђРЅРґСЂРµРЅ" culture = azerothian}
-368 = {name = "Р”СЂРµРЅРёРЅ" culture = azerothian}
-369 = {name = "Р­РѕС…" culture = azerothian}
-370 = {name = "РџРѕРЅС‚РіРёР»Р»" culture = azerothian}
-371 = {name = "РџРѕР»С„РѕСЃСЃ" culture = azerothian}
-372 = {name = "РЎРєР°Р»СЊС‚РµС€" culture = azerothian}
-373 = {name = "Р›РёР»РёРІРёРЅ" culture = azerothian}
-374 = {name = "РљР»Р°СЂРє" culture = azerothian}
-375 = {name = "РЎРёР»РІРµСЂР°Рє" culture = azerothian}
-376 = {name = "РҐР°СЂР»Р°Р°РЅ" culture = azerothian}
-377 = {name = "РќРёСЃСЃРµСЏ" culture = azerothian}
-378 = {name = "Р’СѓРґРІРѕСЂРґ" culture = azerothian}
-379 = {name = "Р¤РёРЅРё" culture = azerothian}
-380 = {name = "Р’Р°СЂРґРµСЂ" culture = azerothian}
-381 = {name = "РџР»СЋРјРјРµСЂ" culture = azerothian}
-382 = {name = "РџР°С‚РµР»" culture = azerothian}
-383 = {name = "РњРѕСЂРіР°РЅ" culture = azerothian}
-384 = {name = "Р Р°РјРѕ" culture = azerothian}
-385 = {name = "РњР°СЂС€" culture = azerothian}
-386 = {name = "РҐР°Р№С„РѕР»Р»" culture = azerothian}
-387 = {name = "Р’С‹СЃРѕРєРѕС…РІР°С‚" culture = azerothian}
-388 = {name = "РЎР°РІРёРЅР°" culture = azerothian}
-389 = {name = "РљР°СЃСЂРµРє" culture = azerothian}
-390 = {name = "РљСЂРµРє" culture = azerothian}
-391 = {name = "РЎРµСЂРµС€" culture = azerothian}
-392 = {name = "РљСЂРѕСѓС‚РµСЂ" culture = azerothian}
-393 = {name = "РўСЂРѕС‚С‚РµСЂ" culture = azerothian}
-394 = {name = "РќР°РїСЂРѕР»РѕРјРј" culture = azerothian}
-395 = {name = "РњР°РєС‚РёР»Р»Р°" culture = azerothian}
-396 = {name = "РњР°СЂС€Р°Р»Р»" culture = azerothian}
-397 = {name = "РўСЂР°СЃРє" culture = azerothian}
-398 = {name = "РљСЂРѕСѓСЃРѕРЅ" culture = azerothian}
-399 = {name = "РЈРѕС‚РєРёРЅСЃ" culture = azerothian}
-400 = {name = "Р”Р¶РѕРїР»РёРЅ" culture = azerothian}
-401 = {name = "РњРёР»Р»Р·" culture = azerothian}
-402 = {name = "РљСѓСЂС†РµРЅ" culture = azerothian}
-403 = {name = "РҐР°СЂСЂРёСЃ" culture = azerothian}
-404 = {name = "Р¤Р°Р·РґСЂР°РЅ" culture = azerothian}
-405 = {name = "РќР°Р№С‚Р±РµР№РЅ" culture = azerothian}
-406 = {name = "РЎС‚СЋР°СЂС‚" culture = azerothian}
-407 = {name = "Р¤РµР»" culture = azerothian}
-408 = {name = "РљР°РјРЅРµРіСЂРёРІ" culture = azerothian}
-409 = {name = "РІР°РЅ РљР»РёС„" culture = azerothian}
-410 = {name = "РўСЂРµРґРґ" culture = azerothian}
-411 = {name = "РљР°СЂР»С‚РѕРЅ" culture = azerothian}
-412 = {name = "РњРѕСЂС‚РІРµР№Рє" culture = azerothian}
+109 = {name = "Тенорм" culture = azerothian}
+110 = {name = "Клай" culture = azerothian}
+111 = {name = "Джонатан" culture = azerothian}
+112 = {name = "Малсбери" culture = azerothian}
+113 = {name = "Коэн" culture = azerothian}
+114 = {name = "Родинер" culture = azerothian}
+115 = {name = "Аткинсон" culture = azerothian}
+116 = {name = "Ардус" culture = azerothian}
+117 = {name = "Элмор" culture = azerothian}
+118 = {name = "Хаммон" culture = azerothian}
+119 = {name = "Эннарт" culture = azerothian}
+120 = {name = "Кэррин" culture = azerothian}
+121 = {name = "Багли" culture = azerothian}
+122 = {name = "Джонс" culture = azerothian}
+123 = {name = "Дармир" culture = azerothian}
+124 = {name = "Галлина" culture = azerothian}
+125 = {name = "Каувин" culture = azerothian}
+126 = {name = "Боэм" culture = azerothian}
+127 = {name = "Демалье" culture = azerothian}
+128 = {name = "Тарван" culture = azerothian}
+129 = {name = "Флетчер" culture = azerothian}
+130 = {name = "Чаддис" culture = azerothian}
+131 = {name = "Галлахер" culture = azerothian}
+132 = {name = "Уайт" culture = azerothian}
+133 = {name = "Буше" culture = azerothian}
+134 = {name = "Агилар" culture = azerothian}
+135 = {name = "Райт" culture = azerothian}
+136 = {name = "Казарез" culture = azerothian}
+137 = {name = "Радью" culture = azerothian}
+138 = {name = "Хотешем" culture = azerothian}
+139 = {name = "Дубинг" culture = azerothian}
+140 = {name = "Эшвин" culture = azerothian}
+141 = {name = "Пембро" culture = azerothian}
+142 = {name = "Шнайдер" culture = azerothian}
+143 = {name = "Таннерби" culture = azerothian}
+144 = {name = "Стивенс" culture = azerothian}
+145 = {name = "Вейнрайт" culture = azerothian}
+146 = {name = "Картер" culture = azerothian}
+147 = {name = "Тимми" culture = azerothian}
+148 = {name = "Ледожар" culture = azerothian}
+149 = {name = "Сингх" culture = azerothian}
+150 = {name = "Стовер" culture = azerothian}
+151 = {name = "Маккивер" culture = azerothian}
+152 = {name = "Пирс" culture = azerothian}
+153 = {name = "Романо" culture = azerothian}
+154 = {name = "Вишлок" culture = azerothian}
+155 = {name = "Фарроден" culture = azerothian}
+156 = {name = "Николсон" culture = azerothian}
+157 = {name = "Корделл" culture = azerothian}
+158 = {name = "Северинг" culture = azerothian}
+159 = {name = "Тиллман" culture = azerothian}
+160 = {name = "Дюма" culture = azerothian}
+161 = {name = "Самуэльсон" culture = azerothian}
+162 = {name = "Саттон" culture = azerothian}
+163 = {name = "Грейнджер" culture = azerothian}
+164 = {name = "Грант" culture = azerothian}
+165 = {name = "Ланкастер" culture = azerothian}
+166 = {name = "Биггинс" culture = azerothian}
+167 = {name = "Вуд" culture = azerothian}
+168 = {name = "Тан" culture = azerothian}
+169 = {name = "Доусон" culture = azerothian}
+170 = {name = "Малаган" culture = azerothian}
+171 = {name = "Диксон" culture = azerothian}
+172 = {name = "Сиднсон" culture = azerothian}
+173 = {name = "Сноп" culture = azerothian}
+174 = {name = "Железная Гора" culture = azerothian}
+175 = {name = "Винкастер" culture = azerothian}
+176 = {name = "Рестл" culture = azerothian}
+177 = {name = "Динглен" culture = azerothian}
+178 = {name = "Гисбон" culture = azerothian}
+179 = {name = "Лори" culture = azerothian}
+180 = {name = "Надер" culture = azerothian}
+181 = {name = "Медейрос" culture = azerothian}
+182 = {name = "Стоктон" culture = azerothian}
+183 = {name = "Твердозем" culture = azerothian}
+184 = {name = "Мейер" culture = azerothian}
+185 = {name = "Раскол" culture = azerothian}
+186 = {name = "Арейн" culture = azerothian}
+187 = {name = "Джаксон" culture = azerothian}
+188 = {name = "Джейн" culture = azerothian}
+189 = {name = "Бернс" culture = azerothian}
+190 = {name = "Спаун" culture = azerothian}
+191 = {name = "Флай" culture = azerothian}
+192 = {name = "Ричардсон" culture = azerothian}
+193 = {name = "Даунинг" culture = azerothian}
+194 = {name = "Станафон" culture = azerothian}
+195 = {name = "Филипс" culture = azerothian}
+196 = {name = "Пикардо" culture = azerothian}
+197 = {name = "Уилс" culture = azerothian}
+198 = {name = "Дамир" culture = azerothian}
+199 = {name = "Лютер" culture = azerothian}
+200 = {name = "Вестмилл" culture = azerothian}
+201 = {name = "Чайка" culture = azerothian}
+202 = {name = "Винтердев" culture = azerothian}
+203 = {name = "Гриффит" culture = azerothian}
+204 = {name = "Джордж" culture = azerothian}
+205 = {name = "Пресслер" culture = azerothian}
+206 = {name = "Коупленд" culture = azerothian}
+207 = {name = "Кинан" culture = azerothian}
+208 = {name = "Мор" culture = azerothian}
+209 = {name = "Джун" culture = azerothian}
+210 = {name = "Кранах" culture = azerothian}
+211 = {name = "Твейн" culture = azerothian}
+212 = {name = "Страйкер" culture = azerothian}
+213 = {name = "Стоктон" culture = azerothian}
+214 = {name = "Челлендер" culture = azerothian}
+215 = {name = "Роуз" culture = azerothian}
+216 = {name = "Ражид" culture = azerothian}
+217 = {name = "Стурзах" culture = azerothian}
+218 = {name = "Джо" culture = azerothian}
+219 = {name = "Гашем" culture = azerothian}
+220 = {name = "Стэмфордсон" culture = azerothian}
+221 = {name = "Фултон" culture = azerothian}
+222 = {name = "Вейнрайт" culture = azerothian}
+223 = {name = "Штранг" culture = azerothian}
+224 = {name = "Армстронг" culture = azerothian}
+225 = {name = "Уильямс" culture = azerothian}
+226 = {name = "Редман" culture = azerothian}
+227 = {name = "Хансрайм" culture = azerothian}
+228 = {name = "Ларсон" culture = azerothian}
+229 = {name = "Смит" culture = azerothian}
+230 = {name = "Гай" culture = azerothian}
+231 = {name = "Фицрой" culture = azerothian}
+232 = {name = "Белграм" culture = azerothian}
+233 = {name = "Калдер" culture = azerothian}
+234 = {name = "Ванстен" culture = azerothian}
+235 = {name = "Грин" culture = azerothian}
+236 = {name = "Шелдонор" culture = azerothian}
+237 = {name = "Баклер" culture = azerothian}
+238 = {name = "Лимпкин" culture = azerothian}
+239 = {name = "Краснушка" culture = azerothian}
+240 = {name = "Гибсон" culture = azerothian}
+241 = {name = "Юргенштад" culture = azerothian}
+242 = {name = "Домброу" culture = azerothian}
+243 = {name = "Болтокрут" culture = azerothian}
+244 = {name = "Бурк" culture = azerothian}
+245 = {name = "Виттельсбах" culture = azerothian}
+246 = {name = "Рессорз" culture = azerothian}
+247 = {name = "Джордан" culture = azerothian}
+248 = {name = "Кремнескал" culture = azerothian}
+249 = {name = "Уэбб" culture = azerothian}
+250 = {name = "Зимняя Сталь" culture = azerothian}
+251 = {name = "Линволд" culture = azerothian}
+252 = {name = "Хан" culture = azerothian}
+253 = {name = "Бофорт" culture = azerothian}
+254 = {name = "Хиггледи" culture = azerothian}
+255 = {name = "Ормсен" culture = azerothian}
+256 = {name = "Динтватт" culture = azerothian}
+257 = {name = "Брэдглен" culture = azerothian}
+258 = {name = "Ториус" culture = azerothian}
+259 = {name = "Баллихолм" culture = azerothian}
+260 = {name = "Нуссун" culture = azerothian}
+261 = {name = "Балкомб" culture = azerothian}
+262 = {name = "Осгуд" culture = azerothian}
+263 = {name = "Грелдон" culture = azerothian}
+264 = {name = "Нанткумб" culture = azerothian}
+265 = {name = "Хрущ" culture = azerothian}
+266 = {name = "Триндер" culture = azerothian}
+267 = {name = "Эанну" culture = azerothian}
+268 = {name = "Джавад" culture = azerothian}
+269 = {name = "Уоллес" culture = azerothian}
+270 = {name = "Джойс" culture = azerothian}
+271 = {name = "Красногор" culture = azerothian}
+272 = {name = "Кук" culture = azerothian}
+273 = {name = "Грей" culture = azerothian}
+274 = {name = "Крумн" culture = azerothian}
+275 = {name = "Винтер" culture = azerothian}
+276 = {name = "Педжет" culture = azerothian}
+277 = {name = "Турден" culture = azerothian}
+278 = {name = "Бриллибольд" culture = azerothian}
+279 = {name = "Остин" culture = azerothian}
+280 = {name = "Магеллас" culture = azerothian}
+281 = {name = "Карник" culture = azerothian}
+282 = {name = "Браун" culture = azerothian}
+283 = {name = "Сталль" culture = azerothian}
+284 = {name = "Тернер" culture = azerothian}
+285 = {name = "Чаплин" culture = azerothian}
+286 = {name = "Нейлор" culture = azerothian}
+287 = {name = "Варрер" culture = azerothian}
+288 = {name = "Бриллибольд" culture = azerothian}
+289 = {name = "Беорнвальд" culture = azerothian}
+290 = {name = "Пауэлл" culture = azerothian}
+291 = {name = "Лейн" culture = azerothian}
+292 = {name = "Ротимер" culture = azerothian}
+293 = {name = "Харпер" culture = azerothian}
+294 = {name = "Дин" culture = azerothian}
+295 = {name = "Пирсон" culture = azerothian}
+296 = {name = "Риссан" culture = azerothian}
+297 = {name = "Рид" culture = azerothian}
+298 = {name = "Кремнеглаз" culture = azerothian}
+299 = {name = "Доннер" culture = azerothian}
+300 = {name = "Гамильтон" culture = azerothian}
+301 = {name = "Эллис" culture = azerothian}
+302 = {name = "Бальторп" culture = azerothian}
+303 = {name = "Питкотт" culture = azerothian}
+304 = {name = "Хаскелл" culture = azerothian}
+305 = {name = "Киссель" culture = azerothian}
+306 = {name = "Чапман" culture = azerothian}
+307 = {name = "Беннет" culture = azerothian}
+308 = {name = "Фарв" culture = azerothian}
+309 = {name = "Эванс" culture = azerothian}
+310 = {name = "Требост" culture = azerothian}
+311 = {name = "Уилкинсон" culture = azerothian}
+312 = {name = "Джеймс" culture = azerothian}
+313 = {name = "Бертон" culture = azerothian}
+314 = {name = "Бирн" culture = azerothian}
+315 = {name = "Манадос" culture = azerothian}
+316 = {name = "Холл" culture = azerothian}
+317 = {name = "Харрисон" culture = azerothian}
+318 = {name = "Толон" culture = azerothian}
+319 = {name = "Коллинс" culture = azerothian}
+320 = {name = "Аллен" culture = azerothian}
+321 = {name = "Рейнолдс" culture = azerothian}
+322 = {name = "Карвер" culture = azerothian}
+323 = {name = "Бейли" culture = azerothian}
+324 = {name = "Вудс" culture = azerothian}
+325 = {name = "Митчелл" culture = azerothian}
+326 = {name = "Малоубрук" culture = azerothian}
+327 = {name = "Валастраа" culture = azerothian}
+328 = {name = "Чеймберс" culture = azerothian}
+329 = {name = "Перник" culture = azerothian}
+330 = {name = "Баркер" culture = azerothian}
+331 = {name = "Армстед" culture = azerothian}
+332 = {name = "Лентнер" culture = azerothian}
+333 = {name = "Росс" culture = azerothian}
+334 = {name = "Воронья Ольха" culture = azerothian}
+335 = {name = "Небогрив" culture = azerothian}
+336 = {name = "Блейк" culture = azerothian}
+337 = {name = "Саммерсет" culture = azerothian}
+338 = {name = "Аллертон" culture = azerothian}
+339 = {name = "Хериотт" culture = azerothian}
+340 = {name = "Скотт" culture = azerothian}
+341 = {name = "Райан" culture = azerothian}
+342 = {name = "Волчье Сердце" culture = azerothian}
+343 = {name = "Эдвардс" culture = azerothian}
+344 = {name = "Коттер" culture = azerothian}
+345 = {name = "Ночной Вестник" culture = azerothian}
+346 = {name = "Динчет" culture = azerothian}
+347 = {name = "Фолкнер" culture = azerothian}
+348 = {name = "Карнер" culture = azerothian}
+349 = {name = "Уаттс" culture = azerothian}
+350 = {name = "Аллертон" culture = azerothian}
+351 = {name = "Балликот" culture = azerothian}
+352 = {name = "Фаранкора" culture = azerothian}
+353 = {name = "Шеппорт" culture = azerothian}
+354 = {name = "Ландер" culture = azerothian}
+355 = {name = "Алатея" culture = azerothian}
+356 = {name = "Фростерс" culture = azerothian}
+357 = {name = "Халдинг" culture = azerothian}
+358 = {name = "Инман" culture = azerothian}
+359 = {name = "Клиз" culture = azerothian}
+360 = {name = "Аллертон" culture = azerothian}
+361 = {name = "Паж" culture = azerothian}
+362 = {name = "Лентнар" culture = azerothian}
+363 = {name = "Чаффер" culture = azerothian}
+364 = {name = "Бурый Ручей" culture = azerothian}
+365 = {name = "Дюма" culture = azerothian}
+366 = {name = "Коллиер" culture = azerothian}
+367 = {name = "Андрен" culture = azerothian}
+368 = {name = "Дренин" culture = azerothian}
+369 = {name = "Эох" culture = azerothian}
+370 = {name = "Понтгилл" culture = azerothian}
+371 = {name = "Полфосс" culture = azerothian}
+372 = {name = "Скальтеш" culture = azerothian}
+373 = {name = "Лиливин" culture = azerothian}
+374 = {name = "Кларк" culture = azerothian}
+375 = {name = "Силверак" culture = azerothian}
+376 = {name = "Харлаан" culture = azerothian}
+377 = {name = "Ниссея" culture = azerothian}
+378 = {name = "Вудворд" culture = azerothian}
+379 = {name = "Фини" culture = azerothian}
+380 = {name = "Вардер" culture = azerothian}
+381 = {name = "Плюммер" culture = azerothian}
+382 = {name = "Пател" culture = azerothian}
+383 = {name = "Морган" culture = azerothian}
+384 = {name = "Рамо" culture = azerothian}
+385 = {name = "Марш" culture = azerothian}
+386 = {name = "Хайфолл" culture = azerothian}
+387 = {name = "Высокохват" culture = azerothian}
+388 = {name = "Савина" culture = azerothian}
+389 = {name = "Касрек" culture = azerothian}
+390 = {name = "Крек" culture = azerothian}
+391 = {name = "Сереш" culture = azerothian}
+392 = {name = "Кроутер" culture = azerothian}
+393 = {name = "Троттер" culture = azerothian}
+394 = {name = "Напроломм" culture = azerothian}
+395 = {name = "Мактилла" culture = azerothian}
+396 = {name = "Маршалл" culture = azerothian}
+397 = {name = "Траск" culture = azerothian}
+398 = {name = "Кроусон" culture = azerothian}
+399 = {name = "Уоткинс" culture = azerothian}
+400 = {name = "Джоплин" culture = azerothian}
+401 = {name = "Миллз" culture = azerothian}
+402 = {name = "Курцен" culture = azerothian}
+403 = {name = "Харрис" culture = azerothian}
+404 = {name = "Фаздран" culture = azerothian}
+405 = {name = "Найтбейн" culture = azerothian}
+406 = {name = "Стюарт" culture = azerothian}
+407 = {name = "Фел" culture = azerothian}
+408 = {name = "Камнегрив" culture = azerothian}
+409 = {name = "ван Клиф" culture = azerothian}
+410 = {name = "Тредд" culture = azerothian}
+411 = {name = "Карлтон" culture = azerothian}
+412 = {name = "Мортвейк" culture = azerothian}
 
-413 = {name = "Р’РёРЅР·РґРѕСЂ" culture = azerothian} #Lore dynasty of Reginald Windsor
-414 = {name = "РђС‚Р»Р°СЂ" culture = azerothian} #Lore dynasty of Highlord Demitrian
-415 = {name = "Р›Р°РїРёРґРёСЃ" culture = azerothian} #Lore dynasty of Doctor Lapidis
-416 = {name = "Р‘Р°РЅРґРѕСЂ" culture = azerothian} #RPG dynasty of Quentin Bandor
+413 = {name = "Винздор" culture = azerothian} #Lore dynasty of Reginald Windsor
+414 = {name = "Атлар" culture = azerothian} #Lore dynasty of Highlord Demitrian
+415 = {name = "Лапидис" culture = azerothian} #Lore dynasty of Doctor Lapidis
+416 = {name = "Бандор" culture = azerothian} #RPG dynasty of Quentin Bandor
