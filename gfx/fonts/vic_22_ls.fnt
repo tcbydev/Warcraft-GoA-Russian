@@ -1,0 +1,9 @@
+info face="Garamond Premr Pro" size=22 bold=0 italic=0 charset="RUSSIAN" stretchH=100 smooth=1 aa=4 padding=0,0,0,0 spacing=2,2
+common lineHeight=22 base=16 scaleW=256 scaleH=256 pages=1
+char id=69   x=172   y=63    width=11    height=12    xoffset=0     yoffset=4     xadvance=11    page=0 
+char id=71   x=172   y=48    width=7     height=13    xoffset=0     yoffset=4     xadvance=8     page=0 
+char id=72   x=220   y=18    width=13    height=13    xoffset=0     yoffset=4     xadvance=13    page=0 
+char id=73   x=147   y=77    width=5     height=12    xoffset=0     yoffset=4     xadvance=6     page=0 
+char id=76   x=172   y=48    width=7     height=13    xoffset=0     yoffset=4     xadvance=8     page=0 
+char id=78   x=235   y=17    width=13    height=13    xoffset=0     yoffset=4     xadvance=13    page=0 
+char id=83   x=74    y=34    width=12    height=13    xoffset=0     yoffset=4     xadvance=11    page=0 
