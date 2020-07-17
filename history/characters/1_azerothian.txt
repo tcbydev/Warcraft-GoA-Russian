@@ -204,7 +204,7 @@
 	dynasty=1
 	dna="jeomddimpeh"
 	culture=azerothian religion=holy_light
-	father=28	#Sullivan
+	father=28	#Салливан
 	87.7.21={ birth=yes add_trait=creature_human }
 	161.2.26={ death=yes }
 }
@@ -216,7 +216,7 @@
 	martial=5 diplomacy=5 stewardship=7 intrigue=6 learning=6
 	add_trait=skilled_tactician add_trait=craven add_trait=honest add_trait=content 
 	add_trait=kind 
-	father=28	#Sullivan
+	father=28	#Салливан
 	90.7.15={ birth=yes add_trait=creature_human }
 	145.8.10={ death=yes }
 }
@@ -228,7 +228,7 @@
 	martial=4 diplomacy=5 stewardship=4 intrigue=4 learning=5
 	add_trait=grey_eminence add_trait=duelist add_trait=lustful add_trait=temperate add_trait=envious 
 	add_trait=cruel 
-	father=28	#Sullivan
+	father=28	#Салливан
 	94.1.8={ birth=yes add_trait=creature_human }
 	151.7.9={ death=yes }
 }
@@ -238,7 +238,7 @@
 	dynasty=1
 	dna="bnomnngipmj"
 	culture=azerothian religion=holy_light
-	father=28	#Sullivan
+	father=28	#Салливан
 	100.7.14={ birth=yes add_trait=creature_human }
 	178.7.29={ death=yes }
 }
@@ -248,7 +248,7 @@
 	dynasty=1
 	dna="bfojcegiged"
 	culture=azerothian religion=holy_light
-	father=28	#Sullivan
+	father=28	#Салливан
 	104.8.3={ birth=yes add_trait=creature_human }
 	187.12.24={ death=yes }
 }
@@ -259,7 +259,7 @@
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=8 stewardship=4 intrigue=6 learning=6
 	add_trait=grey_eminence add_trait=hunter add_trait=just add_trait=wroth 
-	father=28	#Sullivan
+	father=28	#Салливан
 	110.7.8={ birth=yes add_trait=creature_human }
 	177.7.15={ death=yes }
 }
@@ -269,7 +269,7 @@
 	dynasty=1
 	dna="bebmadifonh"
 	culture=azerothian religion=holy_light
-	father=28	#Sullivan
+	father=28	#Салливан
 	114.5.14={ birth=yes add_trait=creature_human }
 	185.9.4={ death=yes }
 }
@@ -1118,7 +1118,7 @@
 	320.4.24={ death=yes }
 }
 131={
-	name=Hesse
+	name=Гессе
 	dynasty=2
 	dna="iijldheonkb"
 	culture=azerothian religion=holy_light
@@ -1129,7 +1129,7 @@
 	330.10.14={ death=yes }
 }
 132={
-	name=Landina
+	name=Ландина
 	female=yes
 	dynasty=2
 	dna="gigdigcmnic"
@@ -1139,7 +1139,7 @@
 	331.7.11={ death=yes }
 }
 133={
-	name=Newton
+	name=Ньютон
 	dynasty=2
 	dna="dijdbkfhgil"
 	culture=azerothian religion=holy_light
@@ -1163,7 +1163,7 @@
 	358.8.4={ death=yes }
 }
 135={
-	name=Felita
+	name=Фелиция
 	female=yes
 	dynasty=2
 	dna="gipdebfgake"
@@ -1173,7 +1173,7 @@
 	365.10.20={ death=yes }
 }
 136={
-	name=Kenata
+	name=Кената
 	female=yes
 	dynasty=2
 	dna="cdikklcimfb"
@@ -1183,7 +1183,7 @@
 	345.9.22={ death=yes }
 }
 137={
-	name=Rose
+	name=Роза
 	female=yes
 	dynasty=2
 	dna="nijldhepdep"
@@ -1193,7 +1193,7 @@
 	381.5.8={ death=yes }
 }
 138={
-	name=Augustus
+	name=Август
 	dynasty=2
 	dna="ipnnooebefb"
 	culture=azerothian religion=holy_light
@@ -1204,7 +1204,7 @@
 	382.4.8={ death=yes }
 }
 139={
-	name=Melania
+	name=Мелания
 	female=yes
 	dynasty=2
 	dna="dljmlheonkk"
@@ -1214,7 +1214,7 @@
 	388.10.30={ death=yes }
 }
 140={
-	name=Redwald
+	name=Редвальд
 	dynasty=2
 	dna="aaddnhdcnio"
 	culture=azerothian religion=holy_light
@@ -1226,7 +1226,7 @@
 	395.5.15={ death=yes }
 }
 141={
-	name=Redwald
+	name=Редвальд
 	dynasty=2
 	dna="chnlaeebbll"
 	culture=azerothian religion=holy_light
@@ -1248,7 +1248,7 @@
 	383.3.13={ death=yes }
 }
 143={
-	name=Frotlina
+	name=Фротлина
 	female=yes
 	dynasty=2
 	dna="icnnaoebkfh"
@@ -1258,7 +1258,7 @@
 	395.11.29={ death=yes }
 }
 144={
-	name=Fastrada
+	name=Фастрада
 	female=yes
 	dynasty=2
 	dna="ipnnoomjnmb"
@@ -1268,7 +1268,7 @@
 	390.2.22={ death=yes }
 }
 145={
-	name=Kayden
+	name=Кайден
 	dynasty=2
 	dna="hoalakepanl"
 	culture=azerothian religion=holy_light
@@ -1290,7 +1290,7 @@
 	418.11.26={ death=yes }
 }
 147={
-	name=Catriona
+	name=Катриона
 	female=yes
 	dynasty=2
 	dna="chclgbbbklp"
@@ -1300,7 +1300,7 @@
 	448.2.2={ death=yes }
 }
 148={
-	name=Joseph
+	name=Джозеф
 	dynasty=2
 	dna="ahelikhbanl"
 	culture=azerothian religion=holy_light
@@ -1333,7 +1333,7 @@
 	440.12.23={ death=yes }
 }
 151={
-	name=Jillia
+	name=Джиллиан
 	female=yes
 	dynasty=2
 	dna="lbboekggenl"
@@ -1343,14 +1343,14 @@
 	448.6.30={ death=yes }
 }
 152={
-	name=Bradney
+	name=Брэдни
 	dynasty=2
 	dna="memhikophdo"
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=6 stewardship=6 intrigue=6 learning=4
 	add_trait=intricate_webweaver add_trait=trusting add_trait=greedy add_trait=gregarious 
 	add_trait=cruel 
-	father=148	#Joseph
+	father=148	#Джозеф
 	390.3.16={ birth=yes add_trait=creature_human }
 	451.3.31={ death=yes }
 }
@@ -1360,84 +1360,84 @@
 	dynasty=2
 	dna="ahjnkbkbnel"
 	culture=azerothian religion=holy_light
-	father=148	#Joseph
+	father=148	#Джозеф
 	396.1.15={ birth=yes add_trait=creature_human }
 	468.9.18={ death=yes }
 }
 154={
-	name=Clerice
+	name=Кларисса
 	female=yes
 	dynasty=2
 	dna="ehenikkbacl"
 	culture=azerothian religion=holy_light
-	father=148	#Joseph
+	father=148	#Джозеф
 	402.11.19={ birth=yes add_trait=creature_human }
 	472.5.18={ death=yes }
 }
 155={
-	name=Bree
+	name=Бри
 	female=yes
 	dynasty=2
 	dna="baihmdkbnml"
 	culture=azerothian religion=holy_light
-	father=148	#Joseph
+	father=148	#Джозеф
 	407.6.7={ birth=yes add_trait=creature_human }
 	490.9.7={ death=yes }
 }
 156={
-	name=Aldwin
+	name=Альдвин
 	dynasty=2
 	dna="mhohjkooheo"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=7 stewardship=7 intrigue=6 learning=5
 	add_trait=flamboyant_schemer add_trait=content add_trait=charitable add_trait=chaste add_trait=brave 
-	father=152	#Bradney
+	father=152	#Брэдни
 	409.2.13={ birth=yes add_trait=creature_human }
 	502.12.10={ death=yes }
 }
 157={
-	name=Sullivan
+	name=Салливан
 	dynasty=2
 	dna="macahkophlo"
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=7 stewardship=7 intrigue=6 learning=5
 	add_trait=grey_eminence add_trait=duelist add_trait=kind add_trait=shy add_trait=craven 
 	add_trait=trusting 
-	father=152	#Bradney
+	father=152	#Брэдни
 	415.12.5={ birth=yes add_trait=creature_human }
 	496.10.22={ death=yes }
 }
 158={
-	name=Brian
+	name=Брайан
 	dynasty=2
 	dna="meihokopoeo"
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=4 stewardship=5 intrigue=6 learning=6
 	add_trait=misguided_warrior add_trait=duelist add_trait=ambitious add_trait=trusting add_trait=kind 
 	add_trait=temperate 
-	father=152	#Bradney
+	father=152	#Брэдни
 	420.7.18={ birth=yes add_trait=creature_human }
 	537.3.28={ death=yes }
 }
 159={
-	name=Gaiman
+	name=Гайман
 	dynasty=2
 	dna="memoikojhjg"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=7 stewardship=6 intrigue=6 learning=5
 	add_trait=elusive_shadow add_trait=just add_trait=chaste add_trait=trusting add_trait=gluttonous 
 	add_trait=deceitful 
-	father=152	#Bradney
+	father=152	#Брэдни
 	426.9.8={ birth=yes add_trait=creature_human }
 	509.12.5={ death=yes }
 }
 160={
-	name=Catarina
+	name=Катарина
 	female=yes
 	dynasty=2
 	dna="cefknkfdhlm"
 	culture=azerothian religion=holy_light
-	father=156	#Aldwin
+	father=156	#Альдвин
 	432.7.12={ birth=yes add_trait=creature_human }
 	511.2.9={ death=yes }
 }
@@ -1448,43 +1448,43 @@
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=5 stewardship=8 intrigue=4 learning=8
 	add_trait=midas_touched add_trait=trusting add_trait=zealous add_trait=craven 
-	father=156	#Aldwin
+	father=156	#Альдвин
 	437.11.17={ birth=yes add_trait=creature_human }
 	526.2.17={ death=yes }
 }
 162={
-	name=Medivh
+	name=Медив
 	dynasty=2
 	dna="mjfhikoomef"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=4 stewardship=5 intrigue=8 learning=5
 	add_trait=tough_soldier add_trait=content add_trait=trusting add_trait=humble 
-	father=156	#Aldwin
+	father=156	#Альдвин
 	440.9.7={ birth=yes add_trait=creature_human }
 	532.5.8={ death=yes }
 }
 163={
-	name=Keira
+	name=Кира
 	female=yes
 	dynasty=2
 	dna="mjonjiagmho"
 	culture=azerothian religion=holy_light
-	father=156	#Aldwin
+	father=156	#Альдвин
 	446.4.7={ birth=yes add_trait=creature_human }
 	528.12.23={ death=yes }
 }
 164={
-	name=Ardwyn
+	name=Ардвина
 	female=yes
 	dynasty=2
 	dna="kpohbacohio"
 	culture=azerothian religion=holy_light
-	father=156	#Aldwin
+	father=156	#Альдвин
 	452.3.13={ birth=yes add_trait=creature_human }
 	520.11.9={ death=yes }
 }
 165={
-	name=Clover
+	name=Кловер
 	female=yes
 	dynasty=2
 	dna="emjjlgioono"
@@ -1494,7 +1494,7 @@
 	544.10.24={ death=yes }
 }
 166={
-	name=Barks
+	name=Баркс
 	dynasty=2
 	dna="emjhnemokco"
 	culture=azerothian religion=holy_light
@@ -1505,7 +1505,7 @@
 	523.2.27={ death=yes }
 }
 167={
-	name=Lucretia
+	name=Лукреция
 	female=yes
 	dynasty=2
 	dna="eloooofcack"
@@ -1515,7 +1515,7 @@
 	535.2.22={ death=yes }
 }
 168={
-	name=Allison
+	name=Эллисон
 	dynasty=2
 	dna="emggfoecaco"
 	culture=azerothian religion=holy_light
@@ -1527,7 +1527,7 @@
 	533.5.21={ death=yes }
 }
 169={
-	name=Johan
+	name=Йохан
 	dynasty=2
 	dna="enphnfeoacl"
 	culture=azerothian religion=holy_light
@@ -1539,7 +1539,7 @@
 	532.7.6={ death=yes }
 }
 170={
-	name=Sean
+	name=Шон
 	dynasty=2
 	dna="ebbckallajo"
 	culture=azerothian religion=holy_light
@@ -1550,7 +1550,7 @@
 	566.9.12={ death=yes }
 }
 171={
-	name=Clover
+	name=Кловер
 	female=yes
 	dynasty=2
 	dna="pkhhcjeoacg"
@@ -1566,7 +1566,7 @@
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=8 stewardship=7 intrigue=5 learning=7
 	add_trait=flamboyant_schemer add_trait=cynical add_trait=patient add_trait=kind 
-	father=166	#Barks
+	father=166	#Баркс
 	493.10.12={ birth=yes add_trait=creature_human }
 	575.1.24={ death=yes }
 }
@@ -1578,12 +1578,12 @@
 	martial=6 diplomacy=8 stewardship=7 intrigue=7 learning=5
 	add_trait=martial_cleric add_trait=proud add_trait=wroth add_trait=kind add_trait=chaste 
 	add_trait=drunkard 
-	father=166	#Barks
+	father=166	#Баркс
 	497.3.25={ birth=yes add_trait=creature_human }
 	578.9.25={ death=yes }
 }
 174={
-	name=Velvet
+	name=Велвет
 	female=yes
 	dynasty=2
 	dna="eejpdohomei"
@@ -1592,9 +1592,9 @@
 	522.8.7={ birth=yes add_trait=creature_human }
 	621.5.14={ death=yes }
 }
-# Lord Gregor Lescovar
+# Lord Грегор Lescovar
 175={
-	name=Gregor
+	name=Грегор
 	dynasty=2
 	dna="bhhidglkkcb"
 	culture=azerothian religion=holy_light
@@ -1614,18 +1614,18 @@
 	}
 	608.1.1={ death={ death_reason=death_battle } } # Killed by WoW player
 }
-# Aldous Lescovar
+# Альдус Lescovar
 176={
-	name=Aldous
+	name=Альдус
 	dynasty=2
 	dna="nmekkcmkmmo"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=7 stewardship=5 intrigue=5 learning=8
 	add_trait=skilled_tactician
 	add_trait=sturdy add_trait=proud
-	father=175	#Gregor
+	father=175	#Грегор
 	582.3.1={ birth=yes add_trait=creature_human }
-	# Got seat in House of Nobles after Gregor Lescovar
+	# Got seat in House of Nobles after Грегор Lescovar
 	608.1.1={
 		# Seat in House of Nobles
 		effect = {
@@ -1639,7 +1639,7 @@
 
 # dynasty=3 Vanyst Stormwind nobles, joined Pandaria campaign
 200={
-	name=Taylor
+	name=Тейлор
 	dynasty=3
 	dna="cblabnbgdao"
 	culture=azerothian religion=holy_light
@@ -1655,7 +1655,7 @@
 	dynasty=3
 	dna="fgjidhbgdao"
 	culture=azerothian religion=holy_light
-	father=200	#Taylor
+	father=200	#Тейлор
 	30.4.13={ birth=yes add_trait=creature_human }
 	85.6.26={ death=yes }
 }
@@ -1666,7 +1666,7 @@
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=6 stewardship=7 intrigue=5 learning=6
 	add_trait=misguided_warrior add_trait=kind add_trait=chaste add_trait=temperate 
-	father=200	#Taylor
+	father=200	#Тейлор
 	36.2.18={ birth=yes add_trait=creature_human }
 	104.11.10={ death=yes }
 }
@@ -1677,7 +1677,7 @@
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=8 stewardship=8 intrigue=6 learning=8
 	add_trait=scholarly_theologian add_trait=shy add_trait=humble add_trait=honest add_trait=arbitrary 
-	father=200	#Taylor
+	father=200	#Тейлор
 	40.1.13={ birth=yes add_trait=creature_human }
 	95.12.31={ death=yes }
 }
@@ -1713,7 +1713,7 @@
 	159.2.12={ death=yes }
 }
 207={
-	name=Ardwyn
+	name=Ардвина
 	female=yes
 	dynasty=3
 	dna="cagnjjbodjo"
@@ -1755,7 +1755,7 @@
 	156.8.23={ death=yes }
 }
 211={
-	name=Sullivan
+	name=Салливан
 	dynasty=3
 	dna="icagjjaghpn"
 	culture=azerothian religion=holy_light
@@ -1984,7 +1984,7 @@
 	296.9.8={ death=yes }
 }
 232={
-	name=Hesse
+	name=Гессе
 	dynasty=3
 	dna="kofdlbjfhkd"
 	culture=azerothian religion=holy_light
@@ -2248,7 +2248,7 @@
 	531.8.26={ death=yes }
 }
 256={
-	name=Redwald
+	name=Редвальд
 	dynasty=3
 	dna="dcccochmjmi"
 	culture=azerothian religion=holy_light
@@ -2260,7 +2260,7 @@
 	499.9.23={ death=yes }
 }
 257={
-	name=Sean
+	name=Шон
 	dynasty=3
 	dna="dcdmoihmphp"
 	culture=azerothian religion=holy_light
@@ -2371,7 +2371,7 @@
 	590.9.19={ death=yes }
 }
 267={
-	name=Augustus
+	name=Август
 	dynasty=3
 	dna="omkcommdbep"
 	culture=azerothian religion=holy_light
@@ -2559,7 +2559,7 @@
 	104.1.20={ death=yes }
 }
 305={
-	name=Catriona
+	name=Катриона
 	female=yes
 	dynasty=4
 	dna="cbhlnghefkh"
@@ -2697,7 +2697,7 @@
 	205.10.26={ death=yes }
 }
 318={
-	name=Johan
+	name=Йохан
 	dynasty=4
 	dna="egladlellad"
 	culture=azerothian religion=holy_light
@@ -2708,7 +2708,7 @@
 	211.10.7={ death=yes }
 }
 319={
-	name=Hesse
+	name=Гессе
 	dynasty=4
 	dna="ceamenbechf"
 	culture=azerothian religion=holy_light
@@ -2780,7 +2780,7 @@
 	martial=7 diplomacy=7 stewardship=7 intrigue=4 learning=5
 	add_trait=indulgent_wastrel add_trait=diligent add_trait=kind add_trait=temperate 
 	add_trait=lustful 
-	father=318	#Johan
+	father=318	#Йохан
 	170.6.12={ birth=yes add_trait=creature_human }
 	246.2.20={ death=yes }
 }
@@ -2790,19 +2790,19 @@
 	dynasty=4
 	dna="eoladlpchpd"
 	culture=azerothian religion=holy_light
-	father=318	#Johan
+	father=318	#Йохан
 	174.5.17={ birth=yes add_trait=creature_human }
 	257.5.11={ death=yes }
 }
 327={
-	name=Newton
+	name=Ньютон
 	dynasty=4
 	dna="ajladlmbepb"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=6 stewardship=4 intrigue=8 learning=6
 	add_trait=thrifty_clerk add_trait=content add_trait=arbitrary add_trait=envious add_trait=cruel 
 	add_trait=temperate add_trait=proud 
-	father=318	#Johan
+	father=318	#Йохан
 	179.11.26={ birth=yes add_trait=creature_human }
 	254.4.21={ death=yes }
 }
@@ -2812,7 +2812,7 @@
 	dynasty=4
 	dna="jgogdpglcad"
 	culture=azerothian religion=holy_light
-	father=318	#Johan
+	father=318	#Йохан
 	182.4.23={ birth=yes add_trait=creature_human }
 	258.3.5={ death=yes }
 }
@@ -2822,7 +2822,7 @@
 	dynasty=4
 	dna="aapablglfai"
 	culture=azerothian religion=holy_light
-	father=318	#Johan
+	father=318	#Йохан
 	184.8.7={ birth=yes add_trait=creature_human }
 	231.1.3={ death=yes }
 }
@@ -2901,7 +2901,7 @@
 	308.9.3={ death=yes }
 }
 337={
-	name=Catarina
+	name=Катарина
 	female=yes
 	dynasty=4
 	dna="pdigfdjfocm"
@@ -2966,7 +2966,7 @@
 	385.11.26={ death=yes }
 }
 343={
-	name=Barks
+	name=Баркс
 	dynasty=4
 	dna="aioaflnandk"
 	culture=azerothian religion=holy_light
@@ -3009,7 +3009,7 @@
 	412.2.6={ death=yes }
 }
 347={
-	name=Medivh
+	name=Медив
 	dynasty=4
 	dna="jkdapdhcldf"
 	culture=azerothian religion=holy_light
@@ -3031,7 +3031,7 @@
 	436.6.9={ death=yes }
 }
 349={
-	name=Taylor
+	name=Тейлор
 	dynasty=4
 	dna="fmjailgbfpa"
 	culture=azerothian religion=holy_light
@@ -3043,7 +3043,7 @@
 	423.12.5={ death=yes }
 }
 350={
-	name=Fastrada
+	name=Фастрада
 	female=yes
 	dynasty=4
 	dna="bbonplgdodo"
@@ -3108,7 +3108,7 @@
 	437.9.20={ death=yes }
 }
 356={
-	name=Catarina
+	name=Катарина
 	female=yes
 	dynasty=4
 	dna="nmonemonood"
@@ -3130,7 +3130,7 @@
 	441.2.11={ death=yes }
 }
 358={
-	name=Medivh
+	name=Медив
 	dynasty=4
 	dna="jbdaplpjdoe"
 	culture=azerothian religion=holy_light
@@ -3142,7 +3142,7 @@
 	448.7.27={ death=yes }
 }
 359={
-	name=Rose
+	name=Роза
 	female=yes
 	dynasty=4
 	dna="ajonojobcoe"
@@ -3168,7 +3168,7 @@
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=4 stewardship=6 intrigue=4 learning=7
 	add_trait=detached_priest add_trait=wroth add_trait=shy add_trait=diligent 
-	father=358	#Medivh
+	father=358	#Медив
 	415.7.25={ birth=yes add_trait=creature_human }
 	468.1.28={ death=yes }
 }
@@ -3179,7 +3179,7 @@
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=5 stewardship=4 intrigue=4 learning=4
 	add_trait=flamboyant_schemer add_trait=mystic add_trait=gluttonous add_trait=gregarious add_trait=arbitrary 
-	father=358	#Medivh
+	father=358	#Медив
 	423.11.25={ birth=yes add_trait=creature_human }
 	490.1.6={ death=yes }
 }
@@ -3191,7 +3191,7 @@
 	martial=6 diplomacy=5 stewardship=8 intrigue=4 learning=4
 	add_trait=martial_cleric add_trait=patient add_trait=cruel add_trait=trusting add_trait=shy 
 	add_trait=humble 
-	father=358	#Medivh
+	father=358	#Медив
 	426.3.2={ birth=yes add_trait=creature_human }
 	529.3.14={ death=yes }
 }
@@ -3218,7 +3218,7 @@
 	497.9.17={ death=yes }
 }
 366={
-	name=Jillia
+	name=Джиллиан
 	female=yes
 	dynasty=4
 	dna="pjhagmekhee"
@@ -3304,7 +3304,7 @@
 	579.7.16={ death=yes }
 }
 374={
-	name=Sullivan
+	name=Салливан
 	dynasty=4
 	dna="paoolhhgene"
 	culture=azerothian religion=holy_light
@@ -3338,7 +3338,7 @@
 	594.3.1={ death=yes }
 }
 377={
-	name=Lucretia
+	name=Лукреция
 	female=yes
 	dynasty=4
 	dna="cmnfbkibkek"
@@ -3489,7 +3489,7 @@
 	125.10.15={ death=yes }
 }
 406={
-	name=Barks
+	name=Баркс
 	dynasty=5
 	dna="cocgdjoghdf"
 	culture=azerothian religion=holy_light
@@ -3600,7 +3600,7 @@
 	160.4.12={ death=yes }
 }
 416={
-	name=Newton
+	name=Ньютон
 	dynasty=5
 	dna="eaegconhoff"
 	culture=azerothian religion=holy_light
@@ -3700,7 +3700,7 @@
 	227.12.10={ death=yes }
 }
 425={
-	name=Joseph
+	name=Джозеф
 	dynasty=5
 	dna="ekeblndbcoo"
 	culture=azerothian religion=holy_light
@@ -3872,7 +3872,7 @@
 	297.3.23={ death=yes }
 }
 441={
-	name=Allison
+	name=Эллисон
 	dynasty=5
 	dna="jjacjogmngh"
 	culture=azerothian religion=holy_light
@@ -3883,7 +3883,7 @@
 	310.10.25={ death=yes }
 }
 442={
-	name=Clerice
+	name=Кларисса
 	female=yes
 	dynasty=5
 	dna="jhcomolfnjp"
@@ -3923,7 +3923,7 @@
 	326.9.7={ death=yes }
 }
 446={
-	name=Catriona
+	name=Катриона
 	female=yes
 	dynasty=5
 	dna="jbeoeoemnbc"
@@ -4009,7 +4009,7 @@
 	363.9.17={ death=yes }
 }
 454={
-	name=Clerice
+	name=Кларисса
 	female=yes
 	dynasty=5
 	dna="ogdallkddjg"
@@ -4191,7 +4191,7 @@
 	513.12.8={ death=yes }
 }
 471={
-	name=Landina
+	name=Ландина
 	female=yes
 	dynasty=5
 	dna="ngcgeeohgcb"
@@ -4392,7 +4392,7 @@
 	64.11.15={ death=yes }
 }
 501={
-	name=Joseph
+	name=Джозеф
 	dynasty=6
 	dna="nghdpfahkfd"
 	culture=azerothian religion=holy_light
@@ -4431,7 +4431,7 @@
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=6 stewardship=8 intrigue=5 learning=4
 	add_trait=grey_eminence add_trait=zealous add_trait=envious 
-	father=501	#Joseph
+	father=501	#Джозеф
 	50.3.1={ birth=yes add_trait=creature_human }
 	131.8.19={ death=yes }
 }
@@ -4443,7 +4443,7 @@
 	martial=7 diplomacy=8 stewardship=7 intrigue=4 learning=6
 	add_trait=detached_priest add_trait=brave add_trait=zealous add_trait=temperate add_trait=diligent 
 	add_trait=proud 
-	father=501	#Joseph
+	father=501	#Джозеф
 	56.11.20={ birth=yes add_trait=creature_human }
 	131.9.11={ death=yes }
 }
@@ -4492,7 +4492,7 @@
 	192.8.24={ death=yes }
 }
 510={
-	name=Catarina
+	name=Катарина
 	female=yes
 	dynasty=6
 	dna="ogibincjcpk"
@@ -4568,7 +4568,7 @@
 	205.3.14={ death=yes }
 }
 517={
-	name=Kayden
+	name=Кайден
 	dynasty=6
 	dna="okknmkhilfk"
 	culture=azerothian religion=holy_light
@@ -4591,7 +4591,7 @@
 	202.8.5={ death=yes }
 }
 519={
-	name=Kayden
+	name=Кайден
 	dynasty=6
 	dna="ohcemgnelbh"
 	culture=azerothian religion=holy_light
@@ -4644,7 +4644,7 @@
 	244.2.16={ death=yes }
 }
 524={
-	name=Augustus
+	name=Август
 	dynasty=6
 	dna="ohcbiglelbf"
 	culture=azerothian religion=holy_light
@@ -4677,7 +4677,7 @@
 	280.9.1={ death=yes }
 }
 527={
-	name=Medivh
+	name=Медив
 	dynasty=6
 	dna="dhhbiglnjbf"
 	culture=azerothian religion=holy_light
@@ -4728,7 +4728,7 @@
 	martial=4 diplomacy=4 stewardship=6 intrigue=7 learning=7
 	add_trait=detached_priest add_trait=envious add_trait=cruel add_trait=deceitful add_trait=shy 
 	add_trait=charitable 
-	father=527	#Medivh
+	father=527	#Медив
 	256.8.26={ birth=yes add_trait=creature_human }
 	303.12.26={ death=yes }
 }
@@ -4740,7 +4740,7 @@
 	martial=5 diplomacy=8 stewardship=4 intrigue=7 learning=7
 	add_trait=grey_eminence add_trait=just add_trait=envious add_trait=charitable add_trait=lustful 
 	add_trait=brave add_trait=strong 
-	father=527	#Medivh
+	father=527	#Медив
 	259.1.5={ birth=yes add_trait=creature_human }
 	314.3.2={ death=yes }
 }
@@ -4752,7 +4752,7 @@
 	martial=4 diplomacy=4 stewardship=8 intrigue=8 learning=4
 	add_trait=detached_priest add_trait=cruel add_trait=patient add_trait=deceitful add_trait=craven 
 	add_trait=gregarious 
-	father=527	#Medivh
+	father=527	#Медив
 	265.1.18={ birth=yes add_trait=creature_human }
 	350.3.7={ death=yes }
 }
@@ -4764,7 +4764,7 @@
 	martial=4 diplomacy=8 stewardship=5 intrigue=6 learning=8
 	add_trait=indulgent_wastrel add_trait=honest add_trait=brave add_trait=arbitrary add_trait=patient 
 	add_trait=slothful add_trait=greedy 
-	father=527	#Medivh
+	father=527	#Медив
 	268.4.14={ birth=yes add_trait=creature_human }
 	330.2.13={ death=yes }
 }
@@ -4857,7 +4857,7 @@
 	408.2.27={ death=yes }
 }
 543={
-	name=Bradney
+	name=Брэдни
 	dynasty=6
 	dna="embmidlkgib"
 	culture=azerothian religion=holy_light
@@ -4902,13 +4902,13 @@
 	423.4.2={ death=yes }
 }
 547={
-	name=Johan
+	name=Йохан
 	dynasty=6
 	dna="pmbfiddkgib"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=8 stewardship=4 intrigue=4 learning=7
 	add_trait=grey_eminence add_trait=trusting add_trait=deceitful add_trait=charitable 
-	father=543	#Bradney
+	father=543	#Брэдни
 	366.4.13={ birth=yes add_trait=creature_human }
 	446.1.5={ death=yes }
 }
@@ -4919,7 +4919,7 @@
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=7 stewardship=6 intrigue=7 learning=7
 	add_trait=misguided_warrior add_trait=zealous add_trait=paranoid add_trait=wroth 
-	father=543	#Bradney
+	father=543	#Брэдни
 	371.8.17={ birth=yes add_trait=creature_human }
 	429.1.17={ death=yes }
 }
@@ -4931,18 +4931,18 @@
 	martial=5 diplomacy=6 stewardship=5 intrigue=8 learning=4
 	add_trait=naive_appeaser add_trait=shy add_trait=chaste add_trait=ambitious add_trait=humble 
 	add_trait=deceitful add_trait=cynical 
-	father=543	#Bradney
+	father=543	#Брэдни
 	378.12.13={ birth=yes add_trait=creature_human }
 	452.5.15={ death=yes }
 }
 550={
-	name=Sullivan
+	name=Салливан
 	dynasty=6
 	dna="embnbdclgib"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=5 stewardship=5 intrigue=5 learning=4
 	add_trait=elusive_shadow add_trait=cynical add_trait=envious add_trait=arbitrary 
-	father=543	#Bradney
+	father=543	#Брэдни
 	384.3.19={ birth=yes add_trait=creature_human }
 	477.12.29={ death=yes }
 }
@@ -4954,7 +4954,7 @@
 	martial=7 diplomacy=4 stewardship=4 intrigue=4 learning=7
 	add_trait=tough_soldier add_trait=patient add_trait=gregarious add_trait=cynical add_trait=kind 
 	add_trait=just add_trait=wounded 
-	father=547	#Johan
+	father=547	#Йохан
 	395.6.5={ birth=yes add_trait=creature_human }
 	442.5.2={ death=yes }
 }
@@ -4965,7 +4965,7 @@
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=5 stewardship=4 intrigue=5 learning=7
 	add_trait=martial_cleric add_trait=slothful add_trait=arbitrary add_trait=wroth add_trait=temperate 
-	father=547	#Johan
+	father=547	#Йохан
 	402.6.13={ birth=yes add_trait=creature_human }
 	473.9.23={ death=yes }
 }
@@ -4975,7 +4975,7 @@
 	dynasty=6
 	dna="nebfidgkglb"
 	culture=azerothian religion=holy_light
-	father=547	#Johan
+	father=547	#Йохан
 	408.3.2={ birth=yes add_trait=creature_human }
 	482.11.23={ death=yes }
 }
@@ -4990,7 +4990,7 @@
 	495.1.23={ death=yes }
 }
 555={
-	name=Newton
+	name=Ньютон
 	dynasty=6
 	dna="boombkflgid"
 	culture=azerothian religion=holy_light
@@ -5022,7 +5022,7 @@
 	496.9.14={ death=yes }
 }
 558={
-	name=Allison
+	name=Эллисон
 	dynasty=6
 	dna="boehpkflald"
 	culture=azerothian religion=holy_light
@@ -5067,7 +5067,7 @@
 	538.6.19={ death=yes }
 }
 562={
-	name=Bree
+	name=Бри
 	female=yes
 	dynasty=6
 	dna="kcnmckdcgki"
@@ -5099,13 +5099,13 @@
 	574.12.15={ death=yes }
 }
 565={
-	name=Sean
+	name=Шон
 	dynasty=6
 	dna="bofhaefmald"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=5 stewardship=7 intrigue=7 learning=4
 	add_trait=grey_eminence add_trait=ambitious add_trait=just 
-	father=558	#Allison
+	father=558	#Эллисон
 	480.10.4={ birth=yes add_trait=creature_human }
 	542.11.24={ death=yes }
 }
@@ -5115,7 +5115,7 @@
 	dynasty=6
 	dna="monepifkfld"
 	culture=azerothian religion=holy_light
-	father=558	#Allison
+	father=558	#Эллисон
 	486.6.18={ birth=yes add_trait=creature_human }
 	571.11.18={ death=yes }
 }
@@ -5126,7 +5126,7 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=7 stewardship=5 intrigue=7 learning=4
 	add_trait=tough_soldier add_trait=hunter add_trait=content add_trait=diligent add_trait=paranoid 
-	father=558	#Allison
+	father=558	#Эллисон
 	489.8.14={ birth=yes add_trait=creature_human }
 	569.11.10={ death=yes }
 }
@@ -5136,7 +5136,7 @@
 	dynasty=6
 	dna="bdecpfbfakl"
 	culture=azerothian religion=holy_light
-	father=558	#Allison
+	father=558	#Эллисон
 	494.7.12={ birth=yes add_trait=creature_human }
 	556.10.17={ death=yes }
 }
@@ -5148,19 +5148,19 @@
 	martial=6 diplomacy=6 stewardship=8 intrigue=8 learning=5
 	add_trait=midas_touched add_trait=mystic add_trait=brave add_trait=slothful add_trait=ambitious 
 	add_trait=shy add_trait=depressed 
-	father=565	#Sean
+	father=565	#Шон
 	503.11.8={ birth=yes add_trait=creature_human }
 	574.5.24={ death=yes }
 }
 570={
-	name=Kayden
+	name=Кайден
 	dynasty=6
 	dna="pofphcfghlp"
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=5 stewardship=4 intrigue=5 learning=7
 	add_trait=midas_touched add_trait=paranoid add_trait=patient add_trait=deceitful 
 	add_trait=content 
-	father=565	#Sean
+	father=565	#Шон
 	507.1.19={ birth=yes add_trait=creature_human }
 	585.6.7={ death=yes }
 }
@@ -5172,7 +5172,7 @@
 	martial=5 diplomacy=7 stewardship=4 intrigue=5 learning=7
 	add_trait=tough_soldier add_trait=ambitious add_trait=slothful add_trait=lustful add_trait=cruel 
 	add_trait=wounded 
-	father=565	#Sean
+	father=565	#Шон
 	510.5.22={ birth=yes add_trait=creature_human }
 	614.9.18={ death=yes }
 }
@@ -5183,7 +5183,7 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=7 stewardship=7 intrigue=5 learning=5
 	add_trait=martial_cleric add_trait=kind add_trait=patient add_trait=just 
-	father=565	#Sean
+	father=565	#Шон
 	515.4.20={ birth=yes add_trait=creature_human }
 	592.10.27={ death=yes }
 }
@@ -5193,12 +5193,12 @@
 	dynasty=6
 	dna="hgdbanfcagd"
 	culture=azerothian religion=holy_light
-	father=565	#Sean
+	father=565	#Шон
 	519.7.18={ birth=yes add_trait=creature_human }
 	585.1.1={ death=yes }
 }
 574={
-	name=Jillia
+	name=Джиллиан
 	female=yes
 	dynasty=6
 	dna="hndhneamaok"
@@ -5218,7 +5218,7 @@
 	father=569	#Anson
 	535.2.23={ birth=yes add_trait=creature_human }
 	585.1.1={
-		death={ death_reason = death_murder_butchered killer = 5000 }	# Killed by Medivh
+		death={ death_reason = death_murder_butchered killer = 5000 }	# Killed by Медив
 	}
 }
 576={
@@ -5403,7 +5403,7 @@
 	154.2.8={ death=yes }
 }
 609={
-	name=Catriona
+	name=Катриона
 	female=yes
 	dynasty=7
 	dna="iohfnndlldi"
@@ -5444,7 +5444,7 @@
 	155.11.8={ death=yes }
 }
 613={
-	name=Redwald
+	name=Редвальд
 	dynasty=7
 	dna="igmnhcnljpi"
 	culture=azerothian religion=holy_light
@@ -5468,7 +5468,7 @@
 	178.12.14={ death=yes }
 }
 615={
-	name=Augustus
+	name=Август
 	dynasty=7
 	dna="iohddlgclad"
 	culture=azerothian religion=holy_light
@@ -5480,7 +5480,7 @@
 	151.1.10={ death=yes }
 }
 616={
-	name=Sean
+	name=Шон
 	dynasty=7
 	dna="clbhopgiebe"
 	culture=azerothian religion=holy_light
@@ -5504,7 +5504,7 @@
 	190.3.31={ death=yes }
 }
 618={
-	name=Sean
+	name=Шон
 	dynasty=7
 	dna="iphdhlgcljd"
 	culture=azerothian religion=holy_light
@@ -5620,7 +5620,7 @@
 	273.4.8={ death=yes }
 }
 629={
-	name=Barks
+	name=Баркс
 	dynasty=7
 	dna="indndnhmjao"
 	culture=azerothian religion=holy_light
@@ -5663,7 +5663,7 @@
 	261.12.11={ death=yes }
 }
 633={
-	name=Augustus
+	name=Август
 	dynasty=7
 	dna="inddblmlaab"
 	culture=azerothian religion=holy_light
@@ -5674,7 +5674,7 @@
 	273.6.10={ death=yes }
 }
 634={
-	name=Lucretia
+	name=Лукреция
 	female=yes
 	dynasty=7
 	dna="gdliclnmmpc"
@@ -5783,7 +5783,7 @@
 	355.10.4={ death=yes }
 }
 644={
-	name=Lucretia
+	name=Лукреция
 	female=yes
 	dynasty=7
 	dna="djpmpahfiee"
@@ -5891,7 +5891,7 @@
 	475.11.23={ death=yes }
 }
 654={
-	name=Kenata
+	name=Кената
 	female=yes
 	dynasty=7
 	dna="omdfhlhgcdg"
@@ -5989,7 +5989,7 @@
 	525.5.5={ death=yes }
 }
 663={
-	name=Sean
+	name=Шон
 	dynasty=7
 	dna="mmbekhffmkf"
 	culture=azerothian religion=holy_light
@@ -6238,7 +6238,7 @@
 	105.7.27={ death=yes }
 }
 703={
-	name=Rose
+	name=Роза
 	female=yes
 	dynasty=8
 	dna="ieibahfeehc"
@@ -6248,7 +6248,7 @@
 	114.8.12={ death=yes }
 }
 704={
-	name=Velvet
+	name=Велвет
 	female=yes
 	dynasty=8
 	dna="ojibjlljbdc"
@@ -6268,7 +6268,7 @@
 	100.6.20={ death=yes }
 }
 706={
-	name=Medivh
+	name=Медив
 	dynasty=8
 	dna="apnmjpopjdb"
 	culture=azerothian religion=holy_light
@@ -6291,7 +6291,7 @@
 	114.10.5={ death=yes }
 }
 708={
-	name=Johan
+	name=Йохан
 	dynasty=8
 	dna="opibbjapada"
 	culture=azerothian religion=holy_light
@@ -6302,7 +6302,7 @@
 	142.2.20={ death=yes }
 }
 709={
-	name=Kenata
+	name=Кената
 	female=yes
 	dynasty=8
 	dna="lbnbjlfganc"
@@ -6350,7 +6350,7 @@
 	dynasty=8
 	dna="oaibbaahaca"
 	culture=azerothian religion=holy_light
-	father=708	#Johan
+	father=708	#Йохан
 	79.3.20={ birth=yes add_trait=creature_human }
 	166.4.9={ death=yes }
 }
@@ -6362,7 +6362,7 @@
 	martial=6 diplomacy=5 stewardship=4 intrigue=8 learning=5
 	add_trait=naive_appeaser add_trait=honest add_trait=content add_trait=patient add_trait=gluttonous 
 	add_trait=arbitrary 
-	father=708	#Johan
+	father=708	#Йохан
 	86.4.26={ birth=yes add_trait=creature_human }
 	154.7.11={ death=yes }
 }
@@ -6372,7 +6372,7 @@
 	dynasty=8
 	dna="apibijapadn"
 	culture=azerothian religion=holy_light
-	father=708	#Johan
+	father=708	#Йохан
 	90.7.27={ birth=yes add_trait=creature_human }
 	189.12.14={ death=yes }
 }
@@ -6382,7 +6382,7 @@
 	dynasty=8
 	dna="lcilbfkbaga"
 	culture=azerothian religion=holy_light
-	father=708	#Johan
+	father=708	#Йохан
 	92.4.8={ birth=yes add_trait=creature_human }
 	156.12.26={ death=yes }
 }
@@ -6392,7 +6392,7 @@
 	dynasty=8
 	dna="opibbfapjda"
 	culture=azerothian religion=holy_light
-	father=708	#Johan
+	father=708	#Йохан
 	96.11.17={ birth=yes add_trait=creature_human }
 	182.7.25={ death=yes }
 }
@@ -6403,7 +6403,7 @@
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=5 stewardship=5 intrigue=6 learning=8
 	add_trait=skilled_tactician add_trait=charitable add_trait=honest add_trait=gregarious add_trait=trusting 
-	father=708	#Johan
+	father=708	#Йохан
 	100.4.27={ birth=yes add_trait=creature_human }
 	185.1.19={ death=yes }
 }
@@ -6413,12 +6413,12 @@
 	dynasty=8
 	dna="geifbjapeea"
 	culture=azerothian religion=holy_light
-	father=708	#Johan
+	father=708	#Йохан
 	103.12.21={ birth=yes add_trait=creature_human }
 	165.5.29={ death=yes }
 }
 720={
-	name=Allison
+	name=Эллисон
 	dynasty=8
 	dna="dmmkjmlhhen"
 	culture=azerothian religion=holy_light
@@ -6429,7 +6429,7 @@
 	170.12.11={ death=yes }
 }
 721={
-	name=Ardwyn
+	name=Ардвина
 	female=yes
 	dynasty=8
 	dna="dpmgjmlhefh"
@@ -6439,14 +6439,14 @@
 	188.7.5={ death=yes }
 }
 722={
-	name=Brian
+	name=Брайан
 	dynasty=8
 	dna="ckikjmlglon"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=5 stewardship=6 intrigue=6 learning=5
 	add_trait=midas_touched add_trait=impaler add_trait=craven add_trait=content add_trait=honest 
 	add_trait=temperate 
-	father=720	#Allison
+	father=720	#Эллисон
 	140.8.26={ birth=yes add_trait=creature_human }
 	223.12.10={ death=yes }
 }
@@ -6458,18 +6458,18 @@
 	martial=7 diplomacy=6 stewardship=5 intrigue=7 learning=6
 	add_trait=flamboyant_schemer add_trait=paranoid add_trait=cruel add_trait=ambitious 
 	add_trait=diligent 
-	father=720	#Allison
+	father=720	#Эллисон
 	144.2.3={ birth=yes add_trait=creature_human }
 	232.7.20={ death=yes }
 }
 724={
-	name=Medivh
+	name=Медив
 	dynasty=8
 	dna="dpmkchdghek"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=8 stewardship=7 intrigue=4 learning=6
 	add_trait=tough_soldier add_trait=greedy add_trait=patient add_trait=proud add_trait=gluttonous 
-	father=720	#Allison
+	father=720	#Эллисон
 	152.2.12={ birth=yes add_trait=creature_human }
 	251.8.22={ death=yes }
 }
@@ -6479,7 +6479,7 @@
 	dynasty=8
 	dna="mmkijmlhheo"
 	culture=azerothian religion=holy_light
-	father=720	#Allison
+	father=720	#Эллисон
 	156.8.20={ birth=yes add_trait=creature_human }
 	223.4.19={ death=yes }
 }
@@ -6489,7 +6489,7 @@
 	dynasty=8
 	dna="cjpkjnlgjan"
 	culture=azerothian religion=holy_light
-	father=722	#Brian
+	father=722	#Брайан
 	161.5.19={ birth=yes add_trait=creature_human }
 	238.11.21={ death=yes }
 }
@@ -6500,18 +6500,18 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=8 stewardship=6 intrigue=4 learning=7
 	add_trait=mastermind_theologian add_trait=charitable add_trait=deceitful add_trait=chaste add_trait=cruel 
-	father=722	#Brian
+	father=722	#Брайан
 	167.7.7={ birth=yes add_trait=creature_human }
 	235.2.14={ death=yes }
 }
 728={
-	name=Gaiman
+	name=Гайман
 	dynasty=8
 	dna="pkanjglgnoh"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=7 stewardship=7 intrigue=7 learning=7
 	add_trait=mastermind_theologian add_trait=cruel add_trait=gregarious add_trait=trusting 
-	father=722	#Brian
+	father=722	#Брайан
 	170.1.24={ birth=yes add_trait=creature_human }
 	233.1.17={ death=yes }
 }
@@ -6523,7 +6523,7 @@
 	martial=4 diplomacy=5 stewardship=5 intrigue=7 learning=7
 	add_trait=intricate_webweaver add_trait=gardener add_trait=arbitrary add_trait=envious add_trait=greedy 
 	add_trait=ambitious add_trait=cruel 
-	father=722	#Brian
+	father=722	#Брайан
 	175.5.5={ birth=yes add_trait=creature_human }
 	246.9.30={ death=yes }
 }
@@ -6533,7 +6533,7 @@
 	dynasty=8
 	dna="ncikfmlgfcg"
 	culture=azerothian religion=holy_light
-	father=722	#Brian
+	father=722	#Брайан
 	178.5.26={ birth=yes add_trait=creature_human }
 	243.10.14={ death=yes }
 }
@@ -6590,7 +6590,7 @@
 	316.10.19={ death=yes }
 }
 736={
-	name=Newton
+	name=Ньютон
 	dynasty=8
 	dna="kklhkmpbpan"
 	culture=azerothian religion=holy_light
@@ -6601,7 +6601,7 @@
 	305.3.23={ death=yes }
 }
 737={
-	name=Sean
+	name=Шон
 	dynasty=8
 	dna="kkabgppomai"
 	culture=azerothian religion=holy_light
@@ -6635,7 +6635,7 @@
 	335.8.23={ death=yes }
 }
 740={
-	name=Augustus
+	name=Август
 	dynasty=8
 	dna="nkllkmfbdfh"
 	culture=azerothian religion=holy_light
@@ -6686,7 +6686,7 @@
 	martial=4 diplomacy=6 stewardship=4 intrigue=8 learning=6
 	add_trait=grey_eminence add_trait=craven add_trait=wroth add_trait=shy add_trait=greedy 
 	add_trait=temperate add_trait=cruel 
-	father=737	#Sean
+	father=737	#Шон
 	297.4.22={ birth=yes add_trait=creature_human }
 	358.9.6={ death=yes }
 }
@@ -6697,7 +6697,7 @@
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=5 stewardship=4 intrigue=4 learning=7
 	add_trait=detached_priest add_trait=just add_trait=proud add_trait=paranoid add_trait=gluttonous 
-	father=737	#Sean
+	father=737	#Шон
 	305.4.8={ birth=yes add_trait=creature_human }
 	378.12.28={ death=yes }
 }
@@ -6709,7 +6709,7 @@
 	martial=4 diplomacy=7 stewardship=6 intrigue=8 learning=7
 	add_trait=tough_soldier add_trait=patient add_trait=cynical add_trait=paranoid add_trait=cruel 
 	add_trait=chaste 
-	father=737	#Sean
+	father=737	#Шон
 	308.4.18={ birth=yes add_trait=creature_human }
 	367.6.16={ death=yes }
 }
@@ -6719,7 +6719,7 @@
 	dynasty=8
 	dna="dkaghlanmla"
 	culture=azerothian religion=holy_light
-	father=737	#Sean
+	father=737	#Шон
 	315.8.17={ birth=yes add_trait=creature_human }
 	411.6.9={ death=yes }
 }
@@ -6884,7 +6884,7 @@
 	492.5.4={ death=yes }
 }
 763={
-	name=Sullivan
+	name=Салливан
 	dynasty=8
 	dna="oicaffoppkp"
 	culture=azerothian religion=holy_light
@@ -6926,7 +6926,7 @@
 	533.8.23={ death=yes }
 }
 767={
-	name=Melania
+	name=Мелания
 	female=yes
 	dynasty=8
 	dna="obfaikjnpnf"
@@ -7052,9 +7052,9 @@
 	527.4.8={ birth=yes add_trait=creature_human }
 	595.1.9={ death=yes }
 }
-# Lady Keira Berrybuck
+# Lady Кира Berrybuck
 779={
-	name=Keira
+	name=Кира
 	female=yes
 	dynasty=8
 	dna="gdgapbjnohm"
@@ -7068,7 +7068,7 @@
 		add_trait=class_priest_5
 	}
 	585.1.1={
-		death={ death_reason = death_murder_butchered killer = 5000 }	# Killed by Medivh
+		death={ death_reason = death_murder_butchered killer = 5000 }	# Killed by Медив
 	}
 }
 780={
@@ -7101,7 +7101,7 @@
 	martial=5 diplomacy=8 stewardship=7 intrigue=8 learning=8
 	add_trait=underhanded_rogue add_trait=kind add_trait=gluttonous add_trait=content 
 	add_trait=honest
-	mother=779 #Keira
+	mother=779 #Кира
 	566.3.16={ birth=yes add_trait=creature_human }
 	642.10.3={ death=yes }
 }
@@ -7113,7 +7113,7 @@
 	martial=7 diplomacy=4 stewardship=8 intrigue=5 learning=4
 	add_trait=midas_touched add_trait=lustful add_trait=wroth add_trait=cruel add_trait=gregarious 
 	add_trait=slothful 
-	mother=779 #Keira
+	mother=779 #Кира
 	568.7.19={ birth=yes add_trait=creature_human }
 	645.11.17={ death=yes }
 }
@@ -7125,7 +7125,7 @@
 	martial=7 diplomacy=6 stewardship=8 intrigue=8 learning=4
 	add_trait=thrifty_clerk add_trait=proud add_trait=patient add_trait=zealous add_trait=chaste 
 	add_trait=brave add_trait=envious add_trait=harelip 
-	mother=779 #Keira
+	mother=779 #Кира
 	570.9.10={ birth=yes add_trait=creature_human }
 	642.6.29={ death=yes }
 }
@@ -7135,7 +7135,7 @@
 	dynasty=8
 	dna="kdgopbpnlch"
 	culture=azerothian religion=holy_light
-	mother=779 #Keira
+	mother=779 #Кира
 	572.11.13={ birth=yes add_trait=creature_human }
 	666.4.8={ death=yes }
 }
@@ -7147,7 +7147,7 @@
 	martial=5 diplomacy=7 stewardship=8 intrigue=8 learning=7
 	add_trait=mastermind_theologian add_trait=proud add_trait=gluttonous add_trait=arbitrary add_trait=paranoid 
 	add_trait=patient 
-	mother=779 #Keira
+	mother=779 #Кира
 	574.2.26={ birth=yes add_trait=creature_human }
 	685.3.31={ death=yes }
 }
@@ -7159,7 +7159,7 @@
 	martial=8 diplomacy=5 stewardship=8 intrigue=4 learning=5
 	add_trait=intricate_webweaver add_trait=slothful add_trait=temperate add_trait=kind add_trait=honest 
 	add_trait=gregarious add_trait=proud 
-	mother=779 #Keira
+	mother=779 #Кира
 	576.9.3={ birth=yes add_trait=creature_human }
 	654.2.16={ death=yes }
 }
@@ -7169,7 +7169,7 @@
 	dynasty=8
 	dna="fdjajgjnohm"
 	culture=azerothian religion=holy_light
-	mother=779 #Keira
+	mother=779 #Кира
 	578.11.27={ birth=yes add_trait=creature_human }
 	658.7.8={ death=yes }
 }
@@ -7249,7 +7249,7 @@
 	111.3.6={ death=yes }
 }
 805={
-	name=Augustus
+	name=Август
 	dynasty=9
 	dna="pcadhnkebkg"
 	culture=azerothian religion=holy_light
@@ -7314,7 +7314,7 @@
 	127.3.30={ death=yes }
 }
 811={
-	name=Augustus
+	name=Август
 	dynasty=9
 	dna="fhachpnepkm"
 	culture=azerothian religion=holy_light
@@ -7502,7 +7502,7 @@
 	243.5.7={ death=yes }
 }
 828={
-	name=Allison
+	name=Эллисон
 	dynasty=9
 	dna="ijmagigaifp"
 	culture=azerothian religion=holy_light
@@ -7556,7 +7556,7 @@
 	298.11.22={ death=yes }
 }
 833={
-	name=Kenata
+	name=Кената
 	female=yes
 	dynasty=9
 	dna="gbmmcidmadm"
@@ -7571,18 +7571,18 @@
 	dynasty=9
 	dna="immfopikbfk"
 	culture=azerothian religion=holy_light
-	father=828	#Allison
+	father=828	#Эллисон
 	236.12.16={ birth=yes add_trait=creature_human }
 	319.4.22={ death=yes }
 }
 835={
-	name=Taylor
+	name=Тейлор
 	dynasty=9
 	dna="ibjofngaiff"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=5 stewardship=5 intrigue=7 learning=7
 	add_trait=flamboyant_schemer add_trait=gregarious add_trait=deceitful add_trait=zealous add_trait=lustful 
-	father=828	#Allison
+	father=828	#Эллисон
 	244.7.14={ birth=yes add_trait=creature_human }
 	304.5.4={ death=yes }
 }
@@ -7594,7 +7594,7 @@
 	martial=5 diplomacy=5 stewardship=8 intrigue=5 learning=4
 	add_trait=mastermind_theologian add_trait=gluttonous add_trait=diligent add_trait=greedy 
 	add_trait=honest add_trait=lustful 
-	father=828	#Allison
+	father=828	#Эллисон
 	248.12.26={ birth=yes add_trait=creature_human }
 	337.4.29={ death=yes }
 }
@@ -7606,7 +7606,7 @@
 	martial=6 diplomacy=6 stewardship=7 intrigue=6 learning=5
 	add_trait=flamboyant_schemer add_trait=patient add_trait=shy add_trait=brave add_trait=deceitful 
 	add_trait=stressed add_trait=genius 
-	father=835	#Taylor
+	father=835	#Тейлор
 	267.4.20={ birth=yes add_trait=creature_human }
 	326.7.7={ death=yes }
 }
@@ -7616,7 +7616,7 @@
 	dynasty=9
 	dna="gddofneedea"
 	culture=azerothian religion=holy_light
-	father=835	#Taylor
+	father=835	#Тейлор
 	273.8.12={ birth=yes add_trait=creature_human }
 	351.9.19={ death=yes }
 }
@@ -7626,7 +7626,7 @@
 	dynasty=9
 	dna="hajnfbnjiif"
 	culture=azerothian religion=holy_light
-	father=835	#Taylor
+	father=835	#Тейлор
 	278.12.19={ birth=yes add_trait=creature_human }
 	346.10.21={ death=yes }
 }
@@ -7637,18 +7637,18 @@
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=7 stewardship=4 intrigue=6 learning=6
 	add_trait=elusive_shadow add_trait=duelist add_trait=wroth add_trait=craven add_trait=humble 
-	father=835	#Taylor
+	father=835	#Тейлор
 	283.1.25={ birth=yes add_trait=creature_human }
 	355.10.22={ death=yes }
 }
 841={
-	name=Aldwin
+	name=Альдвин
 	dynasty=9
 	dna="oijohjgkmfl"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=4 stewardship=6 intrigue=4 learning=4
 	add_trait=detached_priest add_trait=cynical add_trait=brave add_trait=chaste 
-	father=835	#Taylor
+	father=835	#Тейлор
 	289.3.17={ birth=yes add_trait=creature_human }
 	357.12.23={ death=yes }
 }
@@ -7658,7 +7658,7 @@
 	dynasty=9
 	dna="ibiibnlaiie"
 	culture=azerothian religion=holy_light
-	father=835	#Taylor
+	father=835	#Тейлор
 	291.7.3={ birth=yes add_trait=creature_human }
 	364.5.8={ death=yes }
 }
@@ -7669,7 +7669,7 @@
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=6 stewardship=5 intrigue=5 learning=7
 	add_trait=elusive_shadow add_trait=kind add_trait=chaste add_trait=wroth 
-	father=835	#Taylor
+	father=835	#Тейлор
 	296.6.11={ birth=yes add_trait=creature_human }
 	349.8.19={ death=yes }
 }
@@ -7763,7 +7763,7 @@
 	424.10.26={ death=yes }
 }
 852={
-	name=Joseph
+	name=Джозеф
 	dynasty=9
 	dna="migolhemkco"
 	culture=azerothian religion=holy_light
@@ -7933,7 +7933,7 @@
 	552.12.24={ death=yes }
 }
 868={
-	name=Frotlina
+	name=Фротлина
 	female=yes
 	dynasty=9
 	dna="obklifcehfj"
@@ -8019,7 +8019,7 @@
 	580.11.30={ death=yes }
 }
 876={
-	name=Joseph
+	name=Джозеф
 	dynasty=9
 	dna="cenckphfnca"
 	culture=azerothian religion=holy_light
@@ -8061,24 +8061,24 @@
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=7 stewardship=5 intrigue=8 learning=6
 	add_trait=misguided_warrior add_trait=charitable add_trait=cruel 
-	father=876	#Joseph
+	father=876	#Джозеф
 	542.5.7={ birth=yes add_trait=creature_human }
 	564.1.1={
 		add_trait=class_warrior_5
 	}
 	585.1.1={
-		death={ death_reason = death_murder_butchered killer = 5000 }	# Killed by Medivh
+		death={ death_reason = death_murder_butchered killer = 5000 }	# Killed by Медив
 	}
 }
 880={
-	name=Johan
+	name=Йохан
 	dynasty=9
 	dna="keihkpkfkca"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=5 stewardship=5 intrigue=6 learning=5
 	add_trait=scholarly_theologian add_trait=gardener add_trait=zealous add_trait=brave add_trait=just 
 	add_trait=slothful add_trait=ugly 
-	father=876	#Joseph
+	father=876	#Джозеф
 	548.2.27={ birth=yes add_trait=creature_human }
 	628.1.31={ death=yes }
 }
@@ -8090,7 +8090,7 @@
 	martial=8 diplomacy=4 stewardship=8 intrigue=7 learning=6
 	add_trait=misguided_warrior add_trait=cruel add_trait=trusting add_trait=chaste 
 	add_trait=craven 
-	father=876	#Joseph
+	father=876	#Джозеф
 	554.3.22={ birth=yes add_trait=creature_human }
 	620.1.13={ death=yes }
 }
@@ -8110,7 +8110,7 @@
 	643.11.26={ death=yes }
 }
 883={
-	name=Brian
+	name=Брайан
 	dynasty=9
 	dna="cbopdmhhnfa"
 	culture=azerothian religion=holy_light
@@ -8121,7 +8121,7 @@
 	651.10.31={ death=yes }
 }
 884={
-	name=Catriona
+	name=Катриона
 	female=yes
 	dynasty=9
 	dna="mbppejhajna"
@@ -8166,7 +8166,7 @@
 	658.8.30={ death=yes }
 }
 888={
-	name=Newton
+	name=Ньютон
 	dynasty=9
 	dna="ebjdjdceeab"
 	culture=azerothian religion=holy_light
@@ -8368,7 +8368,7 @@
 	193.2.8={ death=yes }
 }
 1025={
-	name=Melania
+	name=Мелания
 	female=yes
 	dynasty=108
 	dna="glpbngbokad"
@@ -8435,7 +8435,7 @@
 	247.6.14={ death=yes }
 }
 1031={
-	name=Gaiman
+	name=Гайман
 	dynasty=108
 	dna="dccmjljhjaj"
 	culture=azerothian religion=holy_light
@@ -8509,18 +8509,18 @@
 	dynasty=108
 	dna="ochhjgldgad"
 	culture=azerothian religion=holy_light
-	father=1031	#Gaiman
+	father=1031	#Гайман
 	190.2.18={ birth=yes add_trait=creature_human }
 	284.5.26={ death=yes }
 }
 1038={
-	name=Sullivan
+	name=Салливан
 	dynasty=108
 	dna="ncnheljkjcj"
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=7 stewardship=5 intrigue=4 learning=7
 	add_trait=elusive_shadow add_trait=zealous add_trait=gregarious add_trait=patient add_trait=charitable 
-	father=1031	#Gaiman
+	father=1031	#Гайман
 	193.3.21={ birth=yes add_trait=creature_human }
 	280.11.1={ death=yes }
 }
@@ -8532,7 +8532,7 @@
 	martial=6 diplomacy=5 stewardship=7 intrigue=6 learning=4
 	add_trait=grey_eminence add_trait=content add_trait=temperate add_trait=shy add_trait=envious 
 	add_trait=cynical 
-	father=1038	#Sullivan
+	father=1038	#Салливан
 	214.4.19={ birth=yes add_trait=creature_human }
 	280.9.3={ death=yes }
 }
@@ -8542,7 +8542,7 @@
 	dynasty=108
 	dna="ncjlelinjnj"
 	culture=azerothian religion=holy_light
-	father=1038	#Sullivan
+	father=1038	#Салливан
 	218.3.13={ birth=yes add_trait=creature_human }
 	292.8.26={ death=yes }
 }
@@ -8553,7 +8553,7 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=8 stewardship=6 intrigue=4 learning=5
 	add_trait=mastermind_theologian add_trait=chaste add_trait=brave add_trait=harelip 
-	father=1038	#Sullivan
+	father=1038	#Салливан
 	224.8.3={ birth=yes add_trait=creature_human }
 	310.7.10={ death=yes }
 }
@@ -8563,7 +8563,7 @@
 	dynasty=108
 	dna="nenhkojkjif"
 	culture=azerothian religion=holy_light
-	father=1038	#Sullivan
+	father=1038	#Салливан
 	229.2.24={ birth=yes add_trait=creature_human }
 	291.5.3={ death=yes }
 }
@@ -8687,7 +8687,7 @@
 	395.10.10={ death=yes }
 }
 1054={
-	name=Brian
+	name=Брайан
 	dynasty=108
 	dna="jkknmmfbhmg"
 	culture=azerothian religion=holy_light
@@ -8850,7 +8850,7 @@
 	489.9.23={ death=yes }
 }
 1069={
-	name=Rose
+	name=Роза
 	female=yes
 	dynasty=108
 	dna="glppciojhgh"
@@ -8985,7 +8985,7 @@
 	119.12.25={ death=yes }
 }
 1102={
-	name=Sean
+	name=Шон
 	dynasty=10
 	dna="bghkhnlggea"
 	culture=azerothian religion=holy_light
@@ -9115,7 +9115,7 @@
 	194.8.15={ death=yes }
 }
 1114={
-	name=Sean
+	name=Шон
 	dynasty=10
 	dna="ajmbbdflgbn"
 	culture=azerothian religion=holy_light
@@ -9163,7 +9163,7 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=7 stewardship=4 intrigue=8 learning=4
 	add_trait=grey_eminence add_trait=humble add_trait=kind add_trait=wounded 
-	father=1114	#Sean
+	father=1114	#Шон
 	163.12.6={ birth=yes add_trait=creature_human }
 	262.9.9={ death=yes }
 }
@@ -9173,7 +9173,7 @@
 	dynasty=10
 	dna="acehbdilgbj"
 	culture=azerothian religion=holy_light
-	father=1114	#Sean
+	father=1114	#Шон
 	167.6.18={ birth=yes add_trait=creature_human }
 	241.12.19={ death=yes }
 }
@@ -9184,7 +9184,7 @@
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=4
 	add_trait=scholarly_theologian add_trait=paranoid add_trait=zealous add_trait=honest add_trait=cruel 
-	father=1114	#Sean
+	father=1114	#Шон
 	170.10.26={ birth=yes add_trait=creature_human }
 	243.8.5={ death=yes }
 }
@@ -9196,7 +9196,7 @@
 	martial=4 diplomacy=6 stewardship=7 intrigue=4 learning=5
 	add_trait=detached_priest add_trait=duelist add_trait=zealous add_trait=gregarious add_trait=craven 
 	add_trait=content add_trait=just 
-	father=1114	#Sean
+	father=1114	#Шон
 	174.1.18={ birth=yes add_trait=creature_human }
 	263.5.30={ death=yes }
 }
@@ -9208,7 +9208,7 @@
 	martial=5 diplomacy=4 stewardship=4 intrigue=7 learning=6
 	add_trait=midas_touched add_trait=scholar add_trait=lustful add_trait=cruel add_trait=zealous 
 	add_trait=temperate add_trait=depressed 
-	father=1114	#Sean
+	father=1114	#Шон
 	177.10.20={ birth=yes add_trait=creature_human }
 	281.5.25={ death=yes }
 }
@@ -9420,7 +9420,7 @@
 	374.10.7={ death=yes }
 }
 1142={
-	name=Velvet
+	name=Велвет
 	female=yes
 	dynasty=10
 	dna="gkgbkdoknba"
@@ -9452,7 +9452,7 @@
 	384.2.14={ death=yes }
 }
 1145={
-	name=Keira
+	name=Кира
 	female=yes
 	dynasty=10
 	dna="feblmoaloja"
@@ -9596,7 +9596,7 @@
 	493.8.8={ death=yes }
 }
 1158={
-	name=Medivh
+	name=Медив
 	dynasty=10
 	dna="fhcddholjjf"
 	culture=azerothian religion=holy_light
@@ -9650,7 +9650,7 @@
 	504.4.18={ death=yes }
 }
 1163={
-	name=Medivh
+	name=Медив
 	dynasty=10
 	dna="dnjigngklbm"
 	culture=azerothian religion=holy_light
@@ -9703,23 +9703,23 @@
 	562.10.29={ death=yes }
 }
 1168={
-	name=Catarina
+	name=Катарина
 	female=yes
 	dynasty=10
 	dna="fnjogggncbg"
 	culture=azerothian religion=holy_light
-	father=1163	#Medivh
+	father=1163	#Медив
 	493.1.21={ birth=yes add_trait=creature_human }
 	590.3.26={ death=yes }
 }
 1169={
-	name=Medivh
+	name=Медив
 	dynasty=10
 	dna="dijiannngbm"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=5 stewardship=8 intrigue=7 learning=7
 	add_trait=martial_cleric add_trait=patient add_trait=deceitful add_trait=craven add_trait=diligent 
-	father=1163	#Medivh
+	father=1163	#Медив
 	499.2.19={ birth=yes add_trait=creature_human }
 	571.2.23={ death=yes }
 }
@@ -9729,7 +9729,7 @@
 	dynasty=10
 	dna="mnjogdgolbj"
 	culture=azerothian religion=holy_light
-	father=1163	#Medivh
+	father=1163	#Медив
 	503.10.20={ birth=yes add_trait=creature_human }
 	589.9.10={ death=yes }
 }
@@ -9739,7 +9739,7 @@
 	dynasty=10
 	dna="dnjjcngoimg"
 	culture=azerothian religion=holy_light
-	father=1163	#Medivh
+	father=1163	#Медив
 	508.5.13={ birth=yes add_trait=creature_human }
 	621.9.27={ death=yes }
 }
@@ -9749,7 +9749,7 @@
 	dynasty=10
 	dna="dndkmnjklbm"
 	culture=azerothian religion=holy_light
-	father=1163	#Medivh
+	father=1163	#Медив
 	511.4.19={ birth=yes add_trait=creature_human }
 	578.3.25={ death=yes }
 }
@@ -9760,7 +9760,7 @@
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=7 stewardship=6 intrigue=5 learning=8
 	add_trait=flamboyant_schemer add_trait=diligent add_trait=patient add_trait=humble add_trait=zealous 
-	father=1163	#Medivh
+	father=1163	#Медив
 	515.11.8={ birth=yes add_trait=creature_human }
 	595.3.21={ death=yes }
 }
@@ -9772,18 +9772,18 @@
 	martial=4 diplomacy=7 stewardship=4 intrigue=7 learning=8
 	add_trait=naive_appeaser add_trait=honest add_trait=humble add_trait=gregarious add_trait=greedy 
 	add_trait=chaste add_trait=depressed 
-	father=1169	#Medivh
+	father=1169	#Медив
 	521.6.26={ birth=yes add_trait=creature_human }
 	620.5.27={ death=yes }
 }
 1175={
-	name=Newton
+	name=Ньютон
 	dynasty=10
 	dna="oijmgndngho"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=7 stewardship=8 intrigue=6 learning=6
 	add_trait=scholarly_theologian add_trait=wroth add_trait=ambitious 
-	father=1169	#Medivh
+	father=1169	#Медив
 	528.3.27={ birth=yes add_trait=creature_human }
 	588.4.12={ death=yes }
 }
@@ -9793,7 +9793,7 @@
 	dynasty=10
 	dna="dijbinnbpmm"
 	culture=azerothian religion=holy_light
-	father=1169	#Medivh
+	father=1169	#Медив
 	532.8.12={ birth=yes add_trait=creature_human }
 	628.6.13={ death=yes }
 }
@@ -9824,7 +9824,7 @@
 		add_trait=class_warrior_5
 	}
 	585.1.1={
-		death={ death_reason = death_murder_butchered killer = 5000 }	# Killed by Medivh
+		death={ death_reason = death_murder_butchered killer = 5000 }	# Killed by Медив
 	}
 }
 1179={
@@ -9883,7 +9883,7 @@
 	726.2.6={ death=yes }
 }
 1184={
-	name=Sullivan
+	name=Салливан
 	dynasty=10
 	dna="bdkkmjnfied"
 	culture=azerothian religion=holy_light
@@ -9942,7 +9942,7 @@
 
 # dynasty=11 Dreuger Nobles of Darkshire
 1200={
-	name=Sean
+	name=Шон
 	dynasty=11
 	dna="ckbcbkbpnhd"
 	culture=azerothian religion=holy_light
@@ -9958,7 +9958,7 @@
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=7 stewardship=8 intrigue=4 learning=4
 	add_trait=misguided_warrior add_trait=humble add_trait=patient add_trait=gregarious add_trait=cruel 
-	father=1200	#Sean
+	father=1200	#Шон
 	21.10.18={ birth=yes add_trait=creature_human }
 	107.11.7={ death=yes }
 }
@@ -9968,7 +9968,7 @@
 	dynasty=11
 	dna="nikcbnblhgd"
 	culture=azerothian religion=holy_light
-	father=1200	#Sean
+	father=1200	#Шон
 	27.3.20={ birth=yes add_trait=creature_human }
 	137.2.15={ death=yes }
 }
@@ -9978,7 +9978,7 @@
 	dynasty=11
 	dna="hibacklenek"
 	culture=azerothian religion=holy_light
-	father=1200	#Sean
+	father=1200	#Шон
 	33.11.10={ birth=yes add_trait=creature_human }
 	99.5.13={ death=yes }
 }
@@ -9990,7 +9990,7 @@
 	martial=7 diplomacy=4 stewardship=8 intrigue=7 learning=5
 	add_trait=thrifty_clerk add_trait=gardener add_trait=content add_trait=gluttonous add_trait=brave 
 	add_trait=trusting add_trait=slothful add_trait=humble 
-	father=1200	#Sean
+	father=1200	#Шон
 	35.12.25={ birth=yes add_trait=creature_human }
 	102.10.19={ death=yes }
 }
@@ -10001,7 +10001,7 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=6 stewardship=6 intrigue=4 learning=8
 	add_trait=grey_eminence add_trait=diligent add_trait=honest add_trait=cynical add_trait=cruel 
-	father=1200	#Sean
+	father=1200	#Шон
 	39.11.22={ birth=yes add_trait=creature_human }
 	114.3.20={ death=yes }
 }
@@ -10070,7 +10070,7 @@
 	165.7.5={ death=yes }
 }
 1212={
-	name=Sean
+	name=Шон
 	dynasty=11
 	dna="iibacljchle"
 	culture=azerothian religion=holy_light
@@ -10088,17 +10088,17 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=5 stewardship=6 intrigue=7 learning=7
 	add_trait=tough_soldier add_trait=humble add_trait=gluttonous add_trait=diligent add_trait=patient 
-	father=1212	#Sean
+	father=1212	#Шон
 	129.4.19={ birth=yes add_trait=creature_human }
 	216.3.30={ death=yes }
 }
 1214={
-	name=Rose
+	name=Роза
 	female=yes
 	dynasty=11
 	dna="ilbdjbjghle"
 	culture=azerothian religion=holy_light
-	father=1212	#Sean
+	father=1212	#Шон
 	136.8.10={ birth=yes add_trait=creature_human }
 	233.8.6={ death=yes }
 }
@@ -10172,7 +10172,7 @@
 	279.3.10={ death=yes }
 }
 1221={
-	name=Aldwin
+	name=Альдвин
 	dynasty=11
 	dna="nmljicbjlnd"
 	culture=azerothian religion=holy_light
@@ -10270,7 +10270,7 @@
 	351.3.20={ death=yes }
 }
 1230={
-	name=Velvet
+	name=Велвет
 	female=yes
 	dynasty=11
 	dna="ekhdomkapgd"
@@ -10368,7 +10368,7 @@
 	385.6.3={ death=yes }
 }
 1239={
-	name=Lucretia
+	name=Лукреция
 	female=yes
 	dynasty=11
 	dna="icbnijkhkpp"
@@ -10431,7 +10431,7 @@
 	404.8.16={ death=yes }
 }
 1245={
-	name=Bradney
+	name=Брэдни
 	dynasty=11
 	dna="diolejijfpe"
 	culture=azerothian religion=holy_light
@@ -10598,7 +10598,7 @@
 	478.1.19={ death=yes }
 }
 1260={
-	name=Clover
+	name=Кловер
 	female=yes
 	dynasty=11
 	dna="onnlglbmlfm"
@@ -10651,7 +10651,7 @@
 	541.2.5={ death=yes }
 }
 1265={
-	name=Ardwyn
+	name=Ардвина
 	female=yes
 	dynasty=11
 	dna="jnldmnoeope"
@@ -10661,7 +10661,7 @@
 	542.7.8={ death=yes }
 }
 1266={
-	name=Landina
+	name=Ландина
 	female=yes
 	dynasty=11
 	dna="lcnpmpehbfo"
@@ -10704,7 +10704,7 @@
 	575.11.1={ death=yes }
 }
 1270={
-	name=Jillia
+	name=Джиллиан
 	female=yes
 	dynasty=11
 	dna="fnmkmnjcooa"
@@ -10738,7 +10738,7 @@
 		add_trait=class_priest_5
 	}
 	585.1.1={
-		death={ death_reason = death_murder_butchered killer = 5000 }	# Killed by Medivh
+		death={ death_reason = death_murder_butchered killer = 5000 }	# Killed by Медив
 	}
 }
 1273={
@@ -10775,7 +10775,7 @@
 	648.9.30={ death=yes }
 }
 1276={
-	name=Hesse
+	name=Гессе
 	dynasty=11
 	dna="fedgmcmkffl"
 	culture=azerothian religion=holy_light
@@ -10905,7 +10905,7 @@
 	698.9.2={ death=yes }
 }
 1288={
-	name=Joseph
+	name=Джозеф
 	dynasty=11
 	dna="noipdhdbapb"
 	culture=azerothian religion=holy_light
@@ -11040,7 +11040,7 @@
 	174.5.31={ death=yes }
 }
 1311={
-	name=Bradney
+	name=Брэдни
 	dynasty=12
 	dna="pdolffpkopb"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -11104,7 +11104,7 @@
 	193.9.15={ death=yes }
 }
 1317={
-	name=Aldwin
+	name=Альдвин
 	dynasty=12
 	dna="afmlmgllopi"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -11116,7 +11116,7 @@
 	210.12.29={ death=yes }
 }
 1318={
-	name=Rose
+	name=Роза
 	female=yes
 	dynasty=12
 	dna="ndajdjdfgei"
@@ -11151,7 +11151,7 @@
 	dynasty=12
 	dna="afmkfglklpc"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
-	father=1317	#Aldwin
+	father=1317	#Альдвин
 	171.7.21={ birth=yes add_trait=creature_human }
 	255.10.16={ death=yes }
 }
@@ -11161,7 +11161,7 @@
 	dynasty=12
 	dna="hjlimkkmjdh"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
-	father=1317	#Aldwin
+	father=1317	#Альдвин
 	177.2.6={ birth=yes add_trait=creature_human }
 	260.4.1={ death=yes }
 }
@@ -11171,7 +11171,7 @@
 	dynasty=12
 	dna="afklmglfbci"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
-	father=1317	#Aldwin
+	father=1317	#Альдвин
 	181.9.2={ birth=yes add_trait=creature_human }
 	273.2.7={ death=yes }
 }
@@ -11181,7 +11181,7 @@
 	dynasty=12
 	dna="mimlmkdlfki"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
-	father=1317	#Aldwin
+	father=1317	#Альдвин
 	185.3.5={ birth=yes add_trait=creature_human }
 	273.8.27={ death=yes }
 }
@@ -11192,7 +11192,7 @@
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
 	martial=7 diplomacy=7 stewardship=6 intrigue=8 learning=6
 	add_trait=charismatic_negotiator add_trait=envious add_trait=brave add_trait=chaste add_trait=shy 
-	father=1317	#Aldwin
+	father=1317	#Альдвин
 	191.2.12={ birth=yes add_trait=creature_human }
 	297.6.16={ death=yes }
 }
@@ -11341,7 +11341,7 @@
 	399.2.9={ death=yes }
 }
 1339={
-	name=Jillia
+	name=Джиллиан
 	female=yes
 	dynasty=12
 	dna="kjkdfepilhd"
@@ -11393,7 +11393,7 @@
 	417.3.14={ death=yes }
 }
 1344={
-	name=Bradney
+	name=Брэдни
 	dynasty=12
 	dna="hkhgbocgbmg"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -11414,7 +11414,7 @@
 	458.12.13={ death=yes }
 }
 1346={
-	name=Landina
+	name=Ландина
 	female=yes
 	dynasty=12
 	dna="cdimijjgagl"
@@ -11424,7 +11424,7 @@
 	431.8.4={ death=yes }
 }
 1347={
-	name=Taylor
+	name=Тейлор
 	dynasty=12
 	dna="aoidojbgagd"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -11471,7 +11471,7 @@
 	dynasty=12
 	dna="dkjgbdapnpk"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
-	father=1344	#Bradney
+	father=1344	#Брэдни
 	378.6.4={ birth=yes add_trait=creature_human }
 	465.1.4={ death=yes }
 }
@@ -11481,7 +11481,7 @@
 	dynasty=12
 	dna="jkkinamkjhi"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
-	father=1344	#Bradney
+	father=1344	#Брэдни
 	384.2.18={ birth=yes add_trait=creature_human }
 	455.9.3={ death=yes }
 }
@@ -11491,18 +11491,18 @@
 	dynasty=12
 	dna="jfhgbobggmm"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
-	father=1344	#Bradney
+	father=1344	#Брэдни
 	390.6.24={ birth=yes add_trait=creature_human }
 	473.12.14={ death=yes }
 }
 1354={
-	name=Johan
+	name=Йохан
 	dynasty=12
 	dna="lkcgbocgbbm"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
 	martial=8 diplomacy=4 stewardship=8 intrigue=6 learning=7
 	add_trait=scholarly_theologian add_trait=trusting add_trait=cynical add_trait=cruel 
-	father=1344	#Bradney
+	father=1344	#Брэдни
 	398.11.2={ birth=yes add_trait=creature_human }
 	481.3.27={ death=yes }
 }
@@ -11514,7 +11514,7 @@
 	martial=5 diplomacy=8 stewardship=5 intrigue=6 learning=4
 	add_trait=naive_appeaser add_trait=cruel add_trait=trusting add_trait=charitable add_trait=lustful 
 	add_trait=gregarious add_trait=lunatic 
-	father=1354	#Johan
+	father=1354	#Йохан
 	430.5.22={ birth=yes add_trait=creature_human }
 	511.6.26={ death=yes }
 }
@@ -11526,7 +11526,7 @@
 	martial=4 diplomacy=7 stewardship=5 intrigue=5 learning=7
 	add_trait=intricate_webweaver add_trait=trusting add_trait=deceitful add_trait=gregarious add_trait=ambitious 
 	add_trait=craven 
-	father=1354	#Johan
+	father=1354	#Йохан
 	434.8.2={ birth=yes add_trait=creature_human }
 	507.12.2={ death=yes }
 }
@@ -11537,7 +11537,7 @@
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
 	martial=5 diplomacy=6 stewardship=6 intrigue=8 learning=4
 	add_trait=martial_cleric add_trait=shy add_trait=craven add_trait=lunatic 
-	father=1354	#Johan
+	father=1354	#Йохан
 	440.12.18={ birth=yes add_trait=creature_human }
 	506.3.29={ death=yes }
 }
@@ -11563,7 +11563,7 @@
 	524.1.26={ death=yes }
 }
 1360={
-	name=Joseph
+	name=Джозеф
 	dynasty=12
 	dna="oegbefgkbem"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -11686,7 +11686,7 @@
 	626.8.21={ death=yes }
 }
 1371={
-	name=Felita
+	name=Фелиция
 	female=yes
 	dynasty=12
 	dna="bfpbijciijg"
@@ -11723,7 +11723,7 @@
 		add_trait=class_shadow_priest_6
 	}
 	585.1.1={
-		death={ death_reason = death_murder_butchered killer = 5000 }	# Killed by Medivh
+		death={ death_reason = death_murder_butchered killer = 5000 }	# Killed by Медив
 	}
 }
 # Councilman Millstipe
@@ -11750,7 +11750,7 @@
 	650.7.8={ death=yes }
 }
 1376={
-	name=Jillia
+	name=Джиллиан
 	female=yes
 	dynasty=12
 	dna="aicmnkkhmgp"
@@ -11793,7 +11793,7 @@
 	684.9.1={ death=yes }
 }
 1380={
-	name=Catarina
+	name=Катарина
 	female=yes
 	dynasty=12
 	dna="gimiiiehmcm"
@@ -11813,7 +11813,7 @@
 	687.4.17={ death=yes }
 }
 1382={
-	name=Rose
+	name=Роза
 	female=yes
 	dynasty=12
 	dna="hfffceilgbe"
@@ -11834,7 +11834,7 @@
 	710.6.19={ death=yes }
 }
 1384={
-	name=Medivh
+	name=Медив
 	dynasty=12
 	dna="hkkncmnlgck"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -11845,7 +11845,7 @@
 	731.9.10={ death=yes }
 }
 1385={
-	name=Newton
+	name=Ньютон
 	dynasty=12
 	dna="hhagkiklkfa"
 	culture=azerothian religion=holy_light secret_religion=forsaken_cult
@@ -11866,7 +11866,7 @@
 	730.2.13={ death=yes }
 }
 1387={
-	name=Lucretia
+	name=Лукреция
 	female=yes
 	dynasty=12
 	dna="eokmiincgci"
@@ -11898,7 +11898,7 @@
 	88.11.11={ death=yes }
 }
 1401={
-	name=Medivh
+	name=Медив
 	dynasty=13
 	dna="cfaelmagokf"
 	culture=azerothian religion=holy_light
@@ -11939,7 +11939,7 @@
 	martial=7 diplomacy=7 stewardship=7 intrigue=4 learning=7
 	add_trait=detached_priest add_trait=mystic add_trait=deceitful add_trait=charitable add_trait=chaste 
 	add_trait=gregarious add_trait=harelip 
-	father=1401	#Medivh
+	father=1401	#Медив
 	49.2.23={ birth=yes add_trait=creature_human }
 	114.12.23={ death=yes }
 }
@@ -11950,7 +11950,7 @@
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=5 stewardship=5 intrigue=7 learning=7
 	add_trait=intricate_webweaver add_trait=charitable add_trait=paranoid add_trait=shy add_trait=just 
-	father=1401	#Medivh
+	father=1401	#Медив
 	53.9.5={ birth=yes add_trait=creature_human }
 	130.5.10={ death=yes }
 }
@@ -11961,7 +11961,7 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=8 stewardship=7 intrigue=5 learning=5
 	add_trait=charismatic_negotiator add_trait=cynical add_trait=gluttonous 
-	father=1401	#Medivh
+	father=1401	#Медив
 	59.8.26={ birth=yes add_trait=creature_human }
 	173.11.20={ death=yes }
 }
@@ -11988,7 +11988,7 @@
 	164.9.2={ death=yes }
 }
 1409={
-	name=Rose
+	name=Роза
 	female=yes
 	dynasty=13
 	dna="opblipagmie"
@@ -12041,7 +12041,7 @@
 	209.4.11={ death=yes }
 }
 1414={
-	name=Sean
+	name=Шон
 	dynasty=13
 	dna="kpdmjipagpe"
 	culture=azerothian religion=holy_light
@@ -12068,7 +12068,7 @@
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=4 stewardship=6 intrigue=8 learning=4
 	add_trait=naive_appeaser add_trait=slothful add_trait=charitable add_trait=gluttonous add_trait=shy 
-	father=1414	#Sean
+	father=1414	#Шон
 	146.11.20={ birth=yes add_trait=creature_human }
 	241.10.13={ death=yes }
 }
@@ -12079,7 +12079,7 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=8 stewardship=4 intrigue=7 learning=5
 	add_trait=misguided_warrior add_trait=deceitful add_trait=zealous add_trait=lustful 
-	father=1414	#Sean
+	father=1414	#Шон
 	152.1.4={ birth=yes add_trait=creature_human }
 	243.3.22={ death=yes }
 }
@@ -12089,7 +12089,7 @@
 	dynasty=13
 	dna="cndkgijappk"
 	culture=azerothian religion=holy_light
-	father=1414	#Sean
+	father=1414	#Шон
 	155.9.16={ birth=yes add_trait=creature_human }
 	227.3.25={ death=yes }
 }
@@ -12100,7 +12100,7 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=7 stewardship=5 intrigue=5 learning=7
 	add_trait=misguided_warrior add_trait=lustful add_trait=patient add_trait=cruel 
-	father=1414	#Sean
+	father=1414	#Шон
 	159.10.20={ birth=yes add_trait=creature_human }
 	238.12.31={ death=yes }
 }
@@ -12111,7 +12111,7 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=7 stewardship=6 intrigue=7 learning=8
 	add_trait=thrifty_clerk add_trait=kind add_trait=paranoid add_trait=slothful
-	father=1414	#Sean
+	father=1414	#Шон
 	163.8.26={ birth=yes add_trait=creature_human }
 	252.6.30={ death=yes }
 }
@@ -12321,7 +12321,7 @@
 	318.11.22={ death=yes }
 }
 1440={
-	name=Jillia
+	name=Джиллиан
 	female=yes
 	dynasty=13
 	dna="iopdanbjeah"
@@ -12432,7 +12432,7 @@
 	386.12.8={ death=yes }
 }
 1450={
-	name=Catarina
+	name=Катарина
 	female=yes
 	dynasty=13
 	dna="kdolkfglpfa"
@@ -12676,7 +12676,7 @@
 	526.9.10={ death=yes }
 }
 1473={
-	name=Gaiman
+	name=Гайман
 	dynasty=13
 	dna="ofelhjjdnka"
 	culture=azerothian religion=holy_light
@@ -12820,7 +12820,7 @@
 }
 # Lady Catriona Von'Indi
 1486={
-	name=Catriona
+	name=Катриона
 	female=yes
 	dynasty=13
 	dna="hpkhomghfjb"
@@ -12834,7 +12834,7 @@
 		add_trait=class_priest_6
 	}
 	585.1.1={
-		death={ death_reason = death_murder_butchered killer = 5000 }	# Killed by Medivh
+		death={ death_reason = death_murder_butchered killer = 5000 }	# Killed by Медив
 	}
 }
 1487={
@@ -12921,7 +12921,7 @@
 	dynasty=13
 	dna="hjhmpciifje"
 	culture=azerothian religion=holy_light
-	father=1490	#Taylor
+	father=1490	#Тейлор
 	603.11.12={ birth=yes add_trait=creature_human }
 	680.10.31={ death=yes }
 }
@@ -12933,17 +12933,17 @@
 	martial=8 diplomacy=8 stewardship=6 intrigue=5 learning=6
 	add_trait=misguided_warrior add_trait=diligent add_trait=lustful add_trait=cruel add_trait=just 
 	add_trait=charitable add_trait=trusting 
-	father=1490	#Taylor
+	father=1490	#Тейлор
 	608.2.22={ birth=yes add_trait=creature_human }
 	694.3.7={ death=yes }
 }
 1496={
-	name=Landina
+	name=Ландина
 	female=yes
 	dynasty=13
 	dna="geiljcgnpgb"
 	culture=azerothian religion=holy_light
-	father=1490	#Taylor
+	father=1490	#Тейлор
 	612.12.4={ birth=yes add_trait=creature_human }
 	708.11.4={ death=yes }
 }
@@ -12954,7 +12954,7 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=6 stewardship=6 intrigue=6 learning=8
 	add_trait=flamboyant_schemer add_trait=temperate add_trait=chaste add_trait=shy 
-	father=1490	#Taylor
+	father=1490	#Тейлор
 	619.11.12={ birth=yes add_trait=creature_human }
 	710.6.26={ death=yes }
 }
@@ -13081,7 +13081,7 @@
 	182.3.25={ death=yes }
 }
 1511={
-	name=Hesse
+	name=Гессе
 	dynasty=14
 	dna="mfkooeblnij"
 	culture=azerothian religion=holy_light
@@ -13092,7 +13092,7 @@
 	171.3.19={ death=yes }
 }
 1512={
-	name=Aldwin
+	name=Альдвин
 	dynasty=14
 	dna="mphijjemjii"
 	culture=azerothian religion=holy_light
@@ -13132,7 +13132,7 @@
 	martial=5 diplomacy=5 stewardship=4 intrigue=6 learning=7
 	add_trait=charismatic_negotiator add_trait=arbitrary add_trait=shy add_trait=proud add_trait=diligent 
 	add_trait=ambitious add_trait=stutter 
-	father=1512	#Aldwin
+	father=1512	#Альдвин
 	144.8.6={ birth=yes add_trait=creature_human }
 	211.1.12={ death=yes }
 }
@@ -13143,19 +13143,19 @@
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=7 stewardship=6 intrigue=6 learning=5
 	add_trait=mastermind_theologian add_trait=content add_trait=brave add_trait=lustful add_trait=humble 
-	father=1512	#Aldwin
+	father=1512	#Альдвин
 	149.6.20={ birth=yes add_trait=creature_human }
 	246.11.1={ death=yes }
 }
 1517={
-	name=Catriona
+	name=Катриона
 	dynasty=14
 	dna="mphidjlbdii"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=8 stewardship=6 intrigue=5 learning=4
 	add_trait=intricate_webweaver add_trait=hedonist add_trait=envious add_trait=wroth add_trait=zealous 
 	add_trait=cruel 
-	father=1512	#Aldwin
+	father=1512	#Альдвин
 	154.2.20={ birth=yes add_trait=creature_human }
 	271.9.22={ death=yes }
 }
@@ -13165,7 +13165,7 @@
 	dynasty=14
 	dna="mpcimjhmoij"
 	culture=azerothian religion=holy_light
-	father=1512	#Aldwin
+	father=1512	#Альдвин
 	160.6.19={ birth=yes add_trait=creature_human }
 	239.6.8={ death=yes }
 }
@@ -13176,7 +13176,7 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=8 stewardship=6 intrigue=4 learning=5
 	add_trait=charismatic_negotiator add_trait=deceitful add_trait=temperate add_trait=shy add_trait=envious 
-	father=1512	#Aldwin
+	father=1512	#Альдвин
 	165.11.8={ birth=yes add_trait=creature_human }
 	246.8.11={ death=yes }
 }
@@ -13188,7 +13188,7 @@
 	martial=7 diplomacy=8 stewardship=5 intrigue=6 learning=6
 	add_trait=detached_priest add_trait=poet add_trait=paranoid add_trait=deceitful add_trait=cruel 
 	add_trait=craven add_trait=depressed 
-	father=1512	#Aldwin
+	father=1512	#Альдвин
 	169.3.17={ birth=yes add_trait=creature_human }
 	248.11.18={ death=yes }
 }
@@ -13198,7 +13198,7 @@
 	dynasty=14
 	dna="fpmnjfkohhi"
 	culture=azerothian religion=holy_light
-	father=1512	#Aldwin
+	father=1512	#Альдвин
 	173.11.15={ birth=yes add_trait=creature_human }
 	244.2.12={ death=yes }
 }
@@ -13303,7 +13303,7 @@
 	301.6.8={ death=yes }
 }
 1531={
-	name=Redwald
+	name=Редвальд
 	dynasty=14
 	dna="nlhlimfmdog"
 	culture=azerothian religion=holy_light
@@ -13335,7 +13335,7 @@
 	304.6.17={ death=yes }
 }
 1534={
-	name=Newton
+	name=Ньютон
 	dynasty=14
 	dna="ceflnfpmiog"
 	culture=azerothian religion=holy_light
@@ -13347,7 +13347,7 @@
 	346.1.11={ death=yes }
 }
 1535={
-	name=Catriona
+	name=Катриона
 	dynasty=14
 	dna="nlklnpoipoc"
 	culture=azerothian religion=holy_light
@@ -13455,7 +13455,7 @@
 	381.1.10={ death=yes }
 }
 1545={
-	name=Lucretia
+	name=Лукреция
 	female=yes
 	dynasty=14
 	dna="nlhgnmlmpnb"
@@ -13530,7 +13530,7 @@
 	409.7.4={ death=yes }
 }
 1552={
-	name=Catriona
+	name=Катриона
 	dynasty=14
 	dna="ilnflfdmmia"
 	culture=azerothian religion=holy_light
@@ -13678,7 +13678,7 @@
 	490.11.20={ death=yes }
 }
 1565={
-	name=Lucretia
+	name=Лукреция
 	female=yes
 	dynasty=14
 	dna="pbccfedobgm"
@@ -13698,7 +13698,7 @@
 	501.10.24={ death=yes }
 }
 1567={
-	name=Joseph
+	name=Джозеф
 	dynasty=14
 	dna="mbeofnjmamn"
 	culture=azerothian religion=holy_light
@@ -13719,14 +13719,14 @@
 	521.9.21={ death=yes }
 }
 1569={
-	name=Catriona
+	name=Катриона
 	dynasty=14
 	dna="iblofajmkan"
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=7 stewardship=4 intrigue=5 learning=6
 	add_trait=misguided_warrior add_trait=zealous add_trait=honest add_trait=paranoid add_trait=gluttonous 
 	add_trait=humble 
-	father=1567	#Joseph
+	father=1567	#Джозеф
 	475.5.27={ birth=yes add_trait=creature_human }
 	541.11.3={ death=yes }
 }
@@ -13736,7 +13736,7 @@
 	dynasty=14
 	dna="mbmmbcpmman"
 	culture=azerothian religion=holy_light
-	father=1567	#Joseph
+	father=1567	#Джозеф
 	479.2.2={ birth=yes add_trait=creature_human }
 	559.1.9={ death=yes }
 }
@@ -13746,17 +13746,17 @@
 	dynasty=14
 	dna="jbeoikjmamm"
 	culture=azerothian religion=holy_light
-	father=1567	#Joseph
+	father=1567	#Джозеф
 	481.1.15={ birth=yes add_trait=creature_human }
 	544.7.28={ death=yes }
 }
 1572={
-	name=Velvet
+	name=Велвет
 	female=yes
 	dynasty=14
 	dna="gimdblndian"
 	culture=azerothian religion=holy_light
-	father=1567	#Joseph
+	father=1567	#Джозеф
 	484.7.23={ birth=yes add_trait=creature_human }
 	559.9.16={ death=yes }
 }
@@ -13768,7 +13768,7 @@
 	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=8
 	add_trait=detached_priest add_trait=poet add_trait=paranoid add_trait=proud add_trait=zealous 
 	add_trait=chaste 
-	father=1567	#Joseph
+	father=1567	#Джозеф
 	488.8.26={ birth=yes add_trait=creature_human }
 	584.6.11={ death=yes }
 }
@@ -13779,7 +13779,7 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=6 stewardship=7 intrigue=6 learning=6
 	add_trait=charismatic_negotiator add_trait=paranoid add_trait=gluttonous add_trait=gregarious add_trait=envious 
-	father=1567	#Joseph
+	father=1567	#Джозеф
 	493.4.3={ birth=yes add_trait=creature_human }
 	548.1.21={ death=yes }
 }
@@ -13791,7 +13791,7 @@
 	martial=7 diplomacy=5 stewardship=4 intrigue=8 learning=4
 	add_trait=detached_priest add_trait=just add_trait=deceitful add_trait=zealous add_trait=craven 
 	add_trait=cruel add_trait=humble 
-	father=1567	#Joseph
+	father=1567	#Джозеф
 	498.3.17={ birth=yes add_trait=creature_human }
 	590.8.25={ death=yes }
 }
@@ -13818,7 +13818,7 @@
 	578.8.7={ death=yes }
 }
 1578={
-	name=Redwald
+	name=Редвальд
 	dynasty=14
 	dna="bklljaomkmk"
 	culture=azerothian religion=holy_light
@@ -13910,7 +13910,7 @@
 	672.7.28={ death=yes }
 }
 1586={
-	name=Redwald
+	name=Редвальд
 	dynasty=14
 	dna="nhpcfedcaed"
 	culture=azerothian religion=holy_light
@@ -13921,7 +13921,7 @@
 	703.8.3={ death=yes }
 }
 1587={
-	name=Sean
+	name=Шон
 	dynasty=14
 	dna="jhhcfkdchfc"
 	culture=azerothian religion=holy_light
@@ -13933,7 +13933,7 @@
 	709.12.1={ death=yes }
 }
 1588={
-	name=Frotlina
+	name=Фротлина
 	female=yes
 	dynasty=14
 	dna="ohccceaaclo"
@@ -13943,7 +13943,7 @@
 	709.10.15={ death=yes }
 }
 1589={
-	name=Aldous
+	name=Альдус
 	dynasty=14
 	dna="hhjcaedkpac"
 	culture=azerothian religion=holy_light
@@ -13966,7 +13966,7 @@
 	705.4.27={ death=yes }
 }
 1591={
-	name=Allison
+	name=Эллисон
 	dynasty=14
 	dna="hklcbedjclk"
 	culture=azerothian religion=holy_light
@@ -14164,7 +14164,7 @@
 
 #dynasty=31
 5000 = {
-	name=Medivh
+	name=Медив
 	dynasty=31
 	dna="aaffhdnbkfn"
 	father=5001
@@ -14527,7 +14527,7 @@
 	286.3.16={ death=yes }
 }
 5128={
-	name=Ardwyn
+	name=Ардвина
 	female=yes
 	dynasty=34
 	dna="kiglkmchcdh"
@@ -14547,7 +14547,7 @@
 	303.6.23={ death=yes }
 }
 5130={
-	name=Newton
+	name=Ньютон
 	dynasty=34
 	dna="fndjlmckbjk"
 	culture=azerothian religion=holy_light
@@ -14690,7 +14690,7 @@
 	400.12.16={ death=yes }
 }
 5143={
-	name=Newton
+	name=Ньютон
 	dynasty=34
 	dna="gndofegcodp"
 	culture=azerothian religion=holy_light
@@ -14732,7 +14732,7 @@
 	440.12.23={ death=yes }
 }
 5147={
-	name=Johan
+	name=Йохан
 	dynasty=34
 	dna="jdkkpegdhah"
 	culture=azerothian religion=holy_light
@@ -14753,7 +14753,7 @@
 	436.12.4={ death=yes }
 }
 5149={
-	name=Sean
+	name=Шон
 	dynasty=34
 	dna="aakebkplabd"
 	culture=azerothian religion=holy_light
@@ -14781,7 +14781,7 @@
 	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=4
 	add_trait=tough_soldier add_trait=diligent add_trait=chaste add_trait=trusting add_trait=humble 
 	add_trait=kind add_trait=drunkard
-	father=5147	#Johan
+	father=5147	#Йохан
 	388.7.15={ birth=yes add_trait=creature_human }
 	478.1.26={ death=yes }
 }
@@ -14793,7 +14793,7 @@
 	martial=5 diplomacy=4 stewardship=4 intrigue=6 learning=7
 	add_trait=grey_eminence add_trait=just add_trait=zealous add_trait=craven add_trait=gregarious 
 	add_trait=wroth add_trait=cruel 
-	father=5147	#Johan
+	father=5147	#Йохан
 	392.4.19={ birth=yes add_trait=creature_human }
 	499.11.11={ death=yes }
 }
@@ -14804,7 +14804,7 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=5
 	add_trait=elusive_shadow add_trait=gregarious add_trait=slothful add_trait=chaste add_trait=content 
-	father=5147	#Johan
+	father=5147	#Йохан
 	397.7.7={ birth=yes add_trait=creature_human }
 	470.1.21={ death=yes }
 }
@@ -14815,17 +14815,17 @@
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=8 stewardship=5 intrigue=4 learning=7
 	add_trait=detached_priest add_trait=greedy add_trait=slothful add_trait=envious add_trait=trusting 
-	father=5147	#Johan
+	father=5147	#Йохан
 	401.3.18={ birth=yes add_trait=creature_human }
 	507.2.20={ death=yes }
 }
 5155={
-	name=Rose
+	name=Роза
 	female=yes
 	dynasty=34
 	dna="fokicggdhbh"
 	culture=azerothian religion=holy_light
-	father=5147	#Johan
+	father=5147	#Йохан
 	405.3.4={ birth=yes add_trait=creature_human }
 	496.11.9={ death=yes }
 }
@@ -14836,7 +14836,7 @@
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=7 stewardship=6 intrigue=5 learning=4
 	add_trait=elusive_shadow add_trait=wroth add_trait=zealous add_trait=diligent add_trait=chaste 
-	father=5147	#Johan
+	father=5147	#Йохан
 	408.10.12={ birth=yes add_trait=creature_human }
 	477.11.12={ death=yes }
 }
@@ -14846,7 +14846,7 @@
 	dynasty=34
 	dna="jdkkieodpak"
 	culture=azerothian religion=holy_light
-	father=5147	#Johan
+	father=5147	#Йохан
 	411.5.7={ birth=yes add_trait=creature_human }
 	511.3.31={ death=yes }
 }
@@ -14893,7 +14893,7 @@
 	520.7.16={ death=yes }
 }
 5162={
-	name=Jillia
+	name=Джиллиан
 	female=yes
 	dynasty=34
 	dna="jglkgefdhah"
@@ -15035,7 +15035,7 @@
 	582.10.5={ death=yes }
 }
 5175={
-	name=Gaiman
+	name=Гайман
 	dynasty=34
 	dna="dkejdcejedi"
 	culture=azerothian religion=holy_light
@@ -15217,7 +15217,7 @@
 	230.9.3={ death=yes }
 }
 5509={
-	name=Aldwin
+	name=Альдвин
 	dna="hpbkhoplncf"
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=5 stewardship=7 intrigue=4 learning=4
@@ -15239,7 +15239,7 @@
 	225.10.13={ death=yes }
 }
 5511={
-	name=Johan
+	name=Йохан
 	dna="hpbkepmlile"
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=4 stewardship=8 intrigue=6 learning=8
@@ -15250,7 +15250,7 @@
 	258.4.14={ death=yes }
 }
 5512={
-	name=Sean
+	name=Шон
 	dna="hhbcpplcboi"
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=5 stewardship=4 intrigue=8 learning=6
@@ -15270,7 +15270,7 @@
 	279.12.12={ death=yes }
 }
 5514={
-	name=Catarina
+	name=Катарина
 	female=yes
 	dna="dnbfeoocnni"
 	culture=azerothian religion=holy_light
@@ -15284,7 +15284,7 @@
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=5 stewardship=6 intrigue=8 learning=5
 	add_trait=grey_eminence add_trait=shy add_trait=cruel add_trait=slothful add_trait=depressed 
-	father=5512	#Sean
+	father=5512	#Шон
 	278.6.8={ birth=yes add_trait=creature_human }
 	372.7.19={ death=yes }
 }
@@ -15294,7 +15294,7 @@
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=5 stewardship=7 intrigue=5 learning=5
 	add_trait=naive_appeaser add_trait=charitable add_trait=paranoid add_trait=honest add_trait=cruel 
-	father=5512	#Sean
+	father=5512	#Шон
 	277.6.17={ birth=yes add_trait=creature_human }
 	334.12.20={ death=yes }
 }
@@ -15303,7 +15303,7 @@
 	female=yes
 	dna="ohbnjplbnod"
 	culture=azerothian religion=holy_light
-	father=5512	#Sean
+	father=5512	#Шон
 	274.9.14={ birth=yes add_trait=creature_human }
 	348.9.30={ death=yes }
 }
@@ -15312,7 +15312,7 @@
 	female=yes
 	dna="hhbcphlfooa"
 	culture=azerothian religion=holy_light
-	father=5512	#Sean
+	father=5512	#Шон
 	273.9.6={ birth=yes add_trait=creature_human }
 	341.12.24={ death=yes }
 }
@@ -15337,7 +15337,7 @@
 	410.9.11={ death=yes }
 }
 5521={
-	name=Fastrada
+	name=Фастрада
 	female=yes
 	dna="mepcekecmdj"
 	culture=azerothian religion=holy_light
@@ -15413,7 +15413,7 @@
 	522.10.10={ death=yes }
 }
 5529={
-	name=Augustus
+	name=Август
 	dna="gkmehphfklo"
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=6 stewardship=8 intrigue=6 learning=4
@@ -15591,7 +15591,7 @@
 	184.6.24={ death=yes }
 }
 5561={
-	name=Hesse
+	name=Гессе
 	dna="icebpoodmod"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=4 stewardship=8 intrigue=5 learning=6
@@ -15751,7 +15751,7 @@
 	447.1.4={ death=yes }
 }
 5578={
-	name=Barks
+	name=Баркс
 	dna="kijebflknbf"
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=5 stewardship=4 intrigue=8 learning=4
@@ -15829,7 +15829,7 @@
 	585.12.16={ death=yes }
 }
 5586={
-	name=Gaiman
+	name=Гайман
 	dna="mhflnjeapdo"
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=8 stewardship=6 intrigue=8 learning=5
@@ -15844,7 +15844,7 @@
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=8 stewardship=5 intrigue=7 learning=7
 	add_trait=midas_touched add_trait=diligent add_trait=just add_trait=lustful add_trait=brave 
-	father=5586	#Gaiman
+	father=5586	#Гайман
 	583.4.25={ birth=yes add_trait=creature_human }
 	661.9.3={ death=yes }
 }
@@ -15853,7 +15853,7 @@
 	female=yes
 	dna="mmmlnpeopao"
 	culture=azerothian religion=holy_light
-	father=5586	#Gaiman
+	father=5586	#Гайман
 	578.7.25={ birth=yes add_trait=creature_human }
 	666.11.27={ death=yes }
 }
@@ -15863,7 +15863,7 @@
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=4 stewardship=6 intrigue=6 learning=8
 	add_trait=midas_touched add_trait=cynical add_trait=shy 
-	father=5586	#Gaiman
+	father=5586	#Гайман
 	574.1.4={ birth=yes add_trait=creature_human }
 	667.12.14={ death=yes }
 }
@@ -15872,7 +15872,7 @@
 	female=yes
 	dna="jihlbceakbo"
 	culture=azerothian religion=holy_light
-	father=5586	#Gaiman
+	father=5586	#Гайман
 	571.10.12={ birth=yes add_trait=creature_human }
 	655.6.4={ death=yes }
 }
@@ -16046,7 +16046,7 @@
 	339.1.8={ death=yes }
 }
 5617={
-	name=Redwald
+	name=Редвальд
 	dna="elblaaanlpj"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=8 stewardship=5 intrigue=6 learning=8
@@ -16184,7 +16184,7 @@
 	502.4.23={ death=yes }
 }
 5631={
-	name=Brian
+	name=Брайан
 	dna="iikcofnhcnj"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=4 stewardship=8 intrigue=6 learning=5
@@ -16212,7 +16212,7 @@
 	593.2.20={ death=yes }
 }
 5634={
-	name=Frotlina
+	name=Фротлина
 	female=yes
 	dna="kgncldpbnmn"
 	culture=azerothian religion=holy_light
@@ -16227,17 +16227,17 @@
 	martial=7 diplomacy=6 stewardship=4 intrigue=7 learning=8
 	add_trait=elusive_shadow add_trait=greedy add_trait=humble add_trait=ambitious add_trait=kind 
 	add_trait=wroth add_trait=stressed 
-	father=5631	#Brian
+	father=5631	#Брайан
 	587.5.8={ birth=yes add_trait=creature_human }
 	665.2.17={ death=yes }
 }
 5636={
-	name=Gaiman
+	name=Гайман
 	dna="pikcpfnhkhj"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=8 stewardship=7 intrigue=4 learning=5
 	add_trait=charismatic_negotiator add_trait=chaste add_trait=deceitful add_trait=brave add_trait=trusting 
-	father=5631	#Brian
+	father=5631	#Брайан
 	582.11.17={ birth=yes add_trait=creature_human }
 	649.2.11={ death=yes }
 }
@@ -16247,14 +16247,14 @@
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=6 stewardship=6 intrigue=5 learning=6
 	add_trait=charismatic_negotiator add_trait=zealous add_trait=cruel 
-	father=5631	#Brian
+	father=5631	#Брайан
 	578.11.14={ birth=yes add_trait=creature_human }
 	676.11.4={ death=yes }
 }
 
 # c_gold_coast
 5650={
-	name=Joseph
+	name=Джозеф
 	dna="cgophpoldja"
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=5
@@ -16267,16 +16267,16 @@
 	female=yes
 	dna="cffahipbdjp"
 	culture=azerothian religion=holy_light
-	father=5650	#Joseph
+	father=5650	#Джозеф
 	68.10.1={ birth=yes add_trait=creature_human }
 	135.8.26={ death=yes }
 }
 5652={
-	name=Felita
+	name=Фелиция
 	female=yes
 	dna="bgidgpogdga"
 	culture=azerothian religion=holy_light
-	father=5650	#Joseph
+	father=5650	#Джозеф
 	67.8.13={ birth=yes add_trait=creature_human }
 	165.8.31={ death=yes }
 }
@@ -16286,7 +16286,7 @@
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=6 stewardship=6 intrigue=5 learning=7
 	add_trait=charismatic_negotiator add_trait=proud add_trait=content add_trait=temperate add_trait=deceitful 
-	father=5650	#Joseph
+	father=5650	#Джозеф
 	64.11.6={ birth=yes add_trait=creature_human }
 	146.9.29={ death=yes }
 }
@@ -16338,7 +16338,7 @@
 	242.7.6={ death=yes }
 }
 5659={
-	name=Augustus
+	name=Август
 	dna="gfpaopifmhe"
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=6 stewardship=6 intrigue=7 learning=6
@@ -16349,7 +16349,7 @@
 	270.8.2={ death=yes }
 }
 5660={
-	name=Bradney
+	name=Брэдни
 	dna="gpelopifmpe"
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=6 stewardship=8 intrigue=5 learning=7
@@ -16381,12 +16381,12 @@
 	327.4.28={ death=yes }
 }
 5663={
-	name=Bradney
+	name=Брэдни
 	dna="mleijjifmfc"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=4 stewardship=7 intrigue=8 learning=4
 	add_trait=flamboyant_schemer add_trait=gregarious add_trait=proud 
-	father=5660	#Bradney
+	father=5660	#Брэдни
 	310.12.1={ birth=yes add_trait=creature_human }
 	377.3.19={ death=yes }
 }
@@ -16395,7 +16395,7 @@
 	female=yes
 	dna="gpelopkmmpe"
 	culture=azerothian religion=holy_light
-	father=5660	#Bradney
+	father=5660	#Брэдни
 	305.9.27={ birth=yes add_trait=creature_human }
 	367.4.23={ death=yes }
 }
@@ -16405,17 +16405,17 @@
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=7 stewardship=8 intrigue=8 learning=6
 	add_trait=misguided_warrior add_trait=arbitrary add_trait=cynical add_trait=stressed 
-	father=5660	#Bradney
+	father=5660	#Брэдни
 	302.8.11={ birth=yes add_trait=creature_human }
 	375.9.16={ death=yes }
 }
 5666={
-	name=Augustus
+	name=Август
 	dna="eleijcifmnb"
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=4 stewardship=7 intrigue=4 learning=6
 	add_trait=martial_cleric add_trait=proud add_trait=temperate add_trait=cruel add_trait=craven 
-	father=5663	#Bradney
+	father=5663	#Брэдни
 	376.4.7={ birth=yes add_trait=creature_human }
 	438.3.1={ death=yes }
 }
@@ -16424,12 +16424,12 @@
 	female=yes
 	dna="mleleclfmfc"
 	culture=azerothian religion=holy_light
-	father=5663	#Bradney
+	father=5663	#Брэдни
 	372.2.1={ birth=yes add_trait=creature_human }
 	447.9.15={ death=yes }
 }
 5668={
-	name=Kenata
+	name=Кената
 	female=yes
 	dna="eleakcipmbm"
 	culture=azerothian religion=holy_light
@@ -16447,7 +16447,7 @@
 	540.8.5={ death=yes }
 }
 5670={
-	name=Frotlina
+	name=Фротлина
 	female=yes
 	dna="enljgcifmnm"
 	culture=azerothian religion=holy_light
@@ -16466,7 +16466,7 @@
 	516.6.19={ death=yes }
 }
 5672={
-	name=Ardwyn
+	name=Ардвина
 	female=yes
 	dna="jlhlmiafmnb"
 	culture=azerothian religion=holy_light
@@ -16475,7 +16475,7 @@
 	498.12.19={ death=yes }
 }
 5673={
-	name=Johan
+	name=Йохан
 	dna="enoibfmgdpo"
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=8 stewardship=4 intrigue=5 learning=5
@@ -16521,23 +16521,23 @@
 	martial=4 diplomacy=8 stewardship=4 intrigue=5 learning=5
 	add_trait=misguided_warrior add_trait=cruel add_trait=slothful add_trait=charitable add_trait=craven 
 	add_trait=stressed
-	father=5673	#Johan
+	father=5673	#Йохан
 	563.1.8={ birth=yes add_trait=creature_human }
 	635.1.31={ death=yes }
 }
 5678={
-	name=Rose
+	name=Роза
 	female=yes
 	dna="enihjdmgmpo"
 	culture=azerothian religion=holy_light
-	father=5673	#Johan
+	father=5673	#Йохан
 	560.4.1={ birth=yes add_trait=creature_human }
 	648.2.8={ death=yes }
 }
 
 # c_mortwakes_tower
 5750={
-	name=Newton
+	name=Ньютон
 	dna="ckijbdkanjm"
 	culture=azerothian religion=holy_light
 	martial=6 diplomacy=5 stewardship=6 intrigue=7 learning=5
@@ -16578,7 +16578,7 @@
 	158.11.17={ death=yes }
 }
 5754={
-	name=Velvet
+	name=Велвет
 	female=yes
 	dna="ckijgokpkob"
 	culture=azerothian religion=holy_light
@@ -16616,7 +16616,7 @@
 	221.9.4={ death=yes }
 }
 5758={
-	name=Aldwin
+	name=Альдвин
 	dna="gkdeidamgjo"
 	culture=azerothian religion=holy_light
 	martial=7 diplomacy=4 stewardship=5 intrigue=5 learning=8
@@ -16665,7 +16665,7 @@
 	261.7.12={ death=yes }
 }
 5763={
-	name=Joseph
+	name=Джозеф
 	dna="mgnebllpegl"
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=4 stewardship=8 intrigue=7 learning=6
@@ -16715,7 +16715,7 @@
 	339.3.5={ death=yes }
 }
 5768={
-	name=Augustus
+	name=Август
 	dna="gpfgddhhmdf"
 	culture=azerothian religion=holy_light
 	martial=4 diplomacy=5 stewardship=5 intrigue=6 learning=6
@@ -16743,7 +16743,7 @@
 	379.2.21={ death=yes }
 }
 5771={
-	name=Newton
+	name=Ньютон
 	dna="deiecoplela"
 	culture=azerothian religion=holy_light
 	martial=8 diplomacy=6 stewardship=6 intrigue=8 learning=4
@@ -16802,7 +16802,7 @@
 	537.5.27={ death=yes }
 }
 5777={
-	name=Johan
+	name=Йохан
 	dna="mpgonhhhdkl"
 	culture=azerothian religion=holy_light
 	martial=5 diplomacy=5 stewardship=8 intrigue=4 learning=5
