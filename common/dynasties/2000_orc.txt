@@ -1,6 +1,6 @@
 # blackrock
 2000 = {
-	name = "Blackhand"
+	name = "Чернорук"
 	culture = blackrock
 	coat_of_arms = {
 		religion = orcish_shamanism
@@ -15,19 +15,19 @@
 		}
 	}
 }
-2001 = {name = "Doomhammer" culture = blackrock} # Warchief of the Horde
-2002 = {name = "Battlefang" culture = blackrock religion = orcish_shamanism} # Not really lore void undead rulers of Crestfall
+2001 = {name = "Молот Рока" culture = blackrock} # Warchief of the Horde
+2002 = {name = "Боевой Клык" culture = blackrock religion = orcish_shamanism} # Not really lore void undead rulers of Crestfall
 
-2003 = {name = "Laughingrunner" culture = blackrock}
-2004 = {name = "Goreslayer" culture = blackrock}
+2003 = {name = "Веселый Гонец" culture = blackrock}
+2004 = {name = "Кровный Убийца" culture = blackrock}
 2005 = {name = "Noselash" culture = blackrock}
-2006 = {name = "Frostcrusher" culture = blackrock}
-2007 = {name = "Rockbinder" culture = blackrock}
+2006 = {name = "Ледяной Крушитель" culture = blackrock}
+2007 = {name = "Каменный Молот" culture = blackrock}
 2008 = {name = "Noserunner" culture = blackrock}
-2009 = {name = "Wolfcleaver" culture = blackrock}
+2009 = {name = "Волчий Тесак" culture = blackrock}
 2010 = {name = "Burningbleeder" culture = blackrock}
-2011 = {name = "Rageblade" culture = blackrock}
-2012 = {name = "Stoneaxe" culture = blackrock}
+2011 = {name = "Клинок Ярости" culture = blackrock}
+2012 = {name = "Каменный Топор" culture = blackrock}
 2013 = {name = "Ragebleeder" culture = blackrock}
 2014 = {name = "Thunderfury" culture = blackrock}
 2015 = {name = "Tuskbleeder" culture = blackrock}
